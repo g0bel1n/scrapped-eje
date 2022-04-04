@@ -4,7 +4,9 @@ Mission 2638
 
 ## To-do List:
 
-[x] Benchmark Vinted
-[] Scrapping Vinted
-[x] Benchmark Vestiaire Collective
-[] Scrapping Vinted
+-[x] Benchmark Vinted
+-[x] Scrapping Vinted
+-[x] Benchmark Vestiaire Collective
+-[x] Scrapping Vinted
+-[] Classification ternaire des marques
+-[] Stat des
