@@ -1,7 +1,9 @@
 import argparse
 from ast import arg
+from ctypes import Union
 from logging import RootLogger
 from pathlib import Path
+from typing import Union
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
@@ -34,20 +36,22 @@ def main():
     parser.add_argument('--n', type=int, default=2,help='Number of items to search')
     parser.add_argument('--s', type=str, default='pull en laine',help='Search query')
     parser.add_argument('--fn', type=str, default='vinted',help='name of the output CSV file')
+    parser.add_argument('--url', type=str, default=None,help='special url')
     args = parser.parse_args()
-    args.s = args.s.replace(' ', '&')
+    args.s = args.s.replace(' ', '%20')
 
     start = time.time()
-    n = runVintedScrapping(n=args.n, query = args.s, filename= args.fn)
+    n = runVintedScrapping(n=args.n, query = args.s, filename= args.fn, spec_url = args.url)
     duration = time.time()-start
-    logger.info(f'Scrapped {n} items in {duration} seconds. ({str(duration/n).split(".")[0]} seconds per it)')
+    logger.info(f'Scrapped {n} items in {duration%60} minutes. ({str(duration/n).split(".")[0]} seconds per it)')
     
 
-def runVintedScrapping(n: int, query: str, filename: str):
+def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
 
     driver = webdriver.Chrome()
     pageNumber=1
-    base_url = f'https://www.vinted.fr/vetements?search_text={query}&page='
+    if spec_url is None : base_url = f'https://www.vinted.fr/vetements?search_text={query}&page='
+    else : base_url = spec_url +'&page='
     driver.get(base_url+str(pageNumber))
     colsInDetailsList = ['ÉTAT', 'NOMBRE DE VUES', 'EMPLACEMENT', 'MARQUE','TAILLE','AJOUTÉ']
     data = {colName : [] for colName in colsInDetailsList+['nom', 'prix', 'description']}
@@ -62,7 +66,7 @@ def runVintedScrapping(n: int, query: str, filename: str):
             dictVal = {title.text : value.text for title, value in zip(titles, values)}
             for col in colsInDetailsList:
                 data[col].append(dictVal[col] if col in dictVal else np.nan)
-                
+
             data['prix'].append(driver.find_element(by=By.XPATH, value="//div[@itemtype='http://schema.org/Offer']/span[@itemprop='price']").text)
             data['nom'].append(driver.find_element(by=By.XPATH, value="//div[@itemprop='name']").text)
             data['description'].append(driver.find_element(by=By.XPATH, value="//div[@itemprop='description']").text)
@@ -70,10 +74,11 @@ def runVintedScrapping(n: int, query: str, filename: str):
             if len(data['MARQUE'])>n: break
         pageNumber+=1
         driver.get(base_url+str(pageNumber))
+    driver.close()
     
     df = pd.DataFrame(data)
     preprocessing(df)
-    df.to_csv(f'./scrapped/src/data/{filename}.csv')
+    df.to_csv(f'./scrapped/src/data/raw/{filename}.csv')
     return len(data['description'])
 
 if __name__=='__main__':

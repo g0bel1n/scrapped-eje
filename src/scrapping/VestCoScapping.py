@@ -36,12 +36,12 @@ def main():
     parser.add_argument('--s', type=str, default='jean',help='Search query')
     parser.add_argument('--fn', type=str, default='vestco',help='name of the output CSV file')
     args = parser.parse_args()
-    args.s = args.s.replace(' ', '&')
+    args.s = args.s.replace(' ', '%20')
 
     start = time.time()
     n = runVintedScrapping(n=args.n, query = args.s, filename= args.fn)
     duration = time.time()-start
-    logger.info(f'Scrapped {n} items in {duration} seconds. ({str(duration/n).split(".")[0]} seconds per it)')
+    logger.info(f'Scrapped {n} items in {duration%60} minutes. ({str(duration/n).split(".")[0]} seconds per it)')
     
 
 def runVintedScrapping(n: int, query: str, filename: str):
@@ -50,7 +50,7 @@ def runVintedScrapping(n: int, query: str, filename: str):
     pageNumber=1
     url = f'https://fr.vestiairecollective.com/search/p-{pageNumber}/?q={query}'
     driver.get(url)
-    driver.implicitly_wait(2)
+    driver.implicitly_wait(3)
     colsInDetailsList = ['État', 'Designer','Taille','En ligne depuis le']
     data = {colName : [] for colName in colsInDetailsList+['nom', 'prix']}
 
@@ -79,7 +79,7 @@ def runVintedScrapping(n: int, query: str, filename: str):
         driver.get(f'https://fr.vestiairecollective.com/search/p-{pageNumber}/?q={query}')
     driver.close()
     df = pd.DataFrame(data)
-    df.to_csv(f'./scrapped/src/data/{filename}.csv')
+    df.to_csv(f'./scrapped/src/data/raw/{filename}.csv')
     return len(data['nom'])
 
 if __name__=='__main__':
