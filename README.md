@@ -8,5 +8,5 @@ Mission 2638
 - [x] Scrapping Vinted
 - [x] Benchmark Vestiaire Collective
 - [x] Scrapping Vinted
-- [] Classification ternaire des marques
-- [] Stats
+- [ ] Classification ternaire des marques
+- [ ] Stats
