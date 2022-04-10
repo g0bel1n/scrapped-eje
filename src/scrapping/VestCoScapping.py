@@ -41,7 +41,7 @@ def main():
     start = time.time()
     n = runVintedScrapping(n=args.n, query = args.s, filename= args.fn)
     duration = time.time()-start
-    logger.info(f'Scrapped {n} items in {duration%60} minutes. ({str(duration/n).split(".")[0]} seconds per it)')
+    logger.info(f'Scrapped {n} items in {duration/60.} minutes. ({str(duration/n).split(".")[0]} seconds per it)')
     
 
 def runVintedScrapping(n: int, query: str, filename: str):
@@ -59,20 +59,25 @@ def runVintedScrapping(n: int, query: str, filename: str):
         links = [elem.get_attribute('href') for elem in elements]
         for link in links:
             driver.get(link)
-            titles = driver.find_elements(by=By.CSS_SELECTOR, value="span.product-description-list_descriptionList__property__21dco")
-            values = driver.find_elements(by=By.CSS_SELECTOR, value="span.product-description-list_descriptionList__value__J3Z9l")
-            dictVal = {title.get_attribute("textContent") : value.get_attribute("textContent") for title, value in zip(titles, values)}
+            driver.implicitly_wait(1)
+            if driver.current_url.endswith('shtml'):
+                description = driver.find_element(by=By.CLASS_NAME, value="product-seller-description_sellerDescription__SnSkU").get_attribute("textContent")
             
-            for col in colsInDetailsList:
-                data[col].append(dictVal[col+' :'] if col+' :'  in dictVal else np.nan)
 
-            try :
-                prix = driver.find_element(by=By.CLASS_NAME, value="product-price_productPrice__price--promo__Cxs_S").text
-            except NoSuchElementException:
-                prix = driver.find_element(by=By.CLASS_NAME, value="product-price_productPrice__Uq0dh").text
+                titles = driver.find_elements(by=By.CSS_SELECTOR, value="span.product-description-list_descriptionList__property__21dco")
+                values = driver.find_elements(by=By.CSS_SELECTOR, value="span.product-description-list_descriptionList__value__J3Z9l")
+                dictVal = {title.get_attribute("textContent") : value.get_attribute("textContent") for title, value in zip(titles, values)}
+                
+                for col in colsInDetailsList:
+                    data[col].append(dictVal[col+' :'] if col+' :'  in dictVal else np.nan)
 
-            data['prix'].append(prix)
-            data['nom'].append(driver.find_element(by=By.CLASS_NAME, value="product-seller-description_sellerDescription__SnSkU").get_attribute("textContent"))
+                try :
+                    prix = driver.find_element(by=By.CLASS_NAME, value="product-price_productPrice__price--promo__Cxs_S").text
+                except NoSuchElementException:
+                    prix = driver.find_element(by=By.CLASS_NAME, value="product-price_productPrice__Uq0dh").text
+
+                data['prix'].append(prix)
+                data['nom'].append(driver.find_element(by=By.CLASS_NAME, value="product-seller-description_sellerDescription__SnSkU").get_attribute("textContent"))
 
             if len(data['Designer'])>n: break
         pageNumber+=1

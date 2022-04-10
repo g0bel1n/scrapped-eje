@@ -43,7 +43,7 @@ def main():
     start = time.time()
     n = runVintedScrapping(n=args.n, query = args.s, filename= args.fn, spec_url = args.url)
     duration = time.time()-start
-    logger.info(f'Scrapped {n} items in {duration%60} minutes. ({str(duration/n).split(".")[0]} seconds per it)')
+    logger.info(f'Scrapped {n} items in {duration/60.} minutes. ({str(duration/n).split(".")[0]} seconds per it)')
     
 
 def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
@@ -67,7 +67,7 @@ def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
             for col in colsInDetailsList:
                 data[col].append(dictVal[col] if col in dictVal else np.nan)
 
-            data['prix'].append(driver.find_element(by=By.XPATH, value="//div[@itemtype='http://schema.org/Offer']/span[@itemprop='price']").text)
+            data['prix'].append(driver.find_element(by=By.XPATH, value="//div[@class='u-flexbox u-justify-content-between']/h1[@class='Text_text__QBn4- Text_heading__gV4um Text_left__3s3CR']").text)
             data['nom'].append(driver.find_element(by=By.XPATH, value="//div[@itemprop='name']").text)
             data['description'].append(driver.find_element(by=By.XPATH, value="//div[@itemprop='description']").text)
 

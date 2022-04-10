@@ -1,235 +1,243 @@
-,État,Marque,Date,nom,Prix,Description
-0,TRÈS BON ÉTAT,MONDAY DENIM ,2022-04-04,Jean femme taille 38 très bon état push up,8.0,"Jean femme taille 38 très bon état Push up
-Long total 97 cm entre jambe 77 cm bas des jambes 13 cm largeur taille a plat prit d un coter 38 cm avec elastane"
-1,TRÈS BON ÉTAT,SALSA ,2022-04-04,Jean femme salsa life taille 36 Très bon état,8.0,Jean femme taille 36 salsa life largeur taille a plat prit d un coter 37 cm avec elastane long total 104 cm entre jambe 86 cm bas de la jambe 14 cm
-2,TRÈS BON ÉTAT,MANGO ,2022-03-30,Jean mom femme,12.0,"Bonjour,
-Article très peu porté et en parfait état. Aucun défaut, aucune couture qui dépasse.
-N’hésitez pas à venir m’envoyer un message privé."
-3,NEUF SANS ÉTIQUETTE,LEVI'S ,2022-04-04,Jean Levis 629 bootcut,17.0,"Jean Neuf sans étiquettes, jamais porté"
-4,TRÈS BON ÉTAT,ZARA ,2022-04-04,Jean kaki Zara taille 38 très bon état,8.0,"Jean femme kaki Zara taille 38 très bon état
-Long total 98 cm et entre jambe 71 cm bas des jambes 12 cm largeur taille a plat prit d un coter 35 cm avec elastane"
-5,TRÈS BON ÉTAT,SALSA ,2022-04-04,Jean femme taille 38 salsa life TBE,9.0,"Jean femme taille 38 salsa life très bon état
-Larg taille prit à plat d un coter 37 cm long total 106 cm entre jambe 81cm bas des jambes 15 cm largeur haut des cuisses prit à plat d un coter 24 cm avec elastane"
-6,BON ÉTAT,BOUTIQUE INDÉPENDANTE ,2022-04-04,Jean femme taille 34 très bon état,7.0,Jean femme taille 34 très bon état largeur taille prit à plat d un coter 33 cm long total 91 cm entre jambe 71 cm bas des jambes 14 cm
-7,TRÈS BON ÉTAT,SALSA ,2022-04-04,Jean femme taille 36 très bon état salsa life,9.0,Jean femme taille 36 très bon état salsa life largeur taille prit à plat d un coter 35 cm avec elastane long total 100 cm ziper en bas coter entre jambe 77 cm bas des jambes 14 cm largeur haut des cuisses prit à plat d un coter 24 cm quasiment Neuf
-13,NEUF SANS ÉTIQUETTE,LEVI'S ,2022-04-04,Jean Lévis,20.0,jean Lévis neuf jamais porté taille 32/32
-14,NEUF SANS ÉTIQUETTE,LEVI'S ,2022-04-04,Jean Lévis neuf,20.0,Jean Lévis gris couleur rare neuf
-15,NEUF AVEC ÉTIQUETTE,MANGO ,2022-03-16,Jean neuf,8.0,"jean mango 
-neuf avec étiquette 
-taille 32"
-16,TRÈS BON ÉTAT,LEVI'S ,2022-04-04,Jean Lévis 571 W26,39.0,"jean Lévis 571 slim fit 
+,État,Marque,Date,nom,Prix,Description,keep,cat
+0,TRÈS BON ÉTAT,MONDAY DENIM,2022-04-04,JEAN FEMME TAILLE 38 TRÈS BON ÉTAT PUSH UP,8.0,"JEAN FEMME TAILLE 38 TRÈS BON ÉTAT PUSH UP
+LONG TOTAL 97 CM ENTRE JAMBE 77 CM BAS DES JAMBES 13 CM LARGEUR TAILLE A PLAT PRIT D UN COTER 38 CM AVEC ELASTANE",False,UltraFastFashion
+1,TRÈS BON ÉTAT,SALSA,2022-04-04,JEAN FEMME SALSA LIFE TAILLE 36 TRÈS BON ÉTAT,8.0,JEAN FEMME TAILLE 36 SALSA LIFE LARGEUR TAILLE A PLAT PRIT D UN COTER 37 CM AVEC ELASTANE LONG TOTAL 104 CM ENTRE JAMBE 86 CM BAS DE LA JAMBE 14 CM,False,UltraFastFashion
+2,TRÈS BON ÉTAT,MANGO,2022-03-30,JEAN MOM FEMME,12.0,"BONJOUR,
+ARTICLE TRÈS PEU PORTÉ ET EN PARFAIT ÉTAT. AUCUN DÉFAUT, AUCUNE COUTURE QUI DÉPASSE.
+N’HÉSITEZ PAS À VENIR M’ENVOYER UN MESSAGE PRIVÉ.",False,FastFashion
+3,NEUF SANS ÉTIQUETTE,LEVI'S,2022-04-04,JEAN LEVIS 629 BOOTCUT,17.0,"JEAN NEUF SANS ÉTIQUETTES, JAMAIS PORTÉ",False,FastFashion
+4,TRÈS BON ÉTAT,ZARA,2022-04-04,JEAN KAKI ZARA TAILLE 38 TRÈS BON ÉTAT,8.0,"JEAN FEMME KAKI ZARA TAILLE 38 TRÈS BON ÉTAT
+LONG TOTAL 98 CM ET ENTRE JAMBE 71 CM BAS DES JAMBES 12 CM LARGEUR TAILLE A PLAT PRIT D UN COTER 35 CM AVEC ELASTANE",False,FastFashion
+5,TRÈS BON ÉTAT,SALSA,2022-04-04,JEAN FEMME TAILLE 38 SALSA LIFE TBE,9.0,"JEAN FEMME TAILLE 38 SALSA LIFE TRÈS BON ÉTAT
+LARG TAILLE PRIT À PLAT D UN COTER 37 CM LONG TOTAL 106 CM ENTRE JAMBE 81CM BAS DES JAMBES 15 CM LARGEUR HAUT DES CUISSES PRIT À PLAT D UN COTER 24 CM AVEC ELASTANE",False,UltraFastFashion
+6,BON ÉTAT,BOUTIQUE INDÉPENDANTE,2022-04-04,JEAN FEMME TAILLE 34 TRÈS BON ÉTAT,7.0,JEAN FEMME TAILLE 34 TRÈS BON ÉTAT LARGEUR TAILLE PRIT À PLAT D UN COTER 33 CM LONG TOTAL 91 CM ENTRE JAMBE 71 CM BAS DES JAMBES 14 CM,False,UltraFastFashion
+7,TRÈS BON ÉTAT,SALSA,2022-04-04,JEAN FEMME TAILLE 36 TRÈS BON ÉTAT SALSA LIFE,9.0,JEAN FEMME TAILLE 36 TRÈS BON ÉTAT SALSA LIFE LARGEUR TAILLE PRIT À PLAT D UN COTER 35 CM AVEC ELASTANE LONG TOTAL 100 CM ZIPER EN BAS COTER ENTRE JAMBE 77 CM BAS DES JAMBES 14 CM LARGEUR HAUT DES CUISSES PRIT À PLAT D UN COTER 24 CM QUASIMENT NEUF,False,UltraFastFashion
+8,TRÈS BON ÉTAT,H&M,2022-04-04,VAQUEROS,20.0,VAQUEROS DE LA TALLA 50,False,FastFashion
+9,BON ÉTAT,HP,2022-04-04,VAQUEROS TALLA GRANDE,15.0,VAQUEROS TALLA 50.,False,UltraFastFashion
+10,TRÈS BON ÉTAT,H&M,2022-04-04,PANTALÓN VAQUERO,20.0,PANTALÓN VAQUERO PARA VERANO A RAYAS,False,FastFashion
+11,TRÈS BON ÉTAT,LEVI'S,2022-03-20,PANTALÓN LEVIS,55.0,PANTALON LEVI’S 514,False,FastFashion
+12,NEUF SANS ÉTIQUETTE,ZARA,2022-04-04,CAMISA ESTILO ROMÁNTICO,25.0,"CAMISA BLANCA, ESTILO VINTAGE.",False,FastFashion
+13,NEUF SANS ÉTIQUETTE,LEVI'S,2022-04-04,JEAN LÉVIS,20.0,JEAN LÉVIS NEUF JAMAIS PORTÉ TAILLE 32/32,False,FastFashion
+14,NEUF SANS ÉTIQUETTE,LEVI'S,2022-04-04,JEAN LÉVIS NEUF,20.0,JEAN LÉVIS GRIS COULEUR RARE NEUF,False,FastFashion
+15,NEUF AVEC ÉTIQUETTE,MANGO,2022-03-16,JEAN NEUF,8.0,"JEAN MANGO 
+NEUF AVEC ÉTIQUETTE 
+TAILLE 32",False,FastFashion
+16,TRÈS BON ÉTAT,LEVI'S,2022-04-04,JEAN LÉVIS 571 W26,39.0,"JEAN LÉVIS 571 SLIM FIT 
 W26L32
-largeur taille 36cm longueur totale 99cm"
-17,TRÈS BON ÉTAT,LEVI'S ,2022-04-04,Jean Levi's 514 tm slim straight bleu taille W36,39.0,"Jean Levi's 514 tm slim straight bleu en très bon état
+LARGEUR TAILLE 36CM LONGUEUR TOTALE 99CM",False,FastFashion
+17,TRÈS BON ÉTAT,LEVI'S,2022-04-04,JEAN LEVI'S 514 TM SLIM STRAIGHT BLEU TAILLE W36,39.0,"JEAN LEVI'S 514 TM SLIM STRAIGHT BLEU EN TRÈS BON ÉTAT
 
-Taille W36 * L30
+TAILLE W36 * L30
 
-Mesures prises à plat 
-Taille 46cm
-Cheville 23cm
-Longueur 101cm
+MESURES PRISES À PLAT 
+TAILLE 46CM
+CHEVILLE 23CM
+LONGUEUR 101CM
 
-R 2204047"
-18,NEUF SANS ÉTIQUETTE,X-MAX ,2022-04-04,jean élastique neuf,12.0,"jean avec tissu élastique couleur bleu roi
-65 % coton 33 % polyesther 2 % élasthane"
-19,NEUF SANS ÉTIQUETTE,,2022-03-31,Jean large,20.0,taille 34/36 neuf
-20,NEUF SANS ÉTIQUETTE,ZARA ,2022-04-04,Jean skinny,10.0,Jean Jonny Zara taille 34
-21,NEUF SANS ÉTIQUETTE,& OTHER STORIES ,2022-04-04,Jean Other stories,40.0,"jean Other storie jamais porté 
-taille: EUR 25
-En parfaite état"
-22,TRÈS BON ÉTAT,LEE ,2022-04-04,Jean slim Lee,15.0,"Très bon état, W29 L31"
-23,TRÈS BON ÉTAT,FREEMAN T. PORTER ,2022-04-04,Jean taille basse Freeman t porter,30.0,"taille 24
-très bon état
-jean slim"
-24,TRÈS BON ÉTAT,KIABI ,2022-04-04,Jean skinny noir,10.0,Trop grand pour moi
-25,TRÈS BON ÉTAT,TRUE RELIGION ,2022-04-04,Jean true religion vintage,90.0,jean true religion bleu foncé vintage convient à une taille M en parfait état peu porté coupe droite
-26,TRÈS BON ÉTAT,WALK AND TALK ,2022-04-04,Jean femme taille 42 très bon état walk tak,9.0,Jean femme taille 42 très bon état quasiment neuf larg taille prit à plat d un coter 42 cm long total 108 cm entrejambe 84 cm bas des jambes 15 cm largeur haut des cuisses prit à plat d un coter 28 cm avez elastane
-27,TRÈS BON ÉTAT,LEE ,2022-04-04,Jean Mom Straight bleu LEE,15.0,"Super état, taille haute et carotte en bas, bleu délavé. W30 L31"
-28,NEUF SANS ÉTIQUETTE,SUPERDRY ,2022-03-31,Jean Superdry,22.0,"Un superbe jean Superdry, malheureusement trop petit pour moi.
-Acheté neuf sans étiquette sur vinted, à mon grand regret je le revends (je fais dorénavant davantage du 40 que du 38).
-Modele corporal slim. Je ne peux pas prendre de photo avec le jean pour les raisons citées ci-dessus.
-Taille 28/32"
-29,TRÈS BON ÉTAT,LEVI'S ,2022-03-27,Jean levi’s,12.0,jean levi’s skinny
-30,NEUF SANS ÉTIQUETTE,ÉTÉ ROSE ,2022-03-28,Jean foncé,13.0,Jamais porté
-31,NEUF SANS ÉTIQUETTE,PRETTYLITTLETHING ,2022-04-01,Jean taille haute ceinturé,9.0,"excellent état
-taille 38"
-32,TRÈS BON ÉTAT,PULL & BEAR ,2022-04-01,Jean baggy,7.0,très bon état taille 36
-33,NEUF SANS ÉTIQUETTE,TRUE RELIGION ,2022-04-04,Jean True religion,150.0,"jean true religion 
-taille 32"
-34,BON ÉTAT,ZARA ,2022-04-04,Jean Zara,10.0,"Jean brut
-Marque Zara
-Taille 40"
-35,TRÈS BON ÉTAT,ZARA ,2022-03-16,Jean noir mom,15.0,"- très peu porté
-- acheté environ 30€ 
-- taille 32 comme indiqué sur l’étiquette en photo"
-36,NEUF SANS ÉTIQUETTE,MANGO ,2022-03-30,Jean gris mango,20.0,"Jean gris mango taille 34
-parfait état jamais porté"
-37,NEUF SANS ÉTIQUETTE,GOLD SK ,2022-04-04,Jeans Gold SK,12.0,"Jeans gols SK Noir brillant 
-Entièrement neuf jamais porté 
-Marqué Taille M mais trop petit correspond a une taille XS VOIR XXS 
-Matière brillante 
-Élégant"
-38,TRÈS BON ÉTAT,KAPORAL ,2022-04-04,Jeans 👖 Skinny Kaporal,22.0,"Jeans 👖 bleu Kaporal 
-Skinny 
-Taille US 26 
-Très peu porté 
-A saisir 
-Excellent état"
-39,TRÈS BON ÉTAT,BERSHKA ,2022-03-10,Jeans Bershka,10.0,"Jeans blanc Bershka
-Taille 40 
-Excellent état"
-40,TRÈS BON ÉTAT,BERSHKA ,2022-03-10,Jeans Bershka,10.0,"Jeans Denim Bershka
-Noir / Gris foncé 
-Taille 40 Usa 31
-Excellent état"
-41,TRÈS BON ÉTAT,KAPORAL ,2022-03-10,Jeans Kaporal,14.0,"Jeans kaporal Slim
-Noir gris foncé 
-Forme Slim
-Taille W 33 L 34 
-Excellent état"
-42,NEUF SANS ÉTIQUETTE,BERSHKA ,2022-04-04,Jean berska mon taille haute,10.0,Jean mon bleu claire taille haute etat neuf vraie 40
-43,NEUF SANS ÉTIQUETTE,LEVI'S ,2022-04-04,Jean levi’s 502 regular taper bleu t34/32,30.0,jeans levîs 502 regular taper bleu t34/32 correspond à un 44 fr
-44,TRÈS BON ÉTAT,PEPE JEANS ,2022-04-04,Jean foncé PEPE,30.0,Jean skinny foncé de la marque PEPE
-45,NEUF AVEC ÉTIQUETTE,MANGO ,2022-03-16,Jean neuf,8.0,"jean mango neuf
-avec étiquette 
-taille xs 34"
-46,NEUF SANS ÉTIQUETTE,RICA LEWIS ,2022-04-01,Jean femme Rica Lewis taille 44 Neuf,9.0,Jean femme taille 44 Neuf sans étiquette jamais porter Rica Lewis largeur taille prit à plat d un coter 44 cm long total 112 cm entre jambe 85 cm larg bas des jambes 21 cm largeur haut des cuisses prit à plat d un coter 33 cm avec un peu d elastane
-47,TRÈS BON ÉTAT,PEPE JEANS ,2022-04-04,🦉Liquidation 🦉Jean Pepejeans 36 🦅,10.0,"DERNIÈRE BAISSE DE PRIX 
-🦉Jean Pepejeans 36 🦅
+R 2204047",False,FastFashion
+18,NEUF SANS ÉTIQUETTE,X-MAX,2022-04-04,JEAN ÉLASTIQUE NEUF,12.0,"JEAN AVEC TISSU ÉLASTIQUE COULEUR BLEU ROI
+65 % COTON 33 % POLYESTHER 2 % ÉLASTHANE",False,UltraFastFashion
+19,NEUF SANS ÉTIQUETTE,nan,2022-03-31,JEAN LARGE,20.0,TAILLE 34/36 NEUF,False,UltraFastFashion
+20,NEUF SANS ÉTIQUETTE,ZARA,2022-04-04,JEAN SKINNY,10.0,JEAN JONNY ZARA TAILLE 34,False,FastFashion
+21,NEUF SANS ÉTIQUETTE,& OTHER STORIES,2022-04-04,JEAN OTHER STORIES,40.0,"JEAN OTHER STORIE JAMAIS PORTÉ 
+TAILLE: EUR 25
+EN PARFAITE ÉTAT",False,UltraFastFashion
+22,TRÈS BON ÉTAT,LEE,2022-04-04,JEAN SLIM LEE,15.0,"TRÈS BON ÉTAT, W29 L31",False,UltraFastFashion
+23,TRÈS BON ÉTAT,FREEMAN T. PORTER,2022-04-04,JEAN TAILLE BASSE FREEMAN T PORTER,30.0,"TAILLE 24
+TRÈS BON ÉTAT
+JEAN SLIM",False,UltraFastFashion
+24,TRÈS BON ÉTAT,KIABI,2022-04-04,JEAN SKINNY NOIR,10.0,TROP GRAND POUR MOI,False,FastFashion
+25,TRÈS BON ÉTAT,TRUE RELIGION,2022-04-04,JEAN TRUE RELIGION VINTAGE,90.0,JEAN TRUE RELIGION BLEU FONCÉ VINTAGE CONVIENT À UNE TAILLE M EN PARFAIT ÉTAT PEU PORTÉ COUPE DROITE,False,Fashion
+26,TRÈS BON ÉTAT,WALK AND TALK,2022-04-04,JEAN FEMME TAILLE 42 TRÈS BON ÉTAT WALK TAK,9.0,JEAN FEMME TAILLE 42 TRÈS BON ÉTAT QUASIMENT NEUF LARG TAILLE PRIT À PLAT D UN COTER 42 CM LONG TOTAL 108 CM ENTREJAMBE 84 CM BAS DES JAMBES 15 CM LARGEUR HAUT DES CUISSES PRIT À PLAT D UN COTER 28 CM AVEZ ELASTANE,False,UltraFastFashion
+27,TRÈS BON ÉTAT,LEE,2022-04-04,JEAN MOM STRAIGHT BLEU LEE,15.0,"SUPER ÉTAT, TAILLE HAUTE ET CAROTTE EN BAS, BLEU DÉLAVÉ. W30 L31",False,UltraFastFashion
+28,NEUF SANS ÉTIQUETTE,SUPERDRY,2022-03-31,JEAN SUPERDRY,22.0,"UN SUPERBE JEAN SUPERDRY, MALHEUREUSEMENT TROP PETIT POUR MOI.
+ACHETÉ NEUF SANS ÉTIQUETTE SUR VINTED, À MON GRAND REGRET JE LE REVENDS (JE FAIS DORÉNAVANT DAVANTAGE DU 40 QUE DU 38).
+MODELE CORPORAL SLIM. JE NE PEUX PAS PRENDRE DE PHOTO AVEC LE JEAN POUR LES RAISONS CITÉES CI-DESSUS.
+TAILLE 28/32",False,Fashion
+29,TRÈS BON ÉTAT,LEVI'S,2022-03-27,JEAN LEVI’S,12.0,JEAN LEVI’S SKINNY,False,FastFashion
+30,NEUF SANS ÉTIQUETTE,ÉTÉ ROSE,2022-03-28,JEAN FONCÉ,13.0,JAMAIS PORTÉ,False,UltraFastFashion
+31,NEUF SANS ÉTIQUETTE,PRETTYLITTLETHING,2022-04-01,JEAN TAILLE HAUTE CEINTURÉ,9.0,"EXCELLENT ÉTAT
+TAILLE 38",False,UltraFastFashion
+32,TRÈS BON ÉTAT,PULL & BEAR,2022-04-01,JEAN BAGGY,7.0,TRÈS BON ÉTAT TAILLE 36,False,FastFashion
+33,NEUF SANS ÉTIQUETTE,TRUE RELIGION,2022-04-04,JEAN TRUE RELIGION,150.0,"JEAN TRUE RELIGION 
+TAILLE 32",False,Fashion
+34,BON ÉTAT,ZARA,2022-04-04,JEAN ZARA,10.0,"JEAN BRUT
+MARQUE ZARA
+TAILLE 40",False,FastFashion
+35,TRÈS BON ÉTAT,ZARA,2022-03-16,JEAN NOIR MOM,15.0,"- TRÈS PEU PORTÉ
+- ACHETÉ ENVIRON 30€ 
+- TAILLE 32 COMME INDIQUÉ SUR L’ÉTIQUETTE EN PHOTO",False,FastFashion
+36,NEUF SANS ÉTIQUETTE,MANGO,2022-03-30,JEAN GRIS MANGO,20.0,"JEAN GRIS MANGO TAILLE 34
+PARFAIT ÉTAT JAMAIS PORTÉ",False,FastFashion
+37,NEUF SANS ÉTIQUETTE,GOLD SK,2022-04-04,JEANS GOLD SK,12.0,"JEANS GOLS SK NOIR BRILLANT 
+ENTIÈREMENT NEUF JAMAIS PORTÉ 
+MARQUÉ TAILLE M MAIS TROP PETIT CORRESPOND A UNE TAILLE XS VOIR XXS 
+MATIÈRE BRILLANTE 
+ÉLÉGANT",False,UltraFastFashion
+38,TRÈS BON ÉTAT,KAPORAL,2022-04-04,JEANS 👖 SKINNY KAPORAL,22.0,"JEANS 👖 BLEU KAPORAL 
+SKINNY 
+TAILLE US 26 
+TRÈS PEU PORTÉ 
+A SAISIR 
+EXCELLENT ÉTAT",False,FastFashion
+39,TRÈS BON ÉTAT,BERSHKA,2022-03-10,JEANS BERSHKA,10.0,"JEANS BLANC BERSHKA
+TAILLE 40 
+EXCELLENT ÉTAT",False,FastFashion
+40,TRÈS BON ÉTAT,BERSHKA,2022-03-10,JEANS BERSHKA,10.0,"JEANS DENIM BERSHKA
+NOIR / GRIS FONCÉ 
+TAILLE 40 USA 31
+EXCELLENT ÉTAT",False,FastFashion
+41,TRÈS BON ÉTAT,KAPORAL,2022-03-10,JEANS KAPORAL,14.0,"JEANS KAPORAL SLIM
+NOIR GRIS FONCÉ 
+FORME SLIM
+TAILLE W 33 L 34 
+EXCELLENT ÉTAT",False,FastFashion
+42,NEUF SANS ÉTIQUETTE,BERSHKA,2022-04-04,JEAN BERSKA MON TAILLE HAUTE,10.0,JEAN MON BLEU CLAIRE TAILLE HAUTE ETAT NEUF VRAIE 40,False,FastFashion
+43,NEUF SANS ÉTIQUETTE,LEVI'S,2022-04-04,JEAN LEVI’S 502 REGULAR TAPER BLEU T34/32,30.0,JEANS LEVÎS 502 REGULAR TAPER BLEU T34/32 CORRESPOND À UN 44 FR,False,FastFashion
+44,TRÈS BON ÉTAT,PEPE JEANS,2022-04-04,JEAN FONCÉ PEPE,30.0,JEAN SKINNY FONCÉ DE LA MARQUE PEPE,False,FastFashion
+45,NEUF AVEC ÉTIQUETTE,MANGO,2022-03-16,JEAN NEUF,8.0,"JEAN MANGO NEUF
+AVEC ÉTIQUETTE 
+TAILLE XS 34",False,FastFashion
+46,NEUF SANS ÉTIQUETTE,RICA LEWIS,2022-04-01,JEAN FEMME RICA LEWIS TAILLE 44 NEUF,9.0,JEAN FEMME TAILLE 44 NEUF SANS ÉTIQUETTE JAMAIS PORTER RICA LEWIS LARGEUR TAILLE PRIT À PLAT D UN COTER 44 CM LONG TOTAL 112 CM ENTRE JAMBE 85 CM LARG BAS DES JAMBES 21 CM LARGEUR HAUT DES CUISSES PRIT À PLAT D UN COTER 33 CM AVEC UN PEU D ELASTANE,False,UltraFastFashion
+47,TRÈS BON ÉTAT,PEPE JEANS,2022-04-04,🦉LIQUIDATION 🦉JEAN PEPEJEANS 36 🦅,10.0,"DERNIÈRE BAISSE DE PRIX 
+🦉JEAN PEPEJEANS 36 🦅
 
-🎁 toujours 1 cadeau dans vos colis 
+🎁 TOUJOURS 1 CADEAU DANS VOS COLIS 
 
-🚛 ⚠️Je préfère Mondial Relay ou Chronopost 
-moins cher, à côté de chez moi, dépôts le jour même ou le lendemain.
-📮la poste : 10kms, dépots le samedi matin.
-et je ne peux pas avancer les fdp.
+🚛 ⚠️JE PRÉFÈRE MONDIAL RELAY OU CHRONOPOST 
+MOINS CHER, À CÔTÉ DE CHEZ MOI, DÉPÔTS LE JOUR MÊME OU LE LENDEMAIN.
+📮LA POSTE : 10KMS, DÉPOTS LE SAMEDI MATIN.
+ET JE NE PEUX PAS AVANCER LES FDP.
 
-😘Je ne suis pas responsable des retards de vos colis, merci de votre compréhension😘.
+😘JE NE SUIS PAS RESPONSABLE DES RETARDS DE VOS COLIS, MERCI DE VOTRE COMPRÉHENSION😘.
 
-💕 Mes vêtements sont NEUFS, quasi neufs, portés 1 ou 2 fois, voire quelques heures ! 
-en très bon état, propres, repassés, parfumés. 
-Passés au crible avant l'envoi. Si défaut : signalé dans le descriptif.
+💕 MES VÊTEMENTS SONT NEUFS, QUASI NEUFS, PORTÉS 1 OU 2 FOIS, VOIRE QUELQUES HEURES ! 
+EN TRÈS BON ÉTAT, PROPRES, REPASSÉS, PARFUMÉS. 
+PASSÉS AU CRIBLE AVANT L'ENVOI. SI DÉFAUT : SIGNALÉ DANS LE DESCRIPTIF.
 
-⛔ Pas d'échange, reprise , remboursement, tout est dit dans le descriptif, il suffit de le lire.
-Vous pouvez revendre l'article s'il ne vous va pas comme je le fais lorsque je me trompe.
+⛔ PAS D'ÉCHANGE, REPRISE , REMBOURSEMENT, TOUT EST DIT DANS LE DESCRIPTIF, IL SUFFIT DE LE LIRE.
+VOUS POUVEZ REVENDRE L'ARTICLE S'IL NE VOUS VA PAS COMME JE LE FAIS LORSQUE JE ME TROMPE.
 
-#kheops12tailles
-#kheops12pantalon
-#kheops12pepejeans
-#pantalon
-#jean
-#pantalonjean
-#pantalon36
-#pantalonpepejeans
-#pepejeans36
-#pepejeans
-#vinted
-#vintedfrance"
-48,TRÈS BON ÉTAT,NAF NAF ,2022-04-01,Jean femme,5.0,"Jean en très bon état, taille 38"
-49,TRÈS BON ÉTAT,VINTAGE ,2022-04-04,Jean vintage en velours côtelé,17.0,"Jean coupe droite. Modèle vintage, taille 32.
-Velours côtelé gris foncé"
-50,TRÈS BON ÉTAT,LEVI'S ,2022-04-04,Jean Levi’s large Modèle 508,20.0,"Quelques traces d’usure visibles sur les photos mais très bon état général.
-Taille : W32 L34."
-51,NEUF AVEC ÉTIQUETTE,LTB ,2022-03-30,Jean Neuf avec étiquette taille 36,10.0,Jean femme Neuf avec étiquette taille 36 jamais porter Neuf avec étiquette largeur taille prit à plat d un coter 36 cm long total 106 cm entre jambe 83 cm larg bas des jambes 20 cm larg haut cuisse prit à plat d un coter 27 cm avec elastane
-52,NEUF AVEC ÉTIQUETTE,MANGO ,2022-03-11,Jean droit 7/8 mango coupe droite 38,22.0,"Jean droit 7/8 #mango coupe droite 38
+#KHEOPS12TAILLES
+#KHEOPS12PANTALON
+#KHEOPS12PEPEJEANS
+#PANTALON
+#JEAN
+#PANTALONJEAN
+#PANTALON36
+#PANTALONPEPEJEANS
+#PEPEJEANS36
+#PEPEJEANS
+#VINTED
+#VINTEDFRANCE",False,FastFashion
+48,TRÈS BON ÉTAT,NAF NAF,2022-04-01,JEAN FEMME,5.0,"JEAN EN TRÈS BON ÉTAT, TAILLE 38",False,FastFashion
+49,TRÈS BON ÉTAT,VINTAGE,2022-04-04,JEAN VINTAGE EN VELOURS CÔTELÉ,17.0,"JEAN COUPE DROITE. MODÈLE VINTAGE, TAILLE 32.
+VELOURS CÔTELÉ GRIS FONCÉ",False,UltraFastFashion
+50,TRÈS BON ÉTAT,LEVI'S,2022-04-04,JEAN LEVI’S LARGE MODÈLE 508,20.0,"QUELQUES TRACES D’USURE VISIBLES SUR LES PHOTOS MAIS TRÈS BON ÉTAT GÉNÉRAL.
+TAILLE : W32 L34.",False,FastFashion
+51,NEUF AVEC ÉTIQUETTE,LTB,2022-03-30,JEAN NEUF AVEC ÉTIQUETTE TAILLE 36,10.0,JEAN FEMME NEUF AVEC ÉTIQUETTE TAILLE 36 JAMAIS PORTER NEUF AVEC ÉTIQUETTE LARGEUR TAILLE PRIT À PLAT D UN COTER 36 CM LONG TOTAL 106 CM ENTRE JAMBE 83 CM LARG BAS DES JAMBES 20 CM LARG HAUT CUISSE PRIT À PLAT D UN COTER 27 CM AVEC ELASTANE,False,UltraFastFashion
+52,NEUF AVEC ÉTIQUETTE,MANGO,2022-03-11,JEAN DROIT 7/8 MANGO COUPE DROITE 38,22.0,"JEAN DROIT 7/8 #MANGO COUPE DROITE 38
 
-Tissu en coton style denim. Coupe droite. Taille normale. Passants pour la ceinture. Cinq poches. Fermeture à bouton.
-99% coton 
-1% elasthane 
-Taille à plat 36 cm
-Hanches 42 cm
-Longueur 93 cm
-Entrejambes 65 cm
+TISSU EN COTON STYLE DENIM. COUPE DROITE. TAILLE NORMALE. PASSANTS POUR LA CEINTURE. CINQ POCHES. FERMETURE À BOUTON.
+99% COTON 
+1% ELASTHANE 
+TAILLE À PLAT 36 CM
+HANCHES 42 CM
+LONGUEUR 93 CM
+ENTREJAMBES 65 CM
 
-#mango #mangowoman"
-53,NEUF AVEC ÉTIQUETTE,LEVI'S ,2022-04-04,Jean 501 slim taper blanc t32/34,40.0,jeans homme 501 slim taper banc taille us 32/34 correspond à un 42 fr
-54,TRÈS BON ÉTAT,ZARA ,2022-04-04,Combinaison Zara Jean,13.0,"Superbe combinaison Jean Zara
-Taille 11/12 ans 152cm
-Jean très agréable à porter doux 
-fermeture pression peut se porter avec un petit col roulé en dessous effet très stylé 
-Comme neuve portée 1 fois 
-Trop petite pour ma fille"
-55,TRÈS BON ÉTAT,KIABI ,2022-04-04,Jean Skinny Kiabi,10.0,Très peu porté
-56,TRÈS BON ÉTAT,ZARA ,2022-04-02,Jean mom Zara,15.0,"Jean bleu, taille Mom Zara, taille 40 mais petit (plus 38)"
-57,TRÈS BON ÉTAT,SALSA ,2022-03-31,Jean noir SalSa 40,20.0,Excellent état
-58,TRÈS BON ÉTAT,ZARA ,2022-04-04,Jean coupe large zara,12.0,"portes quelques fois , très bon état mais trop petit"
-59,NEUF SANS ÉTIQUETTE,LACOSTE ,2022-04-02,🦋 Jean Lacoste,29.95,"🏷 I Jean Lacoste Marine
+#MANGO #MANGOWOMAN",False,FastFashion
+53,NEUF AVEC ÉTIQUETTE,LEVI'S,2022-04-04,JEAN 501 SLIM TAPER BLANC T32/34,40.0,JEANS HOMME 501 SLIM TAPER BANC TAILLE US 32/34 CORRESPOND À UN 42 FR,False,FastFashion
+54,TRÈS BON ÉTAT,ZARA,2022-04-04,COMBINAISON ZARA JEAN,13.0,"SUPERBE COMBINAISON JEAN ZARA
+TAILLE 11/12 ANS 152CM
+JEAN TRÈS AGRÉABLE À PORTER DOUX 
+FERMETURE PRESSION PEUT SE PORTER AVEC UN PETIT COL ROULÉ EN DESSOUS EFFET TRÈS STYLÉ 
+COMME NEUVE PORTÉE 1 FOIS 
+TROP PETITE POUR MA FILLE",False,FastFashion
+55,TRÈS BON ÉTAT,KIABI,2022-04-04,JEAN SKINNY KIABI,10.0,TRÈS PEU PORTÉ,False,FastFashion
+56,TRÈS BON ÉTAT,ZARA,2022-04-02,JEAN MOM ZARA,15.0,"JEAN BLEU, TAILLE MOM ZARA, TAILLE 40 MAIS PETIT (PLUS 38)",False,FastFashion
+57,TRÈS BON ÉTAT,SALSA,2022-03-31,JEAN NOIR SALSA 40,20.0,EXCELLENT ÉTAT,False,UltraFastFashion
+58,TRÈS BON ÉTAT,ZARA,2022-04-04,JEAN COUPE LARGE ZARA,12.0,"PORTES QUELQUES FOIS , TRÈS BON ÉTAT MAIS TROP PETIT",False,FastFashion
+59,NEUF SANS ÉTIQUETTE,LACOSTE,2022-04-02,🦋 JEAN LACOSTE,29.95,"🏷 I JEAN LACOSTE MARINE
 
-📊 I État 9,5/10 (PORTÉ 2/3 FOIS)
+📊 I ÉTAT 9,5/10 (PORTÉ 2/3 FOIS)
 
-📏 I Taille 44 || longueur : 98cm || largueur : 44cm
+📏 I TAILLE 44 || LONGUEUR : 98CM || LARGUEUR : 44CM
 
-🍭I Un cadeau offert dans chaque commande
-
-🌿—————————————————————🌿
-
-❓ Tu as des questions sur l’article ? Je suis également là pour t’aider donc n’hésite pas 😊 ❓
-
-📦 Expédition sous 24h. (jour ouvré)
-✅ Emballage soigné (enveloppe d’expédition)
-
-📱Abonne toi pour ne rien manquer des nouveaux articles quotidiens ! 📱
+🍭I UN CADEAU OFFERT DANS CHAQUE COMMANDE
 
 🌿—————————————————————🌿
 
+❓ TU AS DES QUESTIONS SUR L’ARTICLE ? JE SUIS ÉGALEMENT LÀ POUR T’AIDER DONC N’HÉSITE PAS 😊 ❓
 
+📦 EXPÉDITION SOUS 24H. (JOUR OUVRÉ)
+✅ EMBALLAGE SOIGNÉ (ENVELOPPE D’EXPÉDITION)
 
-tags : sweat, hoodie, vintage, pantalon, regular"
-60,NEUF SANS ÉTIQUETTE,LEVI'S ,2022-03-24,Jean Levi's 711,15.0,"Neuf
-W23 L30"
-61,NEUF AVEC ÉTIQUETTE,ZARA ,2022-03-20,Jean zara,20.0,Jean jamais porté
-62,TRÈS BON ÉTAT,ZELYS PARIS ,2022-04-04,Jean zelys,15.0,"jean zelys jamais portée , en très bonne état . taille 38 pour homme . je l’ai payer 45€ je le met à 20€ :) 
-#jeans #homme #zelysparis #zelys #jeanskinny #jeantroués #jeangris #jeannoir"
-63,NEUF AVEC ÉTIQUETTE,LACOSTE ,2022-04-02,🦋 Jean Lacoste Neuf Taille 44 🦋,44.95,"🏷 I Jean Lacoste Marine Neuf
-
-📊 I État 10/10 (PARFAIT)
-
-📏 I Taille 44 || longueur : 94,5cm || largueur : 44cm
-
-🍭I Un cadeau offert dans chaque commande
-
-🌿—————————————————————🌿
-
-❓ Tu as des questions sur l’article ? Je suis également là pour t’aider donc n’hésite pas 😊 ❓
-
-📦 Expédition sous 24h. (jour ouvré)
-✅ Emballage soigné (enveloppe d’expédition)
-
-📱Abonne toi pour ne rien manquer des nouveaux articles quotidiens ! 📱
+📱ABONNE TOI POUR NE RIEN MANQUER DES NOUVEAUX ARTICLES QUOTIDIENS ! 📱
 
 🌿—————————————————————🌿
 
 
 
-tags : sweat, hoodie, vintage, pantalon, regular"
-64,BON ÉTAT,LEVI'S ,2022-04-04,jean levis 501,30.0,"souvent porté , taille correctement"
-65,TRÈS BON ÉTAT,STRADIVARIUS ,2022-03-31,Jean mode,10.0,Très bon état. T38. Tissu jean léger . Taille haute
-66,TRÈS BON ÉTAT,,2022-04-04,Jeans femme 34,5.0,"Jeans slim femme 
-#femme34winifreddepoortere"
-67,TRÈS BON ÉTAT,PROMOD ,2022-04-04,Jeans de chez promod,5.0,"Jeans promod en très bon état 36 je ne rentre plus dedans donc je ne peux pas faire de photo
+TAGS : SWEAT, HOODIE, VINTAGE, PANTALON, REGULAR",False,Fashion
+60,NEUF SANS ÉTIQUETTE,LEVI'S,2022-03-24,JEAN LEVI'S 711,15.0,"NEUF
+W23 L30",False,FastFashion
+61,NEUF AVEC ÉTIQUETTE,ZARA,2022-03-20,JEAN ZARA,20.0,JEAN JAMAIS PORTÉ,False,FastFashion
+62,TRÈS BON ÉTAT,ZELYS PARIS,2022-04-04,JEAN ZELYS,15.0,"JEAN ZELYS JAMAIS PORTÉE , EN TRÈS BONNE ÉTAT . TAILLE 38 POUR HOMME . JE L’AI PAYER 45€ JE LE MET À 20€ :) 
+#JEANS #HOMME #ZELYSPARIS #ZELYS #JEANSKINNY #JEANTROUÉS #JEANGRIS #JEANNOIR",False,UltraFastFashion
+63,NEUF AVEC ÉTIQUETTE,LACOSTE,2022-04-02,🦋 JEAN LACOSTE NEUF TAILLE 44 🦋,44.95,"🏷 I JEAN LACOSTE MARINE NEUF
 
-#femme36winifreddepoortere"
-69,TRÈS BON ÉTAT,MORGAN ,2022-04-04,Jean femme de chez morgan,3.0,"Jean de chez Morgan taille 36 porter 2/3 fois
+📊 I ÉTAT 10/10 (PARFAIT)
 
-#femme36winifreddepoortere"
-70,TRÈS BON ÉTAT,GAPKIDS ,2022-04-04,Jeans droit fille 12 ans,3.0,"Jeans droit fille 12 ans 
-Legerement jauni dans la poche mais ne gene en rien du tout sinon il reste en excellent etat
-#fille12answinifreddepoortere"
-71,TRÈS BON ÉTAT,LEVI'S ,2022-03-30,Jean Levi’s 511 Noir,35.0,"Jean Levi’s 511 Noir 
+📏 I TAILLE 44 || LONGUEUR : 94,5CM || LARGUEUR : 44CM
+
+🍭I UN CADEAU OFFERT DANS CHAQUE COMMANDE
+
+🌿—————————————————————🌿
+
+❓ TU AS DES QUESTIONS SUR L’ARTICLE ? JE SUIS ÉGALEMENT LÀ POUR T’AIDER DONC N’HÉSITE PAS 😊 ❓
+
+📦 EXPÉDITION SOUS 24H. (JOUR OUVRÉ)
+✅ EMBALLAGE SOIGNÉ (ENVELOPPE D’EXPÉDITION)
+
+📱ABONNE TOI POUR NE RIEN MANQUER DES NOUVEAUX ARTICLES QUOTIDIENS ! 📱
+
+🌿—————————————————————🌿
 
 
-Taille : W32 L34
+
+TAGS : SWEAT, HOODIE, VINTAGE, PANTALON, REGULAR",False,Fashion
+64,BON ÉTAT,LEVI'S,2022-04-04,JEAN LEVIS 501,30.0,"SOUVENT PORTÉ , TAILLE CORRECTEMENT",False,FastFashion
+65,TRÈS BON ÉTAT,STRADIVARIUS,2022-03-31,JEAN MODE,10.0,TRÈS BON ÉTAT. T38. TISSU JEAN LÉGER . TAILLE HAUTE,False,UltraFastFashion
+66,TRÈS BON ÉTAT,nan,2022-04-04,JEANS FEMME 34,5.0,"JEANS SLIM FEMME 
+#FEMME34WINIFREDDEPOORTERE",False,UltraFastFashion
+67,TRÈS BON ÉTAT,PROMOD,2022-04-04,JEANS DE CHEZ PROMOD,5.0,"JEANS PROMOD EN TRÈS BON ÉTAT 36 JE NE RENTRE PLUS DEDANS DONC JE NE PEUX PAS FAIRE DE PHOTO
+
+#FEMME36WINIFREDDEPOORTERE",False,FastFashion
+68,BON ÉTAT,KIABI,2022-04-04,PANTALON GARÇON,1.0,"PANTALON GARÇON DE CHEZ KIABI LÉGÈREMENT TACHER AU NIVEAU DES GENOUX À VOIR SUR PHOTO 
+
+#5ANSGARCONSWINIFREDDEPOORTERE",False,FastFashion
+69,TRÈS BON ÉTAT,MORGAN,2022-04-04,JEAN FEMME DE CHEZ MORGAN,3.0,"JEAN DE CHEZ MORGAN TAILLE 36 PORTER 2/3 FOIS
+
+#FEMME36WINIFREDDEPOORTERE",False,UltraFastFashion
+70,TRÈS BON ÉTAT,GAPKIDS,2022-04-04,JEANS DROIT FILLE 12 ANS,3.0,"JEANS DROIT FILLE 12 ANS 
+LEGEREMENT JAUNI DANS LA POCHE MAIS NE GENE EN RIEN DU TOUT SINON IL RESTE EN EXCELLENT ETAT
+#FILLE12ANSWINIFREDDEPOORTERE",False,FastFashion
+71,TRÈS BON ÉTAT,LEVI'S,2022-03-30,JEAN LEVI’S 511 NOIR,35.0,"JEAN LEVI’S 511 NOIR 
 
 
-Mesures à plat : 
+TAILLE : W32 L34
 
-- Longueur : 103cm
-- Bassin : 40cm
-- Entrejambe : 25cm
-- Cuisse : 22cm
-- Cheville : 15cm
 
-Défauts : usures 
+MESURES À PLAT : 
+
+- LONGUEUR : 103CM
+- BASSIN : 40CM
+- ENTREJAMBE : 25CM
+- CUISSE : 22CM
+- CHEVILLE : 15CM
+
+DÉFAUTS : USURES 
 
 
 
@@ -241,246 +249,315 @@ Défauts : usures
 LGE-477
 
 
-#jean #levis #jeanlevis #levistendance #levisvintage #jeantendance #jeanvintage #BF_jeanlevis #tendance #mode #fashion #vintage #jeanlevistendance #streetwear #workwear"
-72,TRÈS BON ÉTAT,NINA CARTER ,2022-03-27,Jean slim elasthane,8.0,"Jean en parfait état taille 48 mais taille petit c'est pourquoi je le mets en 46 .
-Taille haute
-très confortable car assez élastique (voir composition)."
-73,NEUF AVEC ÉTIQUETTE,LEE ,2022-03-10,Pantalon jean LEE tout neuf. Taille 36,26.0,Pantalon jean LEE tout neuf. Taille S
-74,BON ÉTAT,LACOSTE ,2022-04-02,🦋 Jean Lacoste Vintage 44 🦋,14.95,"🏷 I Jean Lacoste Vintage Marine
+#JEAN #LEVIS #JEANLEVIS #LEVISTENDANCE #LEVISVINTAGE #JEANTENDANCE #JEANVINTAGE #BF_JEANLEVIS #TENDANCE #MODE #FASHION #VINTAGE #JEANLEVISTENDANCE #STREETWEAR #WORKWEAR",False,FastFashion
+72,TRÈS BON ÉTAT,NINA CARTER,2022-03-27,JEAN SLIM ELASTHANE,8.0,"JEAN EN PARFAIT ÉTAT TAILLE 48 MAIS TAILLE PETIT C'EST POURQUOI JE LE METS EN 46 .
+TAILLE HAUTE
+TRÈS CONFORTABLE CAR ASSEZ ÉLASTIQUE (VOIR COMPOSITION).",False,UltraFastFashion
+73,NEUF AVEC ÉTIQUETTE,LEE,2022-03-10,PANTALON JEAN LEE TOUT NEUF. TAILLE 36,26.0,PANTALON JEAN LEE TOUT NEUF. TAILLE S,False,UltraFastFashion
+74,BON ÉTAT,LACOSTE,2022-04-02,🦋 JEAN LACOSTE VINTAGE 44 🦋,14.95,"🏷 I JEAN LACOSTE VINTAGE MARINE
 
-📊 I État 6/10 (plusieurs traces d’usures)
+📊 I ÉTAT 6/10 (PLUSIEURS TRACES D’USURES)
 
-📏 I Taille 44 || longueur : 98cm || largueur : 44cm
+📏 I TAILLE 44 || LONGUEUR : 98CM || LARGUEUR : 44CM
 
-🍭I Un cadeau offert dans chaque commande
-
-🌿—————————————————————🌿
-
-❓ Tu as des questions sur l’article ? Je suis également là pour t’aider donc n’hésite pas 😊 ❓
-
-📦 Expédition sous 24h. (jour ouvré)
-✅ Emballage soigné (enveloppe d’expédition)
-
-📱Abonne toi pour ne rien manquer des nouveaux articles quotidiens ! 📱
+🍭I UN CADEAU OFFERT DANS CHAQUE COMMANDE
 
 🌿—————————————————————🌿
 
+❓ TU AS DES QUESTIONS SUR L’ARTICLE ? JE SUIS ÉGALEMENT LÀ POUR T’AIDER DONC N’HÉSITE PAS 😊 ❓
 
+📦 EXPÉDITION SOUS 24H. (JOUR OUVRÉ)
+✅ EMBALLAGE SOIGNÉ (ENVELOPPE D’EXPÉDITION)
 
-tags : sweat, hoodie, vintage, pantalon, regular"
-75,TRÈS BON ÉTAT,BOUTIQUE INDÉPENDANTE ,2022-03-30,Jean femme taille 44 très bon état,9.0,Jean femme taille 44 très bon état largeur taille prit à plat d un coter 44 cm long total 100 cm et entre jambe 77 cm bas des jambes 23 cm larg haut cuisse prit à plat d un coter 32 cm
-76,TRÈS BON ÉTAT,BERSHKA ,2022-04-02,Jean mom/boyfriend gris troué (femme),25.0,⭐️ Très bon état
-77,BON ÉTAT,POCOPIANO ,2022-03-21,Jean garçon,1.0,Porter quelques fois
-78,NEUF SANS ÉTIQUETTE,SHEIN ,2022-03-23,Jean effet décoloré dégradé,10.0,jamais porté
-79,TRÈS BON ÉTAT,STRADIVARIUS ,2022-04-04,Jean taille haute Stradivarius,19.0,"quasi neuve 
-valeur magasin 39,99€
-plus d’info pv
-envoi rapide"
-80,TRÈS BON ÉTAT,SALSA ,2022-04-04,Jean Salsa taille 36,30.0,"Jean salsa
-Taille 36
-Porté 1 fois car devenu trop petit.
-État neuf
-Acheté en boutique 100 euros"
-81,TRÈS BON ÉTAT,DIESEL ,2022-04-04,Jean diesel slim-skinny Bleu clair.,35.0,"Bonjour, je vend ce jean acheter cher diesel au prix de 180 euros. Je m’en sépare car je ne l’ai porté que très peu de fois. Taille W29-L32. Convient parfaitement pour une personne portant du 38. 100% authentique.
-
-
-#jeans #jeansslim #diesel #bydiesel"
-82,TRÈS BON ÉTAT,LEVI'S ,2022-04-04,Jean Levi’s 501,30.0,Jean très bon etat
-83,NEUF SANS ÉTIQUETTE,PRETTYLITTLETHING ,2022-04-02,jean boyfriend pretty little thing,20.0,neuf jamais porté
-84,BON ÉTAT,LACOSTE ,2022-04-02,🦋 Jean Lacoste Vintage 44 🦋,14.95,"🏷 I Jean Lacoste Vintage Bleu Délavé
-
-📊 I État 7,5/10 (étiquette derrière enlevé)
-
-📏 I Taille 44 || longueur : 95cm || largueur : 44cm
-
-🍭I Un cadeau offert dans chaque commande
-
-🌿—————————————————————🌿
-
-❓ Tu as des questions sur l’article ? Je suis également là pour t’aider donc n’hésite pas 😊 ❓
-
-📦 Expédition sous 24h. (jour ouvré)
-✅ Emballage soigné (enveloppe d’expédition)
-
-📱Abonne toi pour ne rien manquer des nouveaux articles quotidiens ! 📱
+📱ABONNE TOI POUR NE RIEN MANQUER DES NOUVEAUX ARTICLES QUOTIDIENS ! 📱
 
 🌿—————————————————————🌿
 
 
 
-tags : sweat, hoodie, vintage, pantalon, regular"
-85,TRÈS BON ÉTAT,OKAÏDI ,2022-03-13,Jean slim,3.5,okaidi
-86,TRÈS BON ÉTAT,BLANCHEPORTE ,2022-04-04,jean bleu,12.0,"jean bleu taille 42 fermé par 4 boutons , 4 poches"
-87,TRÈS BON ÉTAT,BLANCHEPORTE ,2022-04-04,jean bleu,12.0,"jean bleu taille 42 fermé par 4 boutons , 4 poches"
-88,BON ÉTAT,MONKI ,2022-04-04,Jean taiki,15.0,"jean taille haute
+TAGS : SWEAT, HOODIE, VINTAGE, PANTALON, REGULAR",False,Fashion
+75,TRÈS BON ÉTAT,BOUTIQUE INDÉPENDANTE,2022-03-30,JEAN FEMME TAILLE 44 TRÈS BON ÉTAT,9.0,JEAN FEMME TAILLE 44 TRÈS BON ÉTAT LARGEUR TAILLE PRIT À PLAT D UN COTER 44 CM LONG TOTAL 100 CM ET ENTRE JAMBE 77 CM BAS DES JAMBES 23 CM LARG HAUT CUISSE PRIT À PLAT D UN COTER 32 CM,False,UltraFastFashion
+76,TRÈS BON ÉTAT,BERSHKA,2022-04-02,JEAN MOM/BOYFRIEND GRIS TROUÉ (FEMME),25.0,⭐️ TRÈS BON ÉTAT,False,FastFashion
+77,BON ÉTAT,POCOPIANO,2022-03-21,JEAN GARÇON,1.0,PORTER QUELQUES FOIS,False,UltraFastFashion
+78,NEUF SANS ÉTIQUETTE,SHEIN,2022-03-23,JEAN EFFET DÉCOLORÉ DÉGRADÉ,10.0,JAMAIS PORTÉ,False,UltraFastFashion
+79,TRÈS BON ÉTAT,STRADIVARIUS,2022-04-04,JEAN TAILLE HAUTE STRADIVARIUS,19.0,"QUASI NEUVE 
+VALEUR MAGASIN 39,99€
+PLUS D’INFO PV
+ENVOI RAPIDE",False,UltraFastFashion
+80,TRÈS BON ÉTAT,SALSA,2022-04-04,JEAN SALSA TAILLE 36,30.0,"JEAN SALSA
+TAILLE 36
+PORTÉ 1 FOIS CAR DEVENU TROP PETIT.
+ÉTAT NEUF
+ACHETÉ EN BOUTIQUE 100 EUROS",False,UltraFastFashion
+81,TRÈS BON ÉTAT,DIESEL,2022-04-04,JEAN DIESEL SLIM-SKINNY BLEU CLAIR.,35.0,"BONJOUR, JE VEND CE JEAN ACHETER CHER DIESEL AU PRIX DE 180 EUROS. JE M’EN SÉPARE CAR JE NE L’AI PORTÉ QUE TRÈS PEU DE FOIS. TAILLE W29-L32. CONVIENT PARFAITEMENT POUR UNE PERSONNE PORTANT DU 38. 100% AUTHENTIQUE.
+
+
+#JEANS #JEANSSLIM #DIESEL #BYDIESEL",False,Fashion
+82,TRÈS BON ÉTAT,LEVI'S,2022-04-04,JEAN LEVI’S 501,30.0,JEAN TRÈS BON ETAT,False,FastFashion
+83,NEUF SANS ÉTIQUETTE,PRETTYLITTLETHING,2022-04-02,JEAN BOYFRIEND PRETTY LITTLE THING,20.0,NEUF JAMAIS PORTÉ,False,UltraFastFashion
+84,BON ÉTAT,LACOSTE,2022-04-02,🦋 JEAN LACOSTE VINTAGE 44 🦋,14.95,"🏷 I JEAN LACOSTE VINTAGE BLEU DÉLAVÉ
+
+📊 I ÉTAT 7,5/10 (ÉTIQUETTE DERRIÈRE ENLEVÉ)
+
+📏 I TAILLE 44 || LONGUEUR : 95CM || LARGUEUR : 44CM
+
+🍭I UN CADEAU OFFERT DANS CHAQUE COMMANDE
+
+🌿—————————————————————🌿
+
+❓ TU AS DES QUESTIONS SUR L’ARTICLE ? JE SUIS ÉGALEMENT LÀ POUR T’AIDER DONC N’HÉSITE PAS 😊 ❓
+
+📦 EXPÉDITION SOUS 24H. (JOUR OUVRÉ)
+✅ EMBALLAGE SOIGNÉ (ENVELOPPE D’EXPÉDITION)
+
+📱ABONNE TOI POUR NE RIEN MANQUER DES NOUVEAUX ARTICLES QUOTIDIENS ! 📱
+
+🌿—————————————————————🌿
+
+
+
+TAGS : SWEAT, HOODIE, VINTAGE, PANTALON, REGULAR",False,Fashion
+85,TRÈS BON ÉTAT,OKAÏDI,2022-03-13,JEAN SLIM,3.5,OKAIDI,False,UltraFastFashion
+86,TRÈS BON ÉTAT,BLANCHEPORTE,2022-04-04,JEAN BLEU,12.0,"JEAN BLEU TAILLE 42 FERMÉ PAR 4 BOUTONS , 4 POCHES",False,UltraFastFashion
+87,TRÈS BON ÉTAT,BLANCHEPORTE,2022-04-04,JEAN BLEU,12.0,"JEAN BLEU TAILLE 42 FERMÉ PAR 4 BOUTONS , 4 POCHES",False,UltraFastFashion
+88,BON ÉTAT,MONKI,2022-04-04,JEAN TAIKI,15.0,"JEAN TAILLE HAUTE
  
-je mesure 170 du coup il est un peu short pour moi
+JE MESURE 170 DU COUP IL EST UN PEU SHORT POUR MOI
 
-bon état
+BON ÉTAT
 
-taille 27 ( çava pour un 36 ou petit 38)"
-89,NEUF AVEC ÉTIQUETTE,SHEIN ,2022-04-04,Jean marron style tie & dye,10.0,"jamais porté, trop large et long pour moi
-taille bien, jolies couleurs, équivaut bien à un 36
+TAILLE 27 ( ÇAVA POUR UN 36 OU PETIT 38)",False,UltraFastFashion
+89,NEUF AVEC ÉTIQUETTE,SHEIN,2022-04-04,JEAN MARRON STYLE TIE & DYE,10.0,"JAMAIS PORTÉ, TROP LARGE ET LONG POUR MOI
+TAILLE BIEN, JOLIES COULEURS, ÉQUIVAUT BIEN À UN 36
 
-vendu avec le sac Shein d'origine 
-la dernière photo est celle de l'article sur le site"
-90,TRÈS BON ÉTAT,DIESEL ,2022-04-02,Jean gris / Diesel,25.0,"Jean gris délavé. 
-Effet abimé au niveau des genoux. 
+VENDU AVEC LE SAC SHEIN D'ORIGINE 
+LA DERNIÈRE PHOTO EST CELLE DE L'ARTICLE SUR LE SITE",False,UltraFastFashion
+90,TRÈS BON ÉTAT,DIESEL,2022-04-02,JEAN GRIS / DIESEL,25.0,"JEAN GRIS DÉLAVÉ. 
+EFFET ABIMÉ AU NIVEAU DES GENOUX. 
 
-Taille : W28 - L32
-Coupe : Thommer - Skinny
+TAILLE : W28 - L32
+COUPE : THOMMER - SKINNY
 
-État proche du neuf.
-Porté 4 fois.
+ÉTAT PROCHE DU NEUF.
+PORTÉ 4 FOIS.
 
-Ps : 184cm / 75kg."
-91,TRÈS BON ÉTAT,MANGO ,2022-03-25,Jean mom fit taille haute,15.0,"Jean mom fit bleu clair délavé, taille haute. Porté 1fois."
-92,BON ÉTAT,ZARA ,2022-03-21,Jean garçon,2.0,Porter quelques fois
-93,NEUF AVEC ÉTIQUETTE,LA PETITE FRANCAISE ,2022-03-23,Jean la petite française,25.0,"jean slim bleu clair 
-neuf"
-94,TRÈS BON ÉTAT,LEVI'S ,2022-03-24,Jean’s Lévis slight curveW30L30,25.0,"en très bon état 
-largeur taille 38
-longueur 99cm"
-96,NEUF SANS ÉTIQUETTE,JEWELLY ,2022-04-04,Jean neuf,12.0,"neuf
-slim
-avec elasthanne"
-100,NEUF SANS ÉTIQUETTE,ZEHOOD ,2022-04-04,Jean Zehood,25.0,Jean zehood neuf sans étiquette
-0,TRÈS BON ÉTAT,LEVI'S,2022-04-01,,25.0,Jean's Levi's 510 32x32Traduire
-1,TRÈS BON ÉTAT,AMIRI,2022-04-04,,240.0,Jean Amiri Bleu Taille 32 (look usé)Traduire
-2,TRÈS BON ÉTAT,AMIRI,2022-04-04,,240.0,Jeans amiri bleu taille 32 look kariertTraduire
-3,TRÈS BON ÉTAT,AMIRI,2022-04-04,,240.0,Jean Amiri Bleu Taille 32 (look usé)Traduire
-4,TRÈS BON ÉTAT,AMIRI,2022-04-04,,300.0,Jean AMIRI noir à rayures blanches Taille 32Traduire
-5,NEUF AVEC ÉTIQUETTES,ISABEL MARANT,2022-03-28,,118.0,Jean en coton Isabel Marant. tir haut Tout neufTraduire
-6,NEUF AVEC ÉTIQUETTES,ZARA,2022-03-31,,22.0,Jean en denim bleuTraduire
-8,TRÈS BON ÉTAT,ÉTUDES STUDIO,2022-03-28,,54.0,"Jean Études Studio size 46 (36 EU)
+PS : 184CM / 75KG.",False,Fashion
+91,TRÈS BON ÉTAT,MANGO,2022-03-25,JEAN MOM FIT TAILLE HAUTE,15.0,"JEAN MOM FIT BLEU CLAIR DÉLAVÉ, TAILLE HAUTE. PORTÉ 1FOIS.",False,FastFashion
+92,BON ÉTAT,ZARA,2022-03-21,JEAN GARÇON,2.0,PORTER QUELQUES FOIS,False,FastFashion
+93,NEUF AVEC ÉTIQUETTE,LA PETITE FRANCAISE,2022-03-23,JEAN LA PETITE FRANÇAISE,25.0,"JEAN SLIM BLEU CLAIR 
+NEUF",False,Fashion
+94,TRÈS BON ÉTAT,LEVI'S,2022-03-24,JEAN’S LÉVIS SLIGHT CURVEW30L30,25.0,"EN TRÈS BON ÉTAT 
+LARGEUR TAILLE 38
+LONGUEUR 99CM",False,FastFashion
+95,TRÈS BON ÉTAT,PLEASE,2022-04-04,PLEASE NOIR,12.0,"EXCELLENT ÉTAT
+POUR UN 38 OU UN 40",False,UltraFastFashion
+96,NEUF SANS ÉTIQUETTE,JEWELLY,2022-04-04,JEAN NEUF,12.0,"NEUF
+SLIM
+AVEC ELASTHANNE",False,UltraFastFashion
+97,NEUF SANS ÉTIQUETTE,ZNJ,2022-04-04,MAGNIFIQUE HAUT DE SOIRÉE ZNJ,12.0,"UNE MANCHE LONGUE ET UNE ÉPAULE NUE. EN SATIN. ZIP D UN CÔTÉ ET LIEN POUR ME FRONCER SI ON LE SOUHAITE. ARRIVE Á LA TAILLE. L OURLET D UN CÔTÉ ET DÉFAIT, PRÉVOIR QUELQUES POINTS",False,UltraFastFashion
+98,NEUF AVEC ÉTIQUETTE,CASA,2022-03-26,GLOBE TERRESTRE NEUF,15.0,AVEC ÉTIQUETTE,False,UltraFastFashion
+99,NEUF SANS ÉTIQUETTE,ISABEL MARANT,2022-03-26,JUPE NEUVE ISABEL MARANT,69.0,"NEUVE 
+100%SOIE
+38 OU 36",False,Fashion
+100,NEUF SANS ÉTIQUETTE,ZEHOOD,2022-04-04,JEAN ZEHOOD,25.0,JEAN ZEHOOD NEUF SANS ÉTIQUETTE,False,UltraFastFashion
+0,TRÈS BON ÉTAT,LEVI'S,2022-04-01,,25.0,JEAN'S LEVI'S 510 32X32TRADUIRE,False,FastFashion
+1,TRÈS BON ÉTAT,AMIRI,2022-04-04,,240.0,JEAN AMIRI BLEU TAILLE 32 (LOOK USÉ)TRADUIRE,False,Fashion
+2,TRÈS BON ÉTAT,AMIRI,2022-04-04,,240.0,JEANS AMIRI BLEU TAILLE 32 LOOK KARIERTTRADUIRE,False,Fashion
+3,TRÈS BON ÉTAT,AMIRI,2022-04-04,,240.0,JEAN AMIRI BLEU TAILLE 32 (LOOK USÉ)TRADUIRE,False,Fashion
+4,TRÈS BON ÉTAT,AMIRI,2022-04-04,,300.0,JEAN AMIRI NOIR À RAYURES BLANCHES TAILLE 32TRADUIRE,False,Fashion
+5,NEUF AVEC ÉTIQUETTES,ISABEL MARANT,2022-03-28,,118.0,JEAN EN COTON ISABEL MARANT. TIR HAUT TOUT NEUFTRADUIRE,False,Fashion
+6,NEUF AVEC ÉTIQUETTES,ZARA,2022-03-31,,22.0,JEAN EN DENIM BLEUTRADUIRE,False,FastFashion
+7,TRÈS BON ÉTAT,JACQUEMUS,2022-03-30,,120.0,MODÈLE LA RIVIERA EN DENIM BLANC LARGE.TRADUIRE,False,Undefined
+8,TRÈS BON ÉTAT,ÉTUDES STUDIO,2022-03-28,,54.0,"JEAN ÉTUDES STUDIO SIZE 46 (36 EU)
 
-Très bon étatTraduire"
-9,TRÈS BON ÉTAT,PHILIPP PLEIN,2022-04-04,,90.0,Jean Philipp Plein super coupe droite. Élastiqué. Taille 34. Très bon état.Traduire
-10,TRÈS BON ÉTAT,DIESEL,2022-03-31,,21.0,"jean légèrement évasé, taille basseTraduire"
-11,TRÈS BON ÉTAT,DSQUARED2,2022-03-28,,50.0,Jean moulant à jambe droite et taille basse. Zip en basTraduire
-13,TRÈS BON ÉTAT,PHILIPP PLEIN,2022-04-04,,80.0,Jeans Philipp Plein taglio super straight cut Taglia 34. Ottime condizioni.Traduire
-14,NEUF AVEC ÉTIQUETTES,DSQUARED2,2022-04-02,,150.0,Jeans Dsquared2 neuf jamais porté avec étiquetteTraduire
-15,TRÈS BON ÉTAT,DIOR HOMME,2022-04-03,,145.0,"Jean Slim Dior par Kris van Assche
-Dior Japan 
-Cond: 9,9/10 porté une fois 
-Size: 31 fit 31-32 (low waist)
-Traduire"
-16,TRÈS BON ÉTAT,FIORUCCI,2022-03-30,,31.0,Jean slim avec bas légèrement évaséTraduire
-17,BON ÉTAT,STELLA MCCARTNEY,2022-03-27,,40.0,"Les jeans ont une coupe basse et serrée avec des jambes droites et larges.
-Denim foncé.
-Le bout des jambes, en raison de la coupe, touchait un peu le sol.Traduire"
-18,NEUF AVEC ÉTIQUETTES,R13,2022-04-03,,200.0,Jean boyfriend R13 neuf et avec étiquette. taille 25 couleur bain avec déchiruresTraduire
-20,NEUF SANS ÉTIQUETTE,LEVI'S,2022-04-02,,36.0,Jean levis 501 très bon étatTraduire
-21,NEUF AVEC ÉTIQUETTES,MANGO,2022-04-04,,17.0,"jean skinny stretch, neuf, couleur claire, taille XS IT 38Traduire"
-24,TRÈS BON ÉTAT,PATRIZIA PEPE,2022-03-28,,20.0,"Jean skinny Patrizia Pepe effet push-up, bleu moyen clair. 
- Très peu porté, comme neuf. 
- Taille basse. 
- Taille 25 stretch.Traduire"
-25,SATISFAISANT,MIH JEANS,2022-03-26,,20.0,Mih Jeans jambe super skinny taille haute. Petites traces d'usureTraduire
-26,NEUF SANS ÉTIQUETTE,LOEWE,2022-04-01,,199.0,"Jean Femme Loewe Flare à jambes larges. Taille 34 FR, mesures : taille 33 cm, longueur 101 cm, ourlet 34 cm. Parfait état, jamais porté. Le prix de vente est de 450€. Réf. numéro S359331XCP. Fabriqué en ItalieTraduire"
-27,NEUF AVEC ÉTIQUETTES,JADED LONDON,2022-04-02,,50.0,"Jeans jaded london neuf jamais porté. Coupe droite.
-Taille 30 longueur 30 (taille US).
-Entrejambe: 76 cm longueur totale 105 cmTraduire"
-28,NEUF AVEC ÉTIQUETTES,DSQUARED2,2022-03-31,,104.0,"Jeans Dsquared2 homme, taille 48 IT. Toujours étiqueté, état niquel!Traduire"
-31,TRÈS BON ÉTAT,DOLCE & GABBANA,2022-04-03,,40.0,"Jean Dolce et Gabbana en excellent état 
- avec plaque de la marque dans la poche arrièreTraduire"
-32,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-04-01,,55.0,jean avec patch sur la poche arrière. tg. S/MTraduire
-34,NEUF SANS ÉTIQUETTE,MISE AU GREEN,2022-04-02,,25.0,Jean Mise au green très bon etatTraduire
-38,NEUF SANS ÉTIQUETTE,BURBERRY,2022-04-01,,702.2,"Porté une fois, apporté il y a 2 ans par Burberry, Harrods. Jean blanc taille basse, jambe droite avec estampille Burberry, vraiment rare, je les aime mais ne me vont pas. Sont une petite taille car un w25 conviendrait probablement à une ta...Lire la suiteTraduire"
-40,TRÈS BON ÉTAT,TOTÊME,2022-03-30,,67.47,"Jean déchiré original Toteme, couture torsadée, bleu délavé, longueur raccourcie.
-Taille 25/32. Porté quelques fois seulement.Traduire"
-41,NEUF SANS ÉTIQUETTE,Y/PROJECT,2022-04-02,,400.0,"Collection FW 2021
-Jean droit taille haute, délavé avec la taille torsadée.Traduire"
-43,TRÈS BON ÉTAT,ISABEL MARANT ETOILE,2022-03-31,,70.0,Helle Jeans high waistTraduire
-44,NEUF SANS ÉTIQUETTE,DIESEL,2022-04-02,,20.0,jeans droit femme Diesel T 27 américaine il est couleur brut état excellent coupe droiteTraduire
-46,BON ÉTAT,LEVI'S,2022-04-01,,35.0,"Jean vintage années 80, ils n'ont pas l'ourlet d'origine, je ne connais pas exactement la taille et le modèle, si intéressé je donnerai des mesures et d'autres photos plus détailléesTraduire"
-47,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-28,,108.0,"A vendre jean Dsquared2, taille 50, comme neuf.Traduire"
-48,TRÈS BON ÉTAT,JACOB COHEN,2022-03-30,,60.0,Jean Jacob Cohen pour homme tg. 32 en tissu d'été bleu-gris slim feat. Ourlet rétréci d'un cm dans un magasin monomarque.Traduire
-49,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-29,,77.88,"Ces jeans DSQUARED super rares proviennent de la tristement célèbre collection ""Homeless"". Il est doté d'une coupe bootcut et d'une poche arrière déchirée avec un slogan brodé ""Nosy F * cker"". 
+TRÈS BON ÉTATTRADUIRE",False,Undefined
+9,TRÈS BON ÉTAT,PHILIPP PLEIN,2022-04-04,,90.0,JEAN PHILIPP PLEIN SUPER COUPE DROITE. ÉLASTIQUÉ. TAILLE 34. TRÈS BON ÉTAT.TRADUIRE,False,Fashion
+10,TRÈS BON ÉTAT,DIESEL,2022-03-31,,21.0,"JEAN LÉGÈREMENT ÉVASÉ, TAILLE BASSETRADUIRE",False,Fashion
+11,TRÈS BON ÉTAT,DSQUARED2,2022-03-28,,50.0,JEAN MOULANT À JAMBE DROITE ET TAILLE BASSE. ZIP EN BASTRADUIRE,False,Fashion
+12,NEUF AVEC ÉTIQUETTES,JACOB COHEN,2022-04-03,,85.61,"JACOB COHEN LIMITED EDITION.
+NOUVELLE TAILLE 30. 
 
-Ils n'ont jamais été portés et l'état peut ...Lire la suiteTraduire"
-50,TRÈS BON ÉTAT,GUESS,2022-04-02,,21.0,Jean stretch taille basseTraduire
-51,TRÈS BON ÉTAT,GUCCI,2022-03-30,,86.0,Jean déchiré Gucci taille 29 (environ 42) taille naturelle porté seulement 2 foisTraduire
-52,NEUF SANS ÉTIQUETTE,PULL & BEAR,2022-04-03,,16.0,"Jean en parfait état, couleur noir délavé. taille 34Traduire"
-53,BON ÉTAT,PLEASE,2022-04-03,,20.0,"Jean bleu foncé en excellent état par Please. Bon ajustement, confortable et malléable. La jambe du pantalon reste bien ajustée sans serrer, elle épouse les jambes.Traduire"
-54,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-27,,108.0,"A vendre jean Dsquared2, taille L, comme neuf.Traduire"
-55,TRÈS BON ÉTAT,GUCCI,2022-03-29,,75.0,Jean noir Gucci en excellent état.Traduire
-58,TRÈS BON ÉTAT,STAUD,2022-03-31,,45.0,"Jean noir avec poches blanches à l'arrière STAUD Taille italienne 31/44-46 
- Coupe droiteTraduire"
-59,TRÈS BON ÉTAT,NON SIGNÉ / UNSIGNED,2022-04-02,,20.0,"Jean vintage avec strass sur les poches arrières et une poche avant.
-Le jean est taille basse, il taille bien et le bas et plus large.
-Très bon état.Traduire"
-60,TRÈS BON ÉTAT,FRACOMINA,2022-03-31,,25.0,"Jean FRACOMINA, original. 
- Couleur jean bleu denim. 
- Taille 28 (us) / 42 (ita) 
- Bon état. 
- Détails clousTraduire"
-63,TRÈS BON ÉTAT,VERSACE,2022-04-01,,60.0,"Jean skinny noir Versace, utilisé quelques fois, toujours en très bon état pré-aimé. 
-Un incontournable de la garde-robe décontractée, ce jean skinny sexy à panneaux est coupé en denim stretch avec une coupe ajustée et dispose d'un bouton e...Lire la suiteTraduire"
-64,TRÈS BON ÉTAT,DOLCE & GABBANA,2022-03-31,,49.0,"jean authentique dolce Gabbana
+MODÈLE : J622 NEW LTD.TRADUIRE",False,Undefined
+13,TRÈS BON ÉTAT,PHILIPP PLEIN,2022-04-04,,80.0,JEANS PHILIPP PLEIN TAGLIO SUPER STRAIGHT CUT TAGLIA 34. OTTIME CONDIZIONI.TRADUIRE,False,Fashion
+14,NEUF AVEC ÉTIQUETTES,DSQUARED2,2022-04-02,,150.0,JEANS DSQUARED2 NEUF JAMAIS PORTÉ AVEC ÉTIQUETTETRADUIRE,False,Fashion
+15,TRÈS BON ÉTAT,DIOR HOMME,2022-04-03,,145.0,"JEAN SLIM DIOR PAR KRIS VAN ASSCHE
+DIOR JAPAN 
+COND: 9,9/10 PORTÉ UNE FOIS 
+SIZE: 31 FIT 31-32 (LOW WAIST)
+TRADUIRE",False,Fashion
+16,TRÈS BON ÉTAT,FIORUCCI,2022-03-30,,31.0,JEAN SLIM AVEC BAS LÉGÈREMENT ÉVASÉTRADUIRE,False,UltraFastFashion
+17,BON ÉTAT,STELLA MCCARTNEY,2022-03-27,,40.0,"LES JEANS ONT UNE COUPE BASSE ET SERRÉE AVEC DES JAMBES DROITES ET LARGES.
+DENIM FONCÉ.
+LE BOUT DES JAMBES, EN RAISON DE LA COUPE, TOUCHAIT UN PEU LE SOL.TRADUIRE",False,UltraFastFashion
+18,NEUF AVEC ÉTIQUETTES,R13,2022-04-03,,200.0,JEAN BOYFRIEND R13 NEUF ET AVEC ÉTIQUETTE. TAILLE 25 COULEUR BAIN AVEC DÉCHIRURESTRADUIRE,False,Fashion
+19,NEUF SANS ÉTIQUETTE,ACNE STUDIOS,2022-04-03,,70.0,"NEUF, JAMAIS PORTÉ
 
-porté seulement 3 fois, parfait état
+TAILLE DE LA MARQUE 29
+SUR L'ÉTIQUETTE : 29 34 175/72A
+TRÈS PETIT, JE NE RENTRE PAS DANS MON M TAILLE
 
-gris brillant / argent
+PRIX D'ORIGINE 240 EUROSTRADUIRE",False,Undefined
+20,NEUF SANS ÉTIQUETTE,LEVI'S,2022-04-02,,36.0,JEAN LEVIS 501 TRÈS BON ÉTATTRADUIRE,False,FastFashion
+21,NEUF AVEC ÉTIQUETTES,MANGO,2022-04-04,,17.0,"JEAN SKINNY STRETCH, NEUF, COULEUR CLAIRE, TAILLE XS IT 38TRADUIRE",False,FastFashion
+22,NEUF SANS ÉTIQUETTE,AGOLDE,2022-04-01,,70.22,AGRÉABLETRADUIRE,False,Undefined
+23,NEUF AVEC ÉTIQUETTES,JADED LONDON,2022-03-29,,44.95,"NEUF AVEC ÉTIQUETTES
+TAILLE 38CMTRADUIRE",False,UltraFastFashion
+24,TRÈS BON ÉTAT,PATRIZIA PEPE,2022-03-28,,20.0,"JEAN SKINNY PATRIZIA PEPE EFFET PUSH-UP, BLEU MOYEN CLAIR. 
+ TRÈS PEU PORTÉ, COMME NEUF. 
+ TAILLE BASSE. 
+ TAILLE 25 STRETCH.TRADUIRE",False,UltraFastFashion
+25,SATISFAISANT,MIH JEANS,2022-03-26,,20.0,MIH JEANS JAMBE SUPER SKINNY TAILLE HAUTE. PETITES TRACES D'USURETRADUIRE,False,UltraFastFashion
+26,NEUF SANS ÉTIQUETTE,LOEWE,2022-04-01,,199.0,"JEAN FEMME LOEWE FLARE À JAMBES LARGES. TAILLE 34 FR, MESURES : TAILLE 33 CM, LONGUEUR 101 CM, OURLET 34 CM. PARFAIT ÉTAT, JAMAIS PORTÉ. LE PRIX DE VENTE EST DE 450€. RÉF. NUMÉRO S359331XCP. FABRIQUÉ EN ITALIETRADUIRE",False,Fashion
+27,NEUF AVEC ÉTIQUETTES,JADED LONDON,2022-04-02,,50.0,"JEANS JADED LONDON NEUF JAMAIS PORTÉ. COUPE DROITE.
+TAILLE 30 LONGUEUR 30 (TAILLE US).
+ENTREJAMBE: 76 CM LONGUEUR TOTALE 105 CMTRADUIRE",False,Undefined
+28,NEUF AVEC ÉTIQUETTES,DSQUARED2,2022-03-31,,104.0,"JEANS DSQUARED2 HOMME, TAILLE 48 IT. TOUJOURS ÉTIQUETÉ, ÉTAT NIQUEL!TRADUIRE",False,Fashion
+29,TRÈS BON ÉTAT,PATRIZIA PEPE,2022-03-27,,17.0,"PANTALON SKINNY PATRIZIA PEPE, EFFET PUSH-UP. 
+ TRÈS PEU PORTÉ, COMME NEUF. 
+ COULEUR VERT ARMÉE. 
+ TAILLE BASSE. 
+ TAILLE 25 ÉLASTIQUÉ [[2 ]]TRADUIRE",False,UltraFastFashion
+30,TRÈS BON ÉTAT,YVES SAINT LAURENT,2022-04-02,,48.65,TRÈS BONNE CONDITIONTRADUIRE,False,Fashion
+31,TRÈS BON ÉTAT,DOLCE & GABBANA,2022-04-03,,40.0,"JEAN DOLCE ET GABBANA EN EXCELLENT ÉTAT 
+ AVEC PLAQUE DE LA MARQUE DANS LA POCHE ARRIÈRETRADUIRE",False,Fashion
+32,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-04-01,,55.0,JEAN AVEC PATCH SUR LA POCHE ARRIÈRE. TG. S/MTRADUIRE,False,Fashion
+33,TRÈS BON ÉTAT,DSQUARED2,2022-04-01,,82.99,"PORTÉ QUELQUES FOIS, PRESQUE COMME NEUF
 
-Traduire"
-66,TRÈS BON ÉTAT,DSQUARED2,2022-03-28,,42.0,"Jean Dsquared taille 40. En bon état, peu servi. Il a une petite usure qu'il a soulignée du doigt.Traduire"
-67,NEUF AVEC ÉTIQUETTES,CURRENT ELLIOTT,2022-03-30,,52.0,"Jean skinny Current/Elliott Stilleto
+TAILLE IT48
+TAILLE 45CM
+OUVERTURE JAMBE 16,5CM
+ENTREJAMBE 80CM
+LARGEUR CUISSE 27CM 
+HAUTEUR 27CM
+LONGUEUR 104CMTRADUIRE",False,Fashion
+34,NEUF SANS ÉTIQUETTE,MISE AU GREEN,2022-04-02,,25.0,JEAN MISE AU GREEN TRÈS BON ETATTRADUIRE,False,UltraFastFashion
+35,NEUF AVEC ÉTIQUETTES,ACNE STUDIOS,2022-04-03,,70.0,"NEUF, JAMAIS PORTÉ
+
+ACNÉ TAILLE 29
+SUR L'ÉTIQUETTE : 29 34 175/72A
+TRÈS PETIT, JE NE RENTRE PAS DANS MA TAILLE M[ [2]]
+PRIX D'ORIGINE 240 EUROS 
+TRADUIRE",False,Undefined
+36,TRÈS BON ÉTAT,VICTORIA BECKHAM,2022-04-02,,57.92,AUCUN DÉFAUTTRADUIRE,False,Undefined
+37,TRÈS BON ÉTAT,LEVI'S,2022-04-01,,29.0,"LEVI'S 501 FEMME 
+ LONGUEUR 100CM 
+ TAILLE 40 CMTRADUIRE",False,FastFashion
+38,NEUF SANS ÉTIQUETTE,BURBERRY,2022-04-01,,702.2,"PORTÉ UNE FOIS, APPORTÉ IL Y A 2 ANS PAR BURBERRY, HARRODS. JEAN BLANC TAILLE BASSE, JAMBE DROITE AVEC ESTAMPILLE BURBERRY, VRAIMENT RARE, JE LES AIME MAIS NE ME VONT PAS. SONT UNE PETITE TAILLE CAR UN W25 CONVIENDRAIT PROBABLEMENT À UNE TA...LIRE LA SUITETRADUIRE",False,Fashion
+39,TRÈS BON ÉTAT,MET,2022-04-02,,25.0,PANTALON STRETCH TAILLE BASSETRADUIRE,False,UltraFastFashion
+40,TRÈS BON ÉTAT,TOTÊME,2022-03-30,,67.47,"JEAN DÉCHIRÉ ORIGINAL TOTEME, COUTURE TORSADÉE, BLEU DÉLAVÉ, LONGUEUR RACCOURCIE.
+TAILLE 25/32. PORTÉ QUELQUES FOIS SEULEMENT.TRADUIRE",False,Undefined
+41,NEUF SANS ÉTIQUETTE,Y/PROJECT,2022-04-02,,400.0,"COLLECTION FW 2021
+JEAN DROIT TAILLE HAUTE, DÉLAVÉ AVEC LA TAILLE TORSADÉE.TRADUIRE",False,Fashion
+42,NEUF SANS ÉTIQUETTE,R13,2022-03-31,,190.0,DROP R13 SUR MESURE NEUF MAIS SANS ÉTIQUETTE. TAILLE 28 UNISEXETRADUIRE,False,Fashion
+43,TRÈS BON ÉTAT,ISABEL MARANT ETOILE,2022-03-31,,70.0,HELLE JEANS HIGH WAISTTRADUIRE,False,Fashion
+44,NEUF SANS ÉTIQUETTE,DIESEL,2022-04-02,,20.0,JEANS DROIT FEMME DIESEL T 27 AMÉRICAINE IL EST COULEUR BRUT ÉTAT EXCELLENT COUPE DROITETRADUIRE,False,Fashion
+45,NEUF SANS ÉTIQUETTE,SANDRO,2022-03-30,,55.0,"SANDRO, JAMAIS PORTÉTRADUIRE",False,Fashion
+46,BON ÉTAT,LEVI'S,2022-04-01,,35.0,"JEAN VINTAGE ANNÉES 80, ILS N'ONT PAS L'OURLET D'ORIGINE, JE NE CONNAIS PAS EXACTEMENT LA TAILLE ET LE MODÈLE, SI INTÉRESSÉ JE DONNERAI DES MESURES ET D'AUTRES PHOTOS PLUS DÉTAILLÉESTRADUIRE",False,FastFashion
+47,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-28,,108.0,"A VENDRE JEAN DSQUARED2, TAILLE 50, COMME NEUF.TRADUIRE",False,Fashion
+48,TRÈS BON ÉTAT,JACOB COHEN,2022-03-30,,60.0,JEAN JACOB COHEN POUR HOMME TG. 32 EN TISSU D'ÉTÉ BLEU-GRIS SLIM FEAT. OURLET RÉTRÉCI D'UN CM DANS UN MAGASIN MONOMARQUE.TRADUIRE,False,Undefined
+49,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-29,,77.88,"CES JEANS DSQUARED SUPER RARES PROVIENNENT DE LA TRISTEMENT CÉLÈBRE COLLECTION ""HOMELESS"". IL EST DOTÉ D'UNE COUPE BOOTCUT ET D'UNE POCHE ARRIÈRE DÉCHIRÉE AVEC UN SLOGAN BRODÉ ""NOSY F * CKER"". 
+
+ILS N'ONT JAMAIS ÉTÉ PORTÉS ET L'ÉTAT PEUT ...LIRE LA SUITETRADUIRE",False,Fashion
+50,TRÈS BON ÉTAT,GUESS,2022-04-02,,21.0,JEAN STRETCH TAILLE BASSETRADUIRE,False,Fashion
+51,TRÈS BON ÉTAT,GUCCI,2022-03-30,,86.0,JEAN DÉCHIRÉ GUCCI TAILLE 29 (ENVIRON 42) TAILLE NATURELLE PORTÉ SEULEMENT 2 FOISTRADUIRE,False,Fashion
+52,NEUF SANS ÉTIQUETTE,PULL & BEAR,2022-04-03,,16.0,"JEAN EN PARFAIT ÉTAT, COULEUR NOIR DÉLAVÉ. TAILLE 34TRADUIRE",False,FastFashion
+53,BON ÉTAT,PLEASE,2022-04-03,,20.0,"JEAN BLEU FONCÉ EN EXCELLENT ÉTAT PAR PLEASE. BON AJUSTEMENT, CONFORTABLE ET MALLÉABLE. LA JAMBE DU PANTALON RESTE BIEN AJUSTÉE SANS SERRER, ELLE ÉPOUSE LES JAMBES.TRADUIRE",False,UltraFastFashion
+54,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-27,,108.0,"A VENDRE JEAN DSQUARED2, TAILLE L, COMME NEUF.TRADUIRE",False,Fashion
+55,TRÈS BON ÉTAT,GUCCI,2022-03-29,,75.0,JEAN NOIR GUCCI EN EXCELLENT ÉTAT.TRADUIRE,False,Fashion
+56,NEUF SANS ÉTIQUETTE,BALMAIN,2022-03-30,,177.0,BALMAIN FEMME JEAN BIKERTRADUIRE,False,Fashion
+57,NEUF SANS ÉTIQUETTE,BALMAIN,2022-03-30,,177.0,BALMAIN FEMME JEAN BIKERTRADUIRE,False,Fashion
+58,TRÈS BON ÉTAT,STAUD,2022-03-31,,45.0,"JEAN NOIR AVEC POCHES BLANCHES À L'ARRIÈRE STAUD TAILLE ITALIENNE 31/44-46 
+ COUPE DROITETRADUIRE",False,Undefined
+59,TRÈS BON ÉTAT,NON SIGNÉ / UNSIGNED,2022-04-02,,20.0,"JEAN VINTAGE AVEC STRASS SUR LES POCHES ARRIÈRES ET UNE POCHE AVANT.
+LE JEAN EST TAILLE BASSE, IL TAILLE BIEN ET LE BAS ET PLUS LARGE.
+TRÈS BON ÉTAT.TRADUIRE",False,UltraFastFashion
+60,TRÈS BON ÉTAT,FRACOMINA,2022-03-31,,25.0,"JEAN FRACOMINA, ORIGINAL. 
+ COULEUR JEAN BLEU DENIM. 
+ TAILLE 28 (US) / 42 (ITA) 
+ BON ÉTAT. 
+ DÉTAILS CLOUSTRADUIRE",False,UltraFastFashion
+61,NEUF SANS ÉTIQUETTE,BALMAIN,2022-03-31,,177.0,BALMAIN JEAN BIKER GRIS CLAIR POUR FEMMETRADUIRE,False,Fashion
+62,NEUF SANS ÉTIQUETTE,BALMAIN,2022-03-30,,177.0,BALMAIN JEAN BIKER EN GRIS POUR FEMMETRADUIRE,False,Fashion
+63,TRÈS BON ÉTAT,VERSACE,2022-04-01,,60.0,"JEAN SKINNY NOIR VERSACE, UTILISÉ QUELQUES FOIS, TOUJOURS EN TRÈS BON ÉTAT PRÉ-AIMÉ. 
+UN INCONTOURNABLE DE LA GARDE-ROBE DÉCONTRACTÉE, CE JEAN SKINNY SEXY À PANNEAUX EST COUPÉ EN DENIM STRETCH AVEC UNE COUPE AJUSTÉE ET DISPOSE D'UN BOUTON E...LIRE LA SUITETRADUIRE",False,Fashion
+64,TRÈS BON ÉTAT,DOLCE & GABBANA,2022-03-31,,49.0,"JEAN AUTHENTIQUE DOLCE GABBANA
+
+PORTÉ SEULEMENT 3 FOIS, PARFAIT ÉTAT
+
+GRIS BRILLANT / ARGENT
+
+TRADUIRE",False,Fashion
+65,TRÈS BON ÉTAT,LEVI'S,2022-04-03,,50.0,LEVI'S 501 BLANCTRADUIRE,False,FastFashion
+66,TRÈS BON ÉTAT,DSQUARED2,2022-03-28,,42.0,"JEAN DSQUARED TAILLE 40. EN BON ÉTAT, PEU SERVI. IL A UNE PETITE USURE QU'IL A SOULIGNÉE DU DOIGT.TRADUIRE",False,Fashion
+67,NEUF AVEC ÉTIQUETTES,CURRENT ELLIOTT,2022-03-30,,52.0,"JEAN SKINNY CURRENT/ELLIOTT STILLETO
 CAMEL LEOPARD
-Traduire"
-68,TRÈS BON ÉTAT,D&G,2022-03-29,,29.0,"Jean homme D&G dolce and gabbana taille 31/46 porté quelques fois ] Tour de taille 43 
- Tour de taille 88Traduire"
-69,BON ÉTAT,PRADA,2022-03-31,,40.0,"Jean PRADA, taille US 29 (italien 44), en denim de couleur indigo. 
- 100% coton, originaux. 
- Taille regular fit 
- OriginalTraduire"
-71,BON ÉTAT,LEVI'S,2022-03-31,,26.0,"Jean levi's 479 booty flare feet
-correspond à un 34FR
-slim en haut évasé en bas très tendance Traduire"
-72,NEUF SANS ÉTIQUETTE,JUST CAVALLI,2022-03-30,,34.0,"nouveau jean just cavalli, très particulier au dos avec des empiècements façon poney sur les poches façon poney.Traduire"
-73,BON ÉTAT,7 FOR ALL MANKIND,2022-03-30,,25.0,"Jean blanc avec des traces d'usure (quelques légères tâches au dos, voir photo)Traduire"
-75,TRÈS BON ÉTAT,PHILIPP PLEIN,2022-04-04,,90.0,Jean coupe droite Philipp Plein Stone Washed Taille 33. Très bien entretenu.Traduire
-76,TRÈS BON ÉTAT,MORGAN,2022-04-01,,20.85,Jean Morgan. Très bonne condition.Traduire
-77,NEUF SANS ÉTIQUETTE,LEE,2022-03-31,,22.0,"A vendre jeans lee noir taille 44 (W30 L34), mais d'occasion comme neuf.
- 100% coton 
-Traduire"
-78,TRÈS BON ÉTAT,DOLCE & GABBANA,2022-04-04,,150.0,A vendre jeans Dolce et Gabbana en excellent état. La taille européenne est 50Traduire
-79,TRÈS BON ÉTAT,JUST CAVALLI,2022-03-28,,27.0,Jeans juste cavalliTraduire
-80,TRÈS BON ÉTAT,LIU.JO,2022-03-30,,22.0,jean Très bon étatTraduire
-81,TRÈS BON ÉTAT,DIESEL,2022-03-29,,25.0,Jean Vintage Diesel taille basse. Taille un grand 40 voir 42.Traduire
-82,BON ÉTAT,DSQUARED2,2022-03-28,,40.0,Jean droit avec patch motif tartan appliqué ensuite sur les déchiruresTraduire
-83,NEUF SANS ÉTIQUETTE,UNIQLO,2022-03-30,,17.87,"Jean taille haute 2021 UNIQLO U, convient à la taille 27, longueur 34, peut être modifié si besoin.
-Taille haute 65cm, hanche 94cm
-100% cotonTraduire"
-86,TRÈS BON ÉTAT,DIESEL,2022-03-30,,26.81,"Jeans Diesel Alys regular-right, regular wait w27-L32.
-État presque neuf, veuillez voir les photos pour plus de détails.Traduire"
-89,TRÈS BON ÉTAT,R13,2022-03-28,,89.0,"S'avère normal, jeans R13 fleuri, couleurs un peu ternes comme sur les photosTraduire"
+TRADUIRE",False,Undefined
+68,TRÈS BON ÉTAT,D&G,2022-03-29,,29.0,"JEAN HOMME D&G DOLCE AND GABBANA TAILLE 31/46 PORTÉ QUELQUES FOIS ] TOUR DE TAILLE 43 
+ TOUR DE TAILLE 88TRADUIRE",False,Fashion
+69,BON ÉTAT,PRADA,2022-03-31,,40.0,"JEAN PRADA, TAILLE US 29 (ITALIEN 44), EN DENIM DE COULEUR INDIGO. 
+ 100% COTON, ORIGINAUX. 
+ TAILLE REGULAR FIT 
+ ORIGINALTRADUIRE",False,Fashion
+70,SATISFAISANT,LEVI'S,2022-03-29,,35.0,LÉVIS 501. W33 L32. LÉGÈRE TACHE SUR LE HAUT DE LA CUISSE DROITE ET LA CHEVILLE DROITETRADUIRE,False,FastFashion
+71,BON ÉTAT,LEVI'S,2022-03-31,,26.0,"JEAN LEVI'S 479 BOOTY FLARE FEET
+CORRESPOND À UN 34FR
+SLIM EN HAUT ÉVASÉ EN BAS TRÈS TENDANCE TRADUIRE",False,FastFashion
+72,NEUF SANS ÉTIQUETTE,JUST CAVALLI,2022-03-30,,34.0,"NOUVEAU JEAN JUST CAVALLI, TRÈS PARTICULIER AU DOS AVEC DES EMPIÈCEMENTS FAÇON PONEY SUR LES POCHES FAÇON PONEY.TRADUIRE",False,UltraFastFashion
+73,BON ÉTAT,7 FOR ALL MANKIND,2022-03-30,,25.0,"JEAN BLANC AVEC DES TRACES D'USURE (QUELQUES LÉGÈRES TÂCHES AU DOS, VOIR PHOTO)TRADUIRE",False,UltraFastFashion
+74,TRÈS BON ÉTAT,LIU.JO,2022-03-30,,22.0,PEU UTILISÉTRADUIRE,False,UltraFastFashion
+75,TRÈS BON ÉTAT,PHILIPP PLEIN,2022-04-04,,90.0,JEAN COUPE DROITE PHILIPP PLEIN STONE WASHED TAILLE 33. TRÈS BIEN ENTRETENU.TRADUIRE,False,Fashion
+76,TRÈS BON ÉTAT,MORGAN,2022-04-01,,20.85,JEAN MORGAN. TRÈS BONNE CONDITION.TRADUIRE,False,UltraFastFashion
+77,NEUF SANS ÉTIQUETTE,LEE,2022-03-31,,22.0,"A VENDRE JEANS LEE NOIR TAILLE 44 (W30 L34), MAIS D'OCCASION COMME NEUF.
+ 100% COTON 
+TRADUIRE",False,UltraFastFashion
+78,TRÈS BON ÉTAT,DOLCE & GABBANA,2022-04-04,,150.0,A VENDRE JEANS DOLCE ET GABBANA EN EXCELLENT ÉTAT. LA TAILLE EUROPÉENNE EST 50TRADUIRE,False,Fashion
+79,TRÈS BON ÉTAT,JUST CAVALLI,2022-03-28,,27.0,JEANS JUSTE CAVALLITRADUIRE,False,UltraFastFashion
+80,TRÈS BON ÉTAT,LIU.JO,2022-03-30,,22.0,JEAN TRÈS BON ÉTATTRADUIRE,False,UltraFastFashion
+81,TRÈS BON ÉTAT,DIESEL,2022-03-29,,25.0,JEAN VINTAGE DIESEL TAILLE BASSE. TAILLE UN GRAND 40 VOIR 42.TRADUIRE,False,Fashion
+82,BON ÉTAT,DSQUARED2,2022-03-28,,40.0,JEAN DROIT AVEC PATCH MOTIF TARTAN APPLIQUÉ ENSUITE SUR LES DÉCHIRURESTRADUIRE,False,Fashion
+83,NEUF SANS ÉTIQUETTE,UNIQLO,2022-03-30,,17.87,"JEAN TAILLE HAUTE 2021 UNIQLO U, CONVIENT À LA TAILLE 27, LONGUEUR 34, PEUT ÊTRE MODIFIÉ SI BESOIN.
+TAILLE HAUTE 65CM, HANCHE 94CM
+100% COTONTRADUIRE",False,FastFashion
+84,NEUF AVEC ÉTIQUETTES,DIESEL,2022-03-28,,35.0,"JAMAIS PORTÉ (TAILLE TROP PETITE).
+ AVEC ÉTIQUETTETRADUIRE",False,Fashion
+85,NEUF AVEC ÉTIQUETTES,DIESEL,2022-03-28,,35.0,"JAMAIS PORTÉ. NEUF AVEC ÉTIQUETTE 
+ TAILLE TROP PETIT POUR MOI.TRADUIRE",False,Fashion
+86,TRÈS BON ÉTAT,DIESEL,2022-03-30,,26.81,"JEANS DIESEL ALYS REGULAR-RIGHT, REGULAR WAIT W27-L32.
+ÉTAT PRESQUE NEUF, VEUILLEZ VOIR LES PHOTOS POUR PLUS DE DÉTAILS.TRADUIRE",False,Fashion
+87,NEUF AVEC ÉTIQUETTES,DSQUARED2,2022-04-02,,115.0,"NOUVEAU 
+TRADUIRE",False,Fashion
+88,TRÈS BON ÉTAT,SIMON MILLER,2022-03-30,,80.0,"DENIM ICONIQUE COURT ET LARGE, DÉLAVAGE TRÈS LÉGER.TRADUIRE",False,Undefined
+89,TRÈS BON ÉTAT,R13,2022-03-28,,89.0,"S'AVÈRE NORMAL, JEANS R13 FLEURI, COULEURS UN PEU TERNES COMME SUR LES PHOTOSTRADUIRE",False,Undefined
+90,TRÈS BON ÉTAT,GUESS,2022-03-31,,16.0,PORTÉ DEUX FOISTRADUIRE,False,Fashion
 91,TRÈS BON ÉTAT,FEAR OF GOD ESSENTIALS,2022-04-02,,638.36,"
-Fear of God Slim Fit Distressed Denim Jeans indigo
+FEAR OF GOD SLIM FIT DISTRESSED DENIM JEANS INDIGO
 
 
-Taille : 34Taille, 34 Jambes
+TAILLE : 34TAILLE, 34 JAMBES
 
 
- Aucune altération
+ AUCUNE ALTÉRATION
 
 
-Authentique
+AUTHENTIQUE
 
 
-Rare
+RARE
 
 
-# peur de Dieu #distressedjeansTraduire"
-93,TRÈS BON ÉTAT,NON SIGNÉ / UNSIGNED,2022-03-31,,25.0,"Jean avec élastique au bas des jambes. La taille est 29, mais elles vont peu, donc elles vont mieux à un 27/28. Très peu porté.Traduire"
-94,NEUF SANS ÉTIQUETTE,FRACOMINA,2022-03-30,,22.0,Super beau jean Fracomins avec petites déchirures sur le devant fermé à l'arrière par le tissu et empiècements perlés.Traduire
-95,TRÈS BON ÉTAT,ELISABETTA FRANCHI,2022-03-28,,36.0,"Fantastico Jeans Elisabetta Franchi 
- Toutes les tailles sont disponibles sur les photos 
- Taille 29 équivalent à 44 ItaTraduire"
-96,TRÈS BON ÉTAT,JACOB COHEN,2022-03-30,,60.0,Jean Jacob Cohen pour homme tg. 32 en tissu d'été bleu-gris slim feat. Ourlet rétréci d'un cm dans un magasin monomarque.Traduire
-97,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-29,,77.88,"Ces jeans DSQUARED super rares proviennent de la tristement célèbre collection ""Homeless"". Il est doté d'une coupe bootcut et d'une poche arrière déchirée avec un slogan brodé ""Nosy F * cker"". 
+# PEUR DE DIEU #DISTRESSEDJEANSTRADUIRE",False,Fashion
+92,BON ÉTAT,JUNYA WATANABE,2022-03-30,,150.0,"DENIM PAR LEVI'S 522 EN COLLABORATION AVEC LA MARQUE JAPONAISE, AINSI QUE L'ADEPTE DE MME REI KAWAKUBO (CDG), JUNYA WATANABE 
+ CE DENIM INDIGO BLEU FONCÉ A LA PARTICULARITÉ D'AVOIR DEUX COULEURS DE DÉLAVAGE PLASTABLE SANS AUCUN PROBLÈME 
+ F...LIRE LA SUITETRADUIRE",False,Undefined
+93,TRÈS BON ÉTAT,NON SIGNÉ / UNSIGNED,2022-03-31,,25.0,"JEAN AVEC ÉLASTIQUE AU BAS DES JAMBES. LA TAILLE EST 29, MAIS ELLES VONT PEU, DONC ELLES VONT MIEUX À UN 27/28. TRÈS PEU PORTÉ.TRADUIRE",False,UltraFastFashion
+94,NEUF SANS ÉTIQUETTE,FRACOMINA,2022-03-30,,22.0,SUPER BEAU JEAN FRACOMINS AVEC PETITES DÉCHIRURES SUR LE DEVANT FERMÉ À L'ARRIÈRE PAR LE TISSU ET EMPIÈCEMENTS PERLÉS.TRADUIRE,False,UltraFastFashion
+95,TRÈS BON ÉTAT,ELISABETTA FRANCHI,2022-03-28,,36.0,"FANTASTICO JEANS ELISABETTA FRANCHI 
+ TOUTES LES TAILLES SONT DISPONIBLES SUR LES PHOTOS 
+ TAILLE 29 ÉQUIVALENT À 44 ITATRADUIRE",False,UltraFastFashion
+96,TRÈS BON ÉTAT,JACOB COHEN,2022-03-30,,60.0,JEAN JACOB COHEN POUR HOMME TG. 32 EN TISSU D'ÉTÉ BLEU-GRIS SLIM FEAT. OURLET RÉTRÉCI D'UN CM DANS UN MAGASIN MONOMARQUE.TRADUIRE,False,Undefined
+97,NEUF SANS ÉTIQUETTE,DSQUARED2,2022-03-29,,77.88,"CES JEANS DSQUARED SUPER RARES PROVIENNENT DE LA TRISTEMENT CÉLÈBRE COLLECTION ""HOMELESS"". IL EST DOTÉ D'UNE COUPE BOOTCUT ET D'UNE POCHE ARRIÈRE DÉCHIRÉE AVEC UN SLOGAN BRODÉ ""NOSY F * CKER"". 
 
-Ils n'ont jamais été portés et l'état peut ...Lire la suiteTraduire"
-98,TRÈS BON ÉTAT,GUESS,2022-04-02,,21.0,Jean stretch taille basseTraduire
-99,TRÈS BON ÉTAT,GUCCI,2022-03-30,,86.0,Jean déchiré Gucci taille 29 (environ 42) taille naturelle porté seulement 2 foisTraduire
-100,NEUF SANS ÉTIQUETTE,PULL & BEAR,2022-04-03,,16.0,"Jean en parfait état, couleur noir délavé. taille 34Traduire"
+ILS N'ONT JAMAIS ÉTÉ PORTÉS ET L'ÉTAT PEUT ...LIRE LA SUITETRADUIRE",False,Fashion
+98,TRÈS BON ÉTAT,GUESS,2022-04-02,,21.0,JEAN STRETCH TAILLE BASSETRADUIRE,False,Fashion
+99,TRÈS BON ÉTAT,GUCCI,2022-03-30,,86.0,JEAN DÉCHIRÉ GUCCI TAILLE 29 (ENVIRON 42) TAILLE NATURELLE PORTÉ SEULEMENT 2 FOISTRADUIRE,False,Fashion
+100,NEUF SANS ÉTIQUETTE,PULL & BEAR,2022-04-03,,16.0,"JEAN EN PARFAIT ÉTAT, COULEUR NOIR DÉLAVÉ. TAILLE 34TRADUIRE",False,FastFashion
