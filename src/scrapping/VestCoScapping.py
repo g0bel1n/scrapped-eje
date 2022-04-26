@@ -34,7 +34,7 @@ def main():
     parser = argparse.ArgumentParser() 
     parser.add_argument('--n', type=int, default=2,help='Number of items to search')
     parser.add_argument('--s', type=str, default='jean',help='Search query')
-    parser.add_argument('--fn', type=str, default='vestco',help='name of the output CSV file')
+    parser.add_argument('--fn', type=str, default='vestco_',help='name of the output CSV file')
     args = parser.parse_args()
     args.s = args.s.replace(' ', '%20')
 
