@@ -60,8 +60,6 @@ df_shirt.set_index("Marque", inplace=True)
 
 
 df_shirt = df_shirt[df_shirt.index.notnull()]
-#%%
-df_shirt[["Niveau de prix", "Segment de marché"]] = df.loc[df_shirt.index].values
 
 
 # %%
