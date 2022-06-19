@@ -2,10 +2,25 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import os
+from PIL import Image
+
 
 pd.options.plotting.backend = "plotly"
-st.markdown("<h1 align = center> Support interactif </h1> ", unsafe_allow_html=True)
-st.markdown("<h2 align = center> EJE x FHCM </h2> ", unsafe_allow_html=True)
+
+col1, col2, col3 = st.columns([3,6,3])
+
+with col1:
+    st.write("Lucas Saban lucas.saban[at]ensae.fr")
+
+with col2:
+    st.markdown("<h1 align = center> Support interactif </h1> ", unsafe_allow_html=True)
+    st.markdown("<h2 align = center> EJE x FHCM </h2> ", unsafe_allow_html=True)
+
+
+with col3:
+    logoeje = Image.open('src/logoeje.png')
+    st.image(logoeje)
+
 
 
 category_orders = {
@@ -37,7 +52,9 @@ category_orders = {
 
 categories = category_orders["Segment de marché"]
 with st.sidebar:
+    logo = Image.open('src/LOGO-ENSAE.png')
 
+    
     option = st.selectbox(
         "Choisissez le produit considéré",
         ("Jean", "Veste de Costume", "Baskets", "Tshirt"),
@@ -47,15 +64,19 @@ with st.sidebar:
     )
 
     with st.expander("Modifier l'estimation du prix neuf"):
+        
         st.write("Ajustez le prix neuf estimé selon les segments de marché.")
-        st.write("Vers 1, le prix neuf estimé est le prix maximum trouvé en ligne.")
-        st.write("A 0, c'est le prix minimum.")
+
+        st.info("Vers 1, le prix neuf estimé est le prix maximum trouvé en ligne \n. À 0, c'est le prix minimum. Entre 0 et 1, on obtient une pondération entre les deux. La valeur 0.5 correspond à la valeur moyenne")
+
         x_s = {
             cat: st.slider(
                 cat, min_value=0.0, max_value=1.0, value=0.5, step=0.1, key=cat
             )
             for cat in categories
         }
+
+    st.image(logo)
 
 
 website = "vestco" if website == "Vestiaire collective" else website
@@ -85,6 +106,11 @@ fig = px.histogram(
     text_auto=True,
 )
 
+img = Image.open(f"src/scrapping/{website}/incidence/incidence_{website}_{option.lower().split(' ')[-1]}.png")
+with st.expander("Incidence"):
+    st.image(img)
+
+
 with st.expander("Moyenne des Valeur résiduelle par segment de marché "):
     st.plotly_chart(fig, use_container_width=True)
 
@@ -99,11 +125,3 @@ with st.expander("Valeur résiduelle en fonction du prix de revente"):
     st.plotly_chart(fig1, use_container_width=True)
 
 
-df_incidence = pd.read_csv(
-    f"src/scrapping/{website}/incidence/incidence_{website}_{option.lower().split(' ')[-1]}.csv"
-)
-
-from PIL import Image
-img = Image.open(f"src/scrapping/{website}/incidence/incidence_{website}_{option.lower().split(' ')[-1]}.png")
-with st.expander("Incidence"):
-    st.image(img)

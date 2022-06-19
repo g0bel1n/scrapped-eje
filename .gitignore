@@ -3,7 +3,6 @@ __pychache__
 .DS_Store
 .*
 src/scrapping/*/article_scrapping/*.csv
-*.png
 *.xlsx
 src/client_secrets.json
 chromedriver
