@@ -230,10 +230,10 @@ for product in [el for el in os.listdir("vinted/incidence") if el.endswith("csv"
 
 #%%
 
-dfs["baskets"].sort_values(by=["incidence", "global_incidence"]).groupby(
+dfs["jeans"].sort_values(by=["incidence", "global_incidence"]).groupby(
     by="Segment de marché"
 ).tail(5)
-#%%
+    #%%
 
 brands2scrap_from = {
     key: value.sort_values(by=["incidence", "global_incidence"])
@@ -242,7 +242,12 @@ brands2scrap_from = {
     .index
     for key, value in dfs.items()
 }
-
+brands2scrap_from_c = {
+    key: value.sort_values(by=["incidence", "global_incidence"])
+    .groupby(by="Segment de marché")
+    .tail(5)
+    for key, value in dfs.items()
+}
 # %%
 brands2scrap_from["baskets"]
 
@@ -548,4 +553,6 @@ driver.close()
 df = pd.DataFrame(data)
 
 df.to_csv("costume_vinted.csv")
+# %%
+print(pd.DataFrame(brands2scrap_from).to_clipboard())
 # %%

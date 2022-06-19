@@ -177,137 +177,30 @@ fig = px.histogram(
 fig.show()
 fig.write_image("incidence_vesco.png")
 # %%
-df2 = df2.set_index("brand")
-
-#%%
-brands_2_scrap_from = (
-    df2.sort_values(by=["incidence"])
-    .groupby(by="Segment de marché")
-    .tail(5)
-    .index.to_list()
-)
-
-# %%
-brands_2_scrap_from
-
-# %%
-driver = webdriver.Chrome(
-    executable_path="/Users/g0bel1n/scrapped/src/scrapping/chromedriver"
-)
-data = {"brand": [], "prix": []}
-url = "https://fr.vestiairecollective.com/search/?q=t%20shirt#gender=Femme%231-Homme%232_category=V%C3%AAtements%2312%20%3E%20Tee%20shirts%23525-V%C3%AAtements%232%20%3E%20Tops%2316_categoryParent=V%C3%AAtements%2312-V%C3%AAtements%232_sold=0"
-driver.get(url)
-sleep(4)
-try:
-    bouton_cookie = driver.find_element(
-        by=By.XPATH, value="/html/body/div[1]/div/div[2]/button[3]"
-    ).click()
-except NoSuchElementException:
-    pass
-
-el = driver.find_element(
-    by=By.XPATH,
-    value="/html/body/app-root/div/main/catalog-page/vc-catalog/div/div/ais-instantsearch/div/div[1]/div[1]/vc-catalog-filters/nav/div[4]/vc-catalog-widget-checkbox-list/fieldset/div[2]/input",
-)
-for brand in brands_2_scrap_from:
-    el.send_keys(brand + " ")
-    el.send_keys(Keys.RETURN)
-    sleep(3)
-    try:
-        print("trying")
-        xpath_fname = "/html/body/app-root/div/main/catalog-page/vc-catalog/div/div/ais-instantsearch/div/div[1]/div[1]/vc-catalog-filters/nav/div[4]/vc-catalog-widget-checkbox-list/fieldset/div[2]/ul/li[1]/label"
-        fname = (
-            driver.find_element(by=By.XPATH, value=xpath_fname)
-            .text.split(" ")[0]
-            .split("-")[0]
-            .lower()
-        )
-        print("did")
-        if unidecode.unidecode(
-            brand.split(" ")[0].split("-")[0].lower()
-        ) != unidecode.unidecode(fname):
-            found = False
-
-            # for i in range(len(found[1:])):
-            #    if unidecode.unidecode(brand.split(' ')[0].split('-')[0].lower()) == unidecode.unidecode(found[i]):
-            #       button = driver.find_elements(by=By.XPATH, value='/html/body/app-root/div/main/catalog-page/vc-catalog/div/div/ais-instantsearch/div/div[1]/div[1]/vc-catalog-filters/nav/div[4]/vc-catalog-widget-checkbox-list/fieldset/div[2]/ul/li[1]/label')[1+i]
-            #       button.click()
-            #       found = True
-        else:
-            found = True
-
-    except NoSuchElementException:
-        found = False
-
-    if found:
-        button = driver.find_element(by=By.XPATH, value=xpath_fname)
-        print("click")
-        button.click()
-        sleep(1)
-        isNext = True
-        while isNext:
-            print("looping")
-            for grid_el in driver.find_elements(
-                by=By.CSS_SELECTOR,
-                value="li.catalog__flexContainer--item.catalog__flexContainer--item--withFilters",
-            ):
-
-                data["brand"].append(brand)
-                data["prix"].append(
-                    grid_el.find_element(
-                        by=By.CSS_SELECTOR, value="span.productSnippet__price"
-                    ).text.split(" ")[0]
-                )
-            try:
-                bouton_suivant = driver.find_elements(
-                    by=By.CSS_SELECTOR,
-                    value="span.catalogPagination__prevNextButton__text",
-                )[-1]
-                isNext = bouton_suivant.text == "Suivant"
-            except IndexError:
-                isNext = False
-            if isNext:
-                print("click")
-                bouton_suivant.click()
-                sleep(1)
-        df = pd.DataFrame(data)
-        df.to_csv("brands_scrapp_vestco.csv")
-        driver.get(url)
-        sleep(4)
-        el = driver.find_element(
-            by=By.XPATH,
-            value="/html/body/app-root/div/main/catalog-page/vc-catalog/div/div/ais-instantsearch/div/div[1]/div[1]/vc-catalog-filters/nav/div[4]/vc-catalog-widget-checkbox-list/fieldset/div[2]/input",
-        )
-
-    el.clear()
-driver.close()
-df = pd.DataFrame(data)
-df.to_csv("brands_scrapp_vestco.csv")
-# %%
-df
-# %%
-df["brand"].unique()
-# %%
-dfs = []
-brands_2_scrap_from = []
+dfs = {}
+brands_2_scrap_from = {}
 for file in [
     "incidence_vesco_basket.csv",
     "incidence_vesco_veste_costume.csv",
     "incidence_vesco_tshirt.csv",
     "incidence_vesco_jeans.csv",
 ]:
-    dfs.append(pd.read_csv("vestco/incidence/" + file))
-for df in dfs:
+    dfs[file.split('.')[0].split('_')[-1]] = pd.read_csv("vestco/incidence/" + file)
+for key in dfs:
+    df = dfs[key]
     df = df.merge(sheet_df, right_on="N°Obs", left_on="brand")
     df = df[["brand", "Segment de marché", "incidence", "Niveau de prix"]]
     df = df.set_index("brand")
     # brands_2_scrap_from.append(df.sort_values(by=['incidence']).groupby(by='Segment de marché').tail(5).index.to_list())
-    brands_2_scrap_from.append(
-        df.sort_values(by=["incidence"]).groupby(by="Segment de marché")
-    )
+    brands_2_scrap_from[key.split('.')[0].split('_')[-1]] = df.sort_values(by=["incidence"]).groupby(by="Segment de marché").tail(5)
+    
+#%%
 
+brands_2_scrap_from['tshirt']
+#%%
+dfs['costume'].sort_values(by=["incidence"]).groupby(by="Segment de marché").tail(5)
 # %%
-brands_2_scrap_from[0].tail(5)
+pd.DataFrame(brands_2_scrap_from).to_clipboard()
 # %%
 def scrappinator(outFile: str, url: str, brands_2_scrap_from_: list):
     driver = webdriver.Chrome(

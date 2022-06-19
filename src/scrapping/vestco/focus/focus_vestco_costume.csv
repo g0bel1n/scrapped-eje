@@ -1,0 +1,2514 @@
+,brand,prix,Segment de marché,min,max
+0,nasty gal,67.03,ultra fast fashion / discount,29,68
+1,nasty gal,164.41,ultra fast fashion / discount,29,68
+2,nasty gal,164.41,ultra fast fashion / discount,29,68
+3,nasty gal,90.0,ultra fast fashion / discount,29,68
+4,nasty gal,44.26,ultra fast fashion / discount,29,68
+5,nasty gal,60.0,ultra fast fashion / discount,29,68
+6,nasty gal,135.25,ultra fast fashion / discount,29,68
+7,nasty gal,75.14,ultra fast fashion / discount,29,68
+8,nasty gal,215.4,ultra fast fashion / discount,29,68
+9,nasty gal,126.01,ultra fast fashion / discount,29,68
+10,nasty gal,50.09,ultra fast fashion / discount,29,68
+11,nasty gal,105.81,ultra fast fashion / discount,29,68
+12,nasty gal,55.0,ultra fast fashion / discount,29,68
+13,nasty gal,35.0,ultra fast fashion / discount,29,68
+14,nasty gal,37.0,ultra fast fashion / discount,29,68
+15,nasty gal,35.07,ultra fast fashion / discount,29,68
+16,pinko,101.99,milieu de gamme,295,445
+17,pinko,55.0,milieu de gamme,295,445
+18,pinko,50.0,milieu de gamme,295,445
+19,pinko,50.0,milieu de gamme,295,445
+20,pinko,94.85,milieu de gamme,295,445
+21,pinko,60.0,milieu de gamme,295,445
+22,pinko,61.0,milieu de gamme,295,445
+23,pinko,77.0,milieu de gamme,295,445
+24,pinko,125.0,milieu de gamme,295,445
+25,pinko,460.0,milieu de gamme,295,445
+26,pinko,161.88,milieu de gamme,295,445
+27,pinko,186.0,milieu de gamme,295,445
+28,pinko,60.0,milieu de gamme,295,445
+29,pinko,100.0,milieu de gamme,295,445
+30,pinko,48.0,milieu de gamme,295,445
+31,pinko,100.0,milieu de gamme,295,445
+32,pinko,100.0,milieu de gamme,295,445
+33,pinko,149.0,milieu de gamme,295,445
+34,pinko,570.0,milieu de gamme,295,445
+35,pinko,65.0,milieu de gamme,295,445
+36,pinko,115.0,milieu de gamme,295,445
+37,pinko,165.0,milieu de gamme,295,445
+38,pinko,280.0,milieu de gamme,295,445
+39,pinko,175.0,milieu de gamme,295,445
+40,pinko,89.0,milieu de gamme,295,445
+41,pinko,82.21,milieu de gamme,295,445
+42,pinko,100.0,milieu de gamme,295,445
+43,pinko,60.0,milieu de gamme,295,445
+44,pinko,150.0,milieu de gamme,295,445
+45,pinko,149.0,milieu de gamme,295,445
+46,pinko,1000.0,milieu de gamme,295,445
+47,pinko,49.0,milieu de gamme,295,445
+48,pinko,227.65,milieu de gamme,295,445
+49,pinko,50.0,milieu de gamme,295,445
+50,pinko,65.0,milieu de gamme,295,445
+51,pinko,45.0,milieu de gamme,295,445
+52,pinko,50.0,milieu de gamme,295,445
+53,pinko,245.0,milieu de gamme,295,445
+54,pinko,110.0,milieu de gamme,295,445
+55,pinko,200.0,milieu de gamme,295,445
+56,bérénice,83.53,milieu de gamme,/,/
+57,bérénice,50.0,milieu de gamme,/,/
+58,bérénice,101.0,milieu de gamme,/,/
+59,bérénice,65.0,milieu de gamme,/,/
+60,bérénice,200.0,milieu de gamme,/,/
+61,bérénice,80.0,milieu de gamme,/,/
+62,bérénice,130.0,milieu de gamme,/,/
+63,bérénice,90.0,milieu de gamme,/,/
+64,bérénice,40.0,milieu de gamme,/,/
+65,bérénice,353.0,milieu de gamme,/,/
+66,bérénice,60.0,milieu de gamme,/,/
+67,bérénice,130.0,milieu de gamme,/,/
+68,bérénice,85.0,milieu de gamme,/,/
+69,bérénice,125.0,milieu de gamme,/,/
+70,bérénice,55.0,milieu de gamme,/,/
+71,bérénice,866.32,milieu de gamme,/,/
+72,bérénice,382.88,milieu de gamme,/,/
+73,bérénice,85.0,milieu de gamme,/,/
+74,bérénice,80.0,milieu de gamme,/,/
+75,bérénice,48.0,milieu de gamme,/,/
+76,bérénice,110.0,milieu de gamme,/,/
+77,bérénice,90.0,milieu de gamme,/,/
+78,bérénice,90.0,milieu de gamme,/,/
+79,bérénice,55.0,milieu de gamme,/,/
+80,bérénice,250.0,milieu de gamme,/,/
+81,bérénice,251.68,milieu de gamme,/,/
+82,bérénice,115.0,milieu de gamme,/,/
+83,bérénice,70.0,milieu de gamme,/,/
+84,bérénice,149.0,milieu de gamme,/,/
+85,bérénice,99.0,milieu de gamme,/,/
+86,bérénice,300.0,milieu de gamme,/,/
+87,bérénice,94.85,milieu de gamme,/,/
+88,bérénice,75.0,milieu de gamme,/,/
+89,bérénice,57.0,milieu de gamme,/,/
+90,bérénice,675.0,milieu de gamme,/,/
+91,bérénice,375.0,milieu de gamme,/,/
+92,bérénice,300.0,milieu de gamme,/,/
+93,bérénice,150.0,milieu de gamme,/,/
+94,bérénice,299.0,milieu de gamme,/,/
+95,bérénice,350.0,milieu de gamme,/,/
+96,bérénice,200.0,milieu de gamme,/,/
+97,bérénice,40.78,milieu de gamme,/,/
+98,bérénice,78.43,milieu de gamme,/,/
+99,majestic filatures,55.0,milieu de gamme,223.25,378.09999999999997
+100,majestic filatures,170.0,milieu de gamme,223.25,378.09999999999997
+101,majestic filatures,75.0,milieu de gamme,223.25,378.09999999999997
+102,majestic filatures,140.0,milieu de gamme,223.25,378.09999999999997
+103,majestic filatures,61.2,milieu de gamme,223.25,378.09999999999997
+104,majestic filatures,65.0,milieu de gamme,223.25,378.09999999999997
+105,majestic filatures,46.0,milieu de gamme,223.25,378.09999999999997
+106,majestic filatures,35.0,milieu de gamme,223.25,378.09999999999997
+107,majestic filatures,100.0,milieu de gamme,223.25,378.09999999999997
+108,majestic filatures,65.0,milieu de gamme,223.25,378.09999999999997
+109,majestic filatures,50.09,milieu de gamme,223.25,378.09999999999997
+110,majestic filatures,81.45,milieu de gamme,223.25,378.09999999999997
+111,majestic filatures,49.0,milieu de gamme,223.25,378.09999999999997
+112,majestic filatures,45.0,milieu de gamme,223.25,378.09999999999997
+113,majestic filatures,52.0,milieu de gamme,223.25,378.09999999999997
+114,majestic filatures,40.0,milieu de gamme,223.25,378.09999999999997
+115,majestic filatures,63.24,milieu de gamme,223.25,378.09999999999997
+116,majestic filatures,99.91,milieu de gamme,223.25,378.09999999999997
+117,majestic filatures,36.0,milieu de gamme,223.25,378.09999999999997
+118,majestic filatures,60.0,milieu de gamme,223.25,378.09999999999997
+119,majestic filatures,50.59,milieu de gamme,223.25,378.09999999999997
+120,majestic filatures,50.0,milieu de gamme,223.25,378.09999999999997
+121,majestic filatures,39.0,milieu de gamme,223.25,378.09999999999997
+122,majestic filatures,82.21,milieu de gamme,223.25,378.09999999999997
+123,majestic filatures,145.44,milieu de gamme,223.25,378.09999999999997
+124,majestic filatures,45.0,milieu de gamme,223.25,378.09999999999997
+125,majestic filatures,82.21,milieu de gamme,223.25,378.09999999999997
+126,majestic filatures,53.12,milieu de gamme,223.25,378.09999999999997
+127,majestic filatures,65.0,milieu de gamme,223.25,378.09999999999997
+128,majestic filatures,55.0,milieu de gamme,223.25,378.09999999999997
+129,majestic filatures,80.0,milieu de gamme,223.25,378.09999999999997
+130,majestic filatures,46.0,milieu de gamme,223.25,378.09999999999997
+131,majestic filatures,47.0,milieu de gamme,223.25,378.09999999999997
+132,majestic filatures,60.0,milieu de gamme,223.25,378.09999999999997
+133,majestic filatures,70.0,milieu de gamme,223.25,378.09999999999997
+134,majestic filatures,60.0,milieu de gamme,223.25,378.09999999999997
+135,majestic filatures,65.0,milieu de gamme,223.25,378.09999999999997
+136,majestic filatures,37.0,milieu de gamme,223.25,378.09999999999997
+137,majestic filatures,150.0,milieu de gamme,223.25,378.09999999999997
+138,majestic filatures,100.0,milieu de gamme,223.25,378.09999999999997
+139,majestic filatures,50.0,milieu de gamme,223.25,378.09999999999997
+140,majestic filatures,98.0,milieu de gamme,223.25,378.09999999999997
+141,majestic filatures,70.0,milieu de gamme,223.25,378.09999999999997
+142,majestic filatures,65.0,milieu de gamme,223.25,378.09999999999997
+143,majestic filatures,65.0,milieu de gamme,223.25,378.09999999999997
+144,majestic filatures,180.0,milieu de gamme,223.25,378.09999999999997
+145,majestic filatures,93.59,milieu de gamme,223.25,378.09999999999997
+146,majestic filatures,100.0,milieu de gamme,223.25,378.09999999999997
+147,majestic filatures,100.0,milieu de gamme,223.25,378.09999999999997
+148,majestic filatures,89.0,milieu de gamme,223.25,378.09999999999997
+149,majestic filatures,216.18,milieu de gamme,223.25,378.09999999999997
+150,majestic filatures,89.0,milieu de gamme,223.25,378.09999999999997
+151,majestic filatures,75.14,milieu de gamme,223.25,378.09999999999997
+152,majestic filatures,22.95,milieu de gamme,223.25,378.09999999999997
+153,majestic filatures,157.29,milieu de gamme,223.25,378.09999999999997
+154,the kooples,58.18,premium / luxe abordable,207,345
+155,the kooples,220.0,premium / luxe abordable,207,345
+156,the kooples,75.88,premium / luxe abordable,207,345
+157,the kooples,210.0,premium / luxe abordable,207,345
+158,the kooples,50.0,premium / luxe abordable,207,345
+159,the kooples,300.0,premium / luxe abordable,207,345
+160,the kooples,252.94,premium / luxe abordable,207,345
+161,the kooples,91.0,premium / luxe abordable,207,345
+162,the kooples,120.0,premium / luxe abordable,207,345
+163,the kooples,80.0,premium / luxe abordable,207,345
+164,the kooples,80.0,premium / luxe abordable,207,345
+165,the kooples,155.0,premium / luxe abordable,207,345
+166,the kooples,200.0,premium / luxe abordable,207,345
+167,the kooples,75.0,premium / luxe abordable,207,345
+168,the kooples,150.0,premium / luxe abordable,207,345
+169,the kooples,130.0,premium / luxe abordable,207,345
+170,the kooples,104.0,premium / luxe abordable,207,345
+171,the kooples,80.0,premium / luxe abordable,207,345
+172,the kooples,180.0,premium / luxe abordable,207,345
+173,the kooples,75.0,premium / luxe abordable,207,345
+174,the kooples,72.25,premium / luxe abordable,207,345
+175,the kooples,88.53,premium / luxe abordable,207,345
+176,the kooples,160.0,premium / luxe abordable,207,345
+177,the kooples,110.0,premium / luxe abordable,207,345
+178,the kooples,140.0,premium / luxe abordable,207,345
+179,the kooples,180.0,premium / luxe abordable,207,345
+180,the kooples,150.0,premium / luxe abordable,207,345
+181,the kooples,140.0,premium / luxe abordable,207,345
+182,the kooples,120.0,premium / luxe abordable,207,345
+183,the kooples,150.0,premium / luxe abordable,207,345
+184,the kooples,150.0,premium / luxe abordable,207,345
+185,the kooples,165.0,premium / luxe abordable,207,345
+186,the kooples,175.0,premium / luxe abordable,207,345
+187,the kooples,150.0,premium / luxe abordable,207,345
+188,the kooples,100.0,premium / luxe abordable,207,345
+189,the kooples,125.0,premium / luxe abordable,207,345
+190,the kooples,99.0,premium / luxe abordable,207,345
+191,the kooples,189.71,premium / luxe abordable,207,345
+192,the kooples,37.94,premium / luxe abordable,207,345
+193,the kooples,115.0,premium / luxe abordable,207,345
+194,the kooples,120.0,premium / luxe abordable,207,345
+195,the kooples,220.06,premium / luxe abordable,207,345
+196,the kooples,180.0,premium / luxe abordable,207,345
+197,the kooples,286.0,premium / luxe abordable,207,345
+198,the kooples,95.0,premium / luxe abordable,207,345
+199,the kooples,320.0,premium / luxe abordable,207,345
+200,the kooples,153.15,premium / luxe abordable,207,345
+201,the kooples,254.0,premium / luxe abordable,207,345
+202,the kooples,300.0,premium / luxe abordable,207,345
+203,the kooples,300.0,premium / luxe abordable,207,345
+204,the kooples,165.0,premium / luxe abordable,207,345
+205,the kooples,88.24,premium / luxe abordable,207,345
+206,the kooples,151.76,premium / luxe abordable,207,345
+207,the kooples,125.21,premium / luxe abordable,207,345
+208,the kooples,239.03,premium / luxe abordable,207,345
+209,the kooples,125.21,premium / luxe abordable,207,345
+210,the kooples,188.44,premium / luxe abordable,207,345
+211,the kooples,115.0,premium / luxe abordable,207,345
+212,the kooples,250.0,premium / luxe abordable,207,345
+213,the kooples,201.09,premium / luxe abordable,207,345
+214,the kooples,145.0,premium / luxe abordable,207,345
+215,the kooples,200.0,premium / luxe abordable,207,345
+216,promod,29.0,entrée de gamme / mass market,30,80
+217,promod,45.0,entrée de gamme / mass market,30,80
+218,promod,35.0,entrée de gamme / mass market,30,80
+219,promod,80.0,entrée de gamme / mass market,30,80
+220,promod,29.0,entrée de gamme / mass market,30,80
+221,promod,17.0,entrée de gamme / mass market,30,80
+222,promod,22.0,entrée de gamme / mass market,30,80
+223,promod,38.0,entrée de gamme / mass market,30,80
+224,promod,60.0,entrée de gamme / mass market,30,80
+225,promod,20.0,entrée de gamme / mass market,30,80
+226,promod,28.0,entrée de gamme / mass market,30,80
+227,promod,40.0,entrée de gamme / mass market,30,80
+228,promod,22.0,entrée de gamme / mass market,30,80
+229,promod,60.0,entrée de gamme / mass market,30,80
+230,promod,57.0,entrée de gamme / mass market,30,80
+231,promod,55.0,entrée de gamme / mass market,30,80
+232,promod,38.0,entrée de gamme / mass market,30,80
+233,promod,45.0,entrée de gamme / mass market,30,80
+234,promod,35.0,entrée de gamme / mass market,30,80
+235,promod,25.0,entrée de gamme / mass market,30,80
+236,promod,25.0,entrée de gamme / mass market,30,80
+237,promod,62.0,entrée de gamme / mass market,30,80
+238,promod,62.0,entrée de gamme / mass market,30,80
+239,promod,35.0,entrée de gamme / mass market,30,80
+240,promod,44.26,entrée de gamme / mass market,30,80
+241,promod,21.0,entrée de gamme / mass market,30,80
+242,promod,50.0,entrée de gamme / mass market,30,80
+243,promod,38.0,entrée de gamme / mass market,30,80
+244,promod,125.0,entrée de gamme / mass market,30,80
+245,promod,120.0,entrée de gamme / mass market,30,80
+246,promod,20.0,entrée de gamme / mass market,30,80
+247,promod,20.0,entrée de gamme / mass market,30,80
+248,promod,30.0,entrée de gamme / mass market,30,80
+249,promod,30.0,entrée de gamme / mass market,30,80
+250,promod,20.0,entrée de gamme / mass market,30,80
+251,promod,25.0,entrée de gamme / mass market,30,80
+252,promod,35.0,entrée de gamme / mass market,30,80
+253,promod,20.0,entrée de gamme / mass market,30,80
+254,promod,25.0,entrée de gamme / mass market,30,80
+255,promod,35.0,entrée de gamme / mass market,30,80
+256,promod,79.0,entrée de gamme / mass market,30,80
+257,promod,37.0,entrée de gamme / mass market,30,80
+258,promod,35.0,entrée de gamme / mass market,30,80
+259,promod,28.0,entrée de gamme / mass market,30,80
+260,promod,35.0,entrée de gamme / mass market,30,80
+261,promod,35.0,entrée de gamme / mass market,30,80
+262,promod,25.0,entrée de gamme / mass market,30,80
+263,promod,39.0,entrée de gamme / mass market,30,80
+264,promod,65.0,entrée de gamme / mass market,30,80
+265,promod,40.0,entrée de gamme / mass market,30,80
+266,promod,16.0,entrée de gamme / mass market,30,80
+267,promod,35.0,entrée de gamme / mass market,30,80
+268,promod,35.0,entrée de gamme / mass market,30,80
+269,promod,60.0,entrée de gamme / mass market,30,80
+270,promod,30.0,entrée de gamme / mass market,30,80
+271,promod,38.0,entrée de gamme / mass market,30,80
+272,promod,33.0,entrée de gamme / mass market,30,80
+273,promod,35.0,entrée de gamme / mass market,30,80
+274,promod,60.0,entrée de gamme / mass market,30,80
+275,promod,45.0,entrée de gamme / mass market,30,80
+276,promod,60.0,entrée de gamme / mass market,30,80
+277,promod,64.0,entrée de gamme / mass market,30,80
+278,promod,60.0,entrée de gamme / mass market,30,80
+279,promod,99.0,entrée de gamme / mass market,30,80
+280,promod,100.0,entrée de gamme / mass market,30,80
+281,promod,23.01,entrée de gamme / mass market,30,80
+282,les petites,110.0,milieu de gamme,/,/
+283,les petites,50.0,milieu de gamme,/,/
+284,les petites,65.0,milieu de gamme,/,/
+285,les petites,90.0,milieu de gamme,/,/
+286,les petites,99.0,milieu de gamme,/,/
+287,les petites,250.0,milieu de gamme,/,/
+288,les petites,200.0,milieu de gamme,/,/
+289,les petites,89.0,milieu de gamme,/,/
+290,les petites,115.0,milieu de gamme,/,/
+291,les petites,90.0,milieu de gamme,/,/
+292,les petites,178.0,milieu de gamme,/,/
+293,les petites,32.0,milieu de gamme,/,/
+294,les petites,57.0,milieu de gamme,/,/
+295,les petites,65.0,milieu de gamme,/,/
+296,les petites,150.0,milieu de gamme,/,/
+297,les petites,137.85,milieu de gamme,/,/
+298,les petites,139.12,milieu de gamme,/,/
+299,les petites,190.0,milieu de gamme,/,/
+300,les petites,76.49,milieu de gamme,/,/
+301,les petites,95.0,milieu de gamme,/,/
+302,les petites,23.0,milieu de gamme,/,/
+303,les petites,50.0,milieu de gamme,/,/
+304,les petites,60.0,milieu de gamme,/,/
+305,les petites,50.0,milieu de gamme,/,/
+306,les petites,40.0,milieu de gamme,/,/
+307,les petites,66.0,milieu de gamme,/,/
+308,les petites,45.0,milieu de gamme,/,/
+309,les petites,120.0,milieu de gamme,/,/
+310,les petites,52.0,milieu de gamme,/,/
+311,les petites,43.0,milieu de gamme,/,/
+312,les petites,45.0,milieu de gamme,/,/
+313,les petites,72.0,milieu de gamme,/,/
+314,les petites,59.0,milieu de gamme,/,/
+315,les petites,120.0,milieu de gamme,/,/
+316,les petites,50.0,milieu de gamme,/,/
+317,les petites,60.0,milieu de gamme,/,/
+318,les petites,62.0,milieu de gamme,/,/
+319,les petites,130.0,milieu de gamme,/,/
+320,les petites,120.0,milieu de gamme,/,/
+321,les petites,51.0,milieu de gamme,/,/
+322,les petites,47.0,milieu de gamme,/,/
+323,les petites,60.0,milieu de gamme,/,/
+324,les petites,200.0,milieu de gamme,/,/
+325,les petites,47.0,milieu de gamme,/,/
+326,les petites,47.0,milieu de gamme,/,/
+327,les petites,179.0,milieu de gamme,/,/
+328,les petites,150.0,milieu de gamme,/,/
+329,les petites,120.0,milieu de gamme,/,/
+330,les petites,150.0,milieu de gamme,/,/
+331,les petites,200.0,milieu de gamme,/,/
+332,les petites,250.0,milieu de gamme,/,/
+333,les petites,80.0,milieu de gamme,/,/
+334,les petites,79.0,milieu de gamme,/,/
+335,les petites,125.0,milieu de gamme,/,/
+336,les petites,120.0,milieu de gamme,/,/
+337,les petites,280.0,milieu de gamme,/,/
+338,les petites,75.0,milieu de gamme,/,/
+339,les petites,89.0,milieu de gamme,/,/
+340,les petites,200.0,milieu de gamme,/,/
+341,les petites,140.0,milieu de gamme,/,/
+342,les petites,75.0,milieu de gamme,/,/
+343,les petites,120.0,milieu de gamme,/,/
+344,les petites,75.0,milieu de gamme,/,/
+345,les petites,87.0,milieu de gamme,/,/
+346,les petites,145.0,milieu de gamme,/,/
+347,les petites,89.0,milieu de gamme,/,/
+348,les petites,47.0,milieu de gamme,/,/
+349,les petites,85.0,milieu de gamme,/,/
+350,les petites,73.0,milieu de gamme,/,/
+351,les petites,70.0,milieu de gamme,/,/
+352,les petites,95.0,milieu de gamme,/,/
+353,les petites,85.0,milieu de gamme,/,/
+354,les petites,50.0,milieu de gamme,/,/
+355,les petites,70.0,milieu de gamme,/,/
+356,les petites,70.0,milieu de gamme,/,/
+357,les petites,110.0,milieu de gamme,/,/
+358,les petites,83.66,milieu de gamme,/,/
+359,hugo boss,60.0,premium / luxe abordable,249,699
+360,hugo boss,75.0,premium / luxe abordable,249,699
+361,hugo boss,55.0,premium / luxe abordable,249,699
+362,hugo boss,76.0,premium / luxe abordable,249,699
+363,hugo boss,65.0,premium / luxe abordable,249,699
+364,hugo boss,40.0,premium / luxe abordable,249,699
+365,hugo boss,80.0,premium / luxe abordable,249,699
+366,hugo boss,68.0,premium / luxe abordable,249,699
+367,hugo boss,189.71,premium / luxe abordable,249,699
+368,hugo boss,72.0,premium / luxe abordable,249,699
+369,hugo boss,100.0,premium / luxe abordable,249,699
+370,hugo boss,50.0,premium / luxe abordable,249,699
+371,hugo boss,199.0,premium / luxe abordable,249,699
+372,hugo boss,99.0,premium / luxe abordable,249,699
+373,hugo boss,79.0,premium / luxe abordable,249,699
+374,hugo boss,82.21,premium / luxe abordable,249,699
+375,hugo boss,70.0,premium / luxe abordable,249,699
+376,hugo boss,99.0,premium / luxe abordable,249,699
+377,hugo boss,150.0,premium / luxe abordable,249,699
+378,hugo boss,50.0,premium / luxe abordable,249,699
+379,hugo boss,94.85,premium / luxe abordable,249,699
+380,hugo boss,95.18,premium / luxe abordable,249,699
+381,hugo boss,55.0,premium / luxe abordable,249,699
+382,hugo boss,100.0,premium / luxe abordable,249,699
+383,hugo boss,55.0,premium / luxe abordable,249,699
+384,hugo boss,183.38,premium / luxe abordable,249,699
+385,hugo boss,150.0,premium / luxe abordable,249,699
+386,hugo boss,119.0,premium / luxe abordable,249,699
+387,hugo boss,100.0,premium / luxe abordable,249,699
+388,hugo boss,115.0,premium / luxe abordable,249,699
+389,hugo boss,246.62,premium / luxe abordable,249,699
+390,hugo boss,130.0,premium / luxe abordable,249,699
+391,hugo boss,280.0,premium / luxe abordable,249,699
+392,hugo boss,200.0,premium / luxe abordable,249,699
+393,hugo boss,90.0,premium / luxe abordable,249,699
+394,hugo boss,140.0,premium / luxe abordable,249,699
+395,hugo boss,300.0,premium / luxe abordable,249,699
+396,hugo boss,290.0,premium / luxe abordable,249,699
+397,hugo boss,125.23,premium / luxe abordable,249,699
+398,hugo boss,80.15,premium / luxe abordable,249,699
+399,hugo boss,149.0,premium / luxe abordable,249,699
+400,hugo boss,119.0,premium / luxe abordable,249,699
+401,hugo boss,164.0,premium / luxe abordable,249,699
+402,hugo boss,58.78,premium / luxe abordable,249,699
+403,hugo boss,95.0,premium / luxe abordable,249,699
+404,hugo boss,135.0,premium / luxe abordable,249,699
+405,hugo boss,109.0,premium / luxe abordable,249,699
+406,hugo boss,130.0,premium / luxe abordable,249,699
+407,hugo boss,125.0,premium / luxe abordable,249,699
+408,hugo boss,129.0,premium / luxe abordable,249,699
+409,hugo boss,129.0,premium / luxe abordable,249,699
+410,hugo boss,160.0,premium / luxe abordable,249,699
+411,hugo boss,97.0,premium / luxe abordable,249,699
+412,hugo boss,93.0,premium / luxe abordable,249,699
+413,hugo boss,115.0,premium / luxe abordable,249,699
+414,hugo boss,109.0,premium / luxe abordable,249,699
+415,hugo boss,95.0,premium / luxe abordable,249,699
+416,hugo boss,109.0,premium / luxe abordable,249,699
+417,hugo boss,121.0,premium / luxe abordable,249,699
+418,hugo boss,95.0,premium / luxe abordable,249,699
+419,hugo boss,99.0,premium / luxe abordable,249,699
+420,hugo boss,99.0,premium / luxe abordable,249,699
+421,hugo boss,133.0,premium / luxe abordable,249,699
+422,hugo boss,171.0,premium / luxe abordable,249,699
+423,hugo boss,141.0,premium / luxe abordable,249,699
+424,hugo boss,125.0,premium / luxe abordable,249,699
+425,hugo boss,115.0,premium / luxe abordable,249,699
+426,hugo boss,115.0,premium / luxe abordable,249,699
+427,hugo boss,139.0,premium / luxe abordable,249,699
+428,hugo boss,109.0,premium / luxe abordable,249,699
+429,hugo boss,109.0,premium / luxe abordable,249,699
+430,hugo boss,115.0,premium / luxe abordable,249,699
+431,hugo boss,109.0,premium / luxe abordable,249,699
+432,hugo boss,89.0,premium / luxe abordable,249,699
+433,hugo boss,145.0,premium / luxe abordable,249,699
+434,hugo boss,65.0,premium / luxe abordable,249,699
+435,hugo boss,141.0,premium / luxe abordable,249,699
+436,hugo boss,252.94,premium / luxe abordable,249,699
+437,hugo boss,99.0,premium / luxe abordable,249,699
+438,hugo boss,150.0,premium / luxe abordable,249,699
+439,hollister,45.0,entrée de gamme / mass market,/,/
+440,hollister,29.0,entrée de gamme / mass market,/,/
+441,hollister,30.0,entrée de gamme / mass market,/,/
+442,hollister,40.0,entrée de gamme / mass market,/,/
+443,hollister,35.0,entrée de gamme / mass market,/,/
+444,hollister,50.0,entrée de gamme / mass market,/,/
+445,hollister,40.0,entrée de gamme / mass market,/,/
+446,hollister,37.0,entrée de gamme / mass market,/,/
+447,hollister,58.0,entrée de gamme / mass market,/,/
+448,hollister,65.0,entrée de gamme / mass market,/,/
+449,hollister,27.82,entrée de gamme / mass market,/,/
+450,hollister,48.0,entrée de gamme / mass market,/,/
+451,hollister,135.0,entrée de gamme / mass market,/,/
+452,hollister,42.0,entrée de gamme / mass market,/,/
+453,hollister,75.0,entrée de gamme / mass market,/,/
+454,hollister,50.59,entrée de gamme / mass market,/,/
+455,hollister,85.0,entrée de gamme / mass market,/,/
+456,hollister,42.0,entrée de gamme / mass market,/,/
+457,hollister,52.0,entrée de gamme / mass market,/,/
+458,hollister,50.0,entrée de gamme / mass market,/,/
+459,hollister,170.32,entrée de gamme / mass market,/,/
+460,hollister,25.0,entrée de gamme / mass market,/,/
+461,hollister,20.0,entrée de gamme / mass market,/,/
+462,hollister,25.0,entrée de gamme / mass market,/,/
+463,hollister,30.0,entrée de gamme / mass market,/,/
+464,hollister,35.0,entrée de gamme / mass market,/,/
+465,hollister,30.0,entrée de gamme / mass market,/,/
+466,hollister,61.37,entrée de gamme / mass market,/,/
+467,hollister,28.56,entrée de gamme / mass market,/,/
+468,hollister,44.26,entrée de gamme / mass market,/,/
+469,hollister,30.0,entrée de gamme / mass market,/,/
+470,hollister,48.06,entrée de gamme / mass market,/,/
+471,hollister,30.0,entrée de gamme / mass market,/,/
+472,hollister,49.0,entrée de gamme / mass market,/,/
+473,hollister,35.07,entrée de gamme / mass market,/,/
+474,hollister,40.0,entrée de gamme / mass market,/,/
+475,hollister,55.0,entrée de gamme / mass market,/,/
+476,hollister,40.0,entrée de gamme / mass market,/,/
+477,hollister,35.0,entrée de gamme / mass market,/,/
+478,hollister,30.0,entrée de gamme / mass market,/,/
+479,hollister,45.0,entrée de gamme / mass market,/,/
+480,hollister,45.0,entrée de gamme / mass market,/,/
+481,hollister,25.0,entrée de gamme / mass market,/,/
+482,hollister,48.0,entrée de gamme / mass market,/,/
+483,hollister,63.0,entrée de gamme / mass market,/,/
+484,hollister,30.0,entrée de gamme / mass market,/,/
+485,hollister,44.26,entrée de gamme / mass market,/,/
+486,hollister,33.06,entrée de gamme / mass market,/,/
+487,hollister,45.0,entrée de gamme / mass market,/,/
+488,hollister,26.56,entrée de gamme / mass market,/,/
+489,hollister,30.0,entrée de gamme / mass market,/,/
+490,hollister,32.0,entrée de gamme / mass market,/,/
+491,hollister,50.59,entrée de gamme / mass market,/,/
+492,hollister,63.0,entrée de gamme / mass market,/,/
+493,hollister,50.0,entrée de gamme / mass market,/,/
+494,hollister,40.0,entrée de gamme / mass market,/,/
+495,hollister,45.0,entrée de gamme / mass market,/,/
+496,hollister,50.0,entrée de gamme / mass market,/,/
+497,hollister,29.0,entrée de gamme / mass market,/,/
+498,hollister,36.0,entrée de gamme / mass market,/,/
+499,hollister,45.0,entrée de gamme / mass market,/,/
+500,hollister,50.0,entrée de gamme / mass market,/,/
+501,hollister,45.0,entrée de gamme / mass market,/,/
+502,hollister,35.0,entrée de gamme / mass market,/,/
+503,hollister,26.0,entrée de gamme / mass market,/,/
+504,hollister,150.0,entrée de gamme / mass market,/,/
+505,hollister,50.0,entrée de gamme / mass market,/,/
+506,hollister,85.0,entrée de gamme / mass market,/,/
+507,hollister,60.0,entrée de gamme / mass market,/,/
+508,hollister,49.0,entrée de gamme / mass market,/,/
+509,hollister,56.91,entrée de gamme / mass market,/,/
+510,hollister,61.13,entrée de gamme / mass market,/,/
+511,hollister,65.0,entrée de gamme / mass market,/,/
+512,hollister,50.0,entrée de gamme / mass market,/,/
+513,hollister,80.0,entrée de gamme / mass market,/,/
+514,hollister,55.0,entrée de gamme / mass market,/,/
+515,hollister,44.26,entrée de gamme / mass market,/,/
+516,hollister,50.0,entrée de gamme / mass market,/,/
+517,hollister,45.0,entrée de gamme / mass market,/,/
+518,hollister,55.0,entrée de gamme / mass market,/,/
+519,hollister,85.0,entrée de gamme / mass market,/,/
+520,hollister,65.0,entrée de gamme / mass market,/,/
+521,hollister,40.0,entrée de gamme / mass market,/,/
+522,hollister,40.0,entrée de gamme / mass market,/,/
+523,hollister,32.06,entrée de gamme / mass market,/,/
+524,hollister,51.1,entrée de gamme / mass market,/,/
+525,hollister,67.97,entrée de gamme / mass market,/,/
+526,hollister,40.07,entrée de gamme / mass market,/,/
+527,maison 123,32.0,entrée de gamme / mass market,170,190
+528,maison 123,40.0,entrée de gamme / mass market,170,190
+529,maison 123,49.0,entrée de gamme / mass market,170,190
+530,maison 123,35.0,entrée de gamme / mass market,170,190
+531,maison 123,50.0,entrée de gamme / mass market,170,190
+532,maison 123,60.0,entrée de gamme / mass market,170,190
+533,maison 123,46.0,entrée de gamme / mass market,170,190
+534,maison 123,35.0,entrée de gamme / mass market,170,190
+535,maison 123,75.0,entrée de gamme / mass market,170,190
+536,maison 123,95.0,entrée de gamme / mass market,170,190
+537,maison 123,65.0,entrée de gamme / mass market,170,190
+538,maison 123,27.0,entrée de gamme / mass market,170,190
+539,maison 123,45.0,entrée de gamme / mass market,170,190
+540,maison 123,80.0,entrée de gamme / mass market,170,190
+541,maison 123,25.0,entrée de gamme / mass market,170,190
+542,maison 123,70.0,entrée de gamme / mass market,170,190
+543,maison 123,95.0,entrée de gamme / mass market,170,190
+544,maison 123,50.0,entrée de gamme / mass market,170,190
+545,maison 123,171.0,entrée de gamme / mass market,170,190
+546,maison 123,80.0,entrée de gamme / mass market,170,190
+547,maison 123,89.0,entrée de gamme / mass market,170,190
+548,maison 123,50.0,entrée de gamme / mass market,170,190
+549,maison 123,160.0,entrée de gamme / mass market,170,190
+550,maison 123,130.0,entrée de gamme / mass market,170,190
+551,maison 123,54.0,entrée de gamme / mass market,170,190
+552,maison 123,80.0,entrée de gamme / mass market,170,190
+553,maison 123,110.0,entrée de gamme / mass market,170,190
+554,maison 123,88.89,entrée de gamme / mass market,170,190
+555,maison 123,80.0,entrée de gamme / mass market,170,190
+556,maison 123,60.0,entrée de gamme / mass market,170,190
+557,maison 123,85.0,entrée de gamme / mass market,170,190
+558,maison 123,60.0,entrée de gamme / mass market,170,190
+559,maison 123,20.0,entrée de gamme / mass market,170,190
+560,maison 123,30.0,entrée de gamme / mass market,170,190
+561,maison 123,30.0,entrée de gamme / mass market,170,190
+562,maison 123,69.0,entrée de gamme / mass market,170,190
+563,maison 123,20.0,entrée de gamme / mass market,170,190
+564,maison 123,118.0,entrée de gamme / mass market,170,190
+565,maison 123,47.0,entrée de gamme / mass market,170,190
+566,maison 123,31.0,entrée de gamme / mass market,170,190
+567,maison 123,95.0,entrée de gamme / mass market,170,190
+568,maison 123,250.0,entrée de gamme / mass market,170,190
+569,maison 123,250.0,entrée de gamme / mass market,170,190
+570,maison 123,47.0,entrée de gamme / mass market,170,190
+571,maison 123,80.0,entrée de gamme / mass market,170,190
+572,maison 123,45.0,entrée de gamme / mass market,170,190
+573,maison 123,138.0,entrée de gamme / mass market,170,190
+574,maison 123,135.0,entrée de gamme / mass market,170,190
+575,maison 123,60.0,entrée de gamme / mass market,170,190
+576,maison 123,70.0,entrée de gamme / mass market,170,190
+577,maison 123,69.0,entrée de gamme / mass market,170,190
+578,maison 123,100.0,entrée de gamme / mass market,170,190
+579,maison 123,100.0,entrée de gamme / mass market,170,190
+580,maison 123,75.0,entrée de gamme / mass market,170,190
+581,maison 123,35.0,entrée de gamme / mass market,170,190
+582,maison 123,100.0,entrée de gamme / mass market,170,190
+583,maison 123,34.0,entrée de gamme / mass market,170,190
+584,maison 123,58.0,entrée de gamme / mass market,170,190
+585,maison 123,40.0,entrée de gamme / mass market,170,190
+586,maison 123,40.0,entrée de gamme / mass market,170,190
+587,maison 123,120.0,entrée de gamme / mass market,170,190
+588,maison 123,150.0,entrée de gamme / mass market,170,190
+589,maison 123,67.0,entrée de gamme / mass market,170,190
+590,maison 123,180.0,entrée de gamme / mass market,170,190
+591,maison 123,70.0,entrée de gamme / mass market,170,190
+592,maison 123,45.0,entrée de gamme / mass market,170,190
+593,maison 123,300.0,entrée de gamme / mass market,170,190
+594,maison 123,45.0,entrée de gamme / mass market,170,190
+595,maison 123,89.0,entrée de gamme / mass market,170,190
+596,maison 123,35.0,entrée de gamme / mass market,170,190
+597,maison 123,150.0,entrée de gamme / mass market,170,190
+598,maison 123,43.0,entrée de gamme / mass market,170,190
+599,maison 123,80.0,entrée de gamme / mass market,170,190
+600,maison 123,159.0,entrée de gamme / mass market,170,190
+601,maison 123,35.0,entrée de gamme / mass market,170,190
+602,maison 123,65.0,entrée de gamme / mass market,170,190
+603,maison 123,65.0,entrée de gamme / mass market,170,190
+604,maison 123,183.38,entrée de gamme / mass market,170,190
+605,maison 123,80.0,entrée de gamme / mass market,170,190
+606,maison 123,60.0,entrée de gamme / mass market,170,190
+607,maison 123,74.0,entrée de gamme / mass market,170,190
+608,maison 123,65.0,entrée de gamme / mass market,170,190
+609,maison 123,75.0,entrée de gamme / mass market,170,190
+610,maison 123,90.0,entrée de gamme / mass market,170,190
+611,maison 123,45.0,entrée de gamme / mass market,170,190
+612,maison 123,64.83,entrée de gamme / mass market,170,190
+613,maison 123,57.51,entrée de gamme / mass market,170,190
+614,maison 123,110.0,entrée de gamme / mass market,170,190
+615,maison 123,110.0,entrée de gamme / mass market,170,190
+616,zara,39.0,entrée de gamme / mass market,49,129
+617,zara,44.26,entrée de gamme / mass market,49,129
+618,zara,30.0,entrée de gamme / mass market,49,129
+619,zara,32.0,entrée de gamme / mass market,49,129
+620,zara,55.0,entrée de gamme / mass market,49,129
+621,zara,36.0,entrée de gamme / mass market,49,129
+622,zara,30.0,entrée de gamme / mass market,49,129
+623,zara,32.0,entrée de gamme / mass market,49,129
+624,zara,205.0,entrée de gamme / mass market,49,129
+625,zara,25.0,entrée de gamme / mass market,49,129
+626,zara,28.0,entrée de gamme / mass market,49,129
+627,zara,27.0,entrée de gamme / mass market,49,129
+628,zara,30.0,entrée de gamme / mass market,49,129
+629,zara,40.0,entrée de gamme / mass market,49,129
+630,zara,55.0,entrée de gamme / mass market,49,129
+631,zara,34.0,entrée de gamme / mass market,49,129
+632,zara,62.0,entrée de gamme / mass market,49,129
+633,zara,35.0,entrée de gamme / mass market,49,129
+634,zara,27.0,entrée de gamme / mass market,49,129
+635,zara,37.94,entrée de gamme / mass market,49,129
+636,zara,42.0,entrée de gamme / mass market,49,129
+637,zara,35.0,entrée de gamme / mass market,49,129
+638,zara,48.0,entrée de gamme / mass market,49,129
+639,zara,17.0,entrée de gamme / mass market,49,129
+640,zara,35.07,entrée de gamme / mass market,49,129
+641,zara,52.0,entrée de gamme / mass market,49,129
+642,zara,35.0,entrée de gamme / mass market,49,129
+643,zara,60.0,entrée de gamme / mass market,49,129
+644,zara,43.0,entrée de gamme / mass market,49,129
+645,zara,60.0,entrée de gamme / mass market,49,129
+646,zara,75.88,entrée de gamme / mass market,49,129
+647,zara,49.0,entrée de gamme / mass market,49,129
+648,zara,40.0,entrée de gamme / mass market,49,129
+649,zara,30.0,entrée de gamme / mass market,49,129
+650,zara,70.0,entrée de gamme / mass market,49,129
+651,zara,50.0,entrée de gamme / mass market,49,129
+652,zara,25.0,entrée de gamme / mass market,49,129
+653,zara,56.91,entrée de gamme / mass market,49,129
+654,zara,34.15,entrée de gamme / mass market,49,129
+655,zara,45.0,entrée de gamme / mass market,49,129
+656,zara,50.0,entrée de gamme / mass market,49,129
+657,zara,80.0,entrée de gamme / mass market,49,129
+658,zara,40.0,entrée de gamme / mass market,49,129
+659,zara,32.0,entrée de gamme / mass market,49,129
+660,zara,115.0,entrée de gamme / mass market,49,129
+661,zara,100.0,entrée de gamme / mass market,49,129
+662,zara,70.0,entrée de gamme / mass market,49,129
+663,zara,50.0,entrée de gamme / mass market,49,129
+664,zara,20.0,entrée de gamme / mass market,49,129
+665,zara,36.13,entrée de gamme / mass market,49,129
+666,zara,50.0,entrée de gamme / mass market,49,129
+667,zara,75.0,entrée de gamme / mass market,49,129
+668,zara,60.0,entrée de gamme / mass market,49,129
+669,zara,45.0,entrée de gamme / mass market,49,129
+670,zara,125.0,entrée de gamme / mass market,49,129
+671,zara,45.0,entrée de gamme / mass market,49,129
+672,zara,80.0,entrée de gamme / mass market,49,129
+673,zara,38.0,entrée de gamme / mass market,49,129
+674,zara,35.0,entrée de gamme / mass market,49,129
+675,zara,125.0,entrée de gamme / mass market,49,129
+676,zara,115.0,entrée de gamme / mass market,49,129
+677,zara,50.0,entrée de gamme / mass market,49,129
+678,zara,35.0,entrée de gamme / mass market,49,129
+679,zara,40.0,entrée de gamme / mass market,49,129
+680,zara,80.0,entrée de gamme / mass market,49,129
+681,zara,51.0,entrée de gamme / mass market,49,129
+682,zara,75.0,entrée de gamme / mass market,49,129
+683,zara,80.0,entrée de gamme / mass market,49,129
+684,zara,90.0,entrée de gamme / mass market,49,129
+685,zara,40.07,entrée de gamme / mass market,49,129
+686,zara,98.18,entrée de gamme / mass market,49,129
+687,zara,33.95,entrée de gamme / mass market,49,129
+688,zara,52.1,entrée de gamme / mass market,49,129
+689,zara,35.07,entrée de gamme / mass market,49,129
+690,zara,53.6,entrée de gamme / mass market,49,129
+691,zara,200.0,entrée de gamme / mass market,49,129
+692,zara,22.0,entrée de gamme / mass market,49,129
+693,zara,50.0,entrée de gamme / mass market,49,129
+694,zara,27.0,entrée de gamme / mass market,49,129
+695,zara,88.53,entrée de gamme / mass market,49,129
+696,zara,85.0,entrée de gamme / mass market,49,129
+697,zara,52.0,entrée de gamme / mass market,49,129
+698,zara,82.21,entrée de gamme / mass market,49,129
+699,zara,35.0,entrée de gamme / mass market,49,129
+700,zara,90.0,entrée de gamme / mass market,49,129
+701,zara,56.91,entrée de gamme / mass market,49,129
+702,zara,82.21,entrée de gamme / mass market,49,129
+703,zara,49.0,entrée de gamme / mass market,49,129
+704,zara,35.0,entrée de gamme / mass market,49,129
+705,zara,29.0,entrée de gamme / mass market,49,129
+706,zara,49.0,entrée de gamme / mass market,49,129
+707,zara,115.21,entrée de gamme / mass market,49,129
+708,zara,123.23,entrée de gamme / mass market,49,129
+709,zara,199.37,entrée de gamme / mass market,49,129
+710,escada,72.0,premium / luxe abordable,/,/
+711,escada,46.09,premium / luxe abordable,/,/
+712,escada,67.0,premium / luxe abordable,/,/
+713,escada,120.0,premium / luxe abordable,/,/
+714,escada,117.56,premium / luxe abordable,/,/
+715,escada,352.69,premium / luxe abordable,/,/
+716,escada,212.08,premium / luxe abordable,/,/
+717,escada,205.0,premium / luxe abordable,/,/
+718,escada,113.82,premium / luxe abordable,/,/
+719,escada,64.0,premium / luxe abordable,/,/
+720,escada,270.0,premium / luxe abordable,/,/
+721,escada,110.03,premium / luxe abordable,/,/
+722,escada,50.0,premium / luxe abordable,/,/
+723,escada,105.0,premium / luxe abordable,/,/
+724,escada,199.0,premium / luxe abordable,/,/
+725,escada,350.0,premium / luxe abordable,/,/
+726,escada,350.0,premium / luxe abordable,/,/
+727,escada,132.79,premium / luxe abordable,/,/
+728,escada,165.0,premium / luxe abordable,/,/
+729,escada,70.0,premium / luxe abordable,/,/
+730,escada,346.82,premium / luxe abordable,/,/
+731,escada,90.0,premium / luxe abordable,/,/
+732,escada,1264.71,premium / luxe abordable,/,/
+733,escada,61.42,premium / luxe abordable,/,/
+734,escada,570.38,premium / luxe abordable,/,/
+735,escada,698.12,premium / luxe abordable,/,/
+736,escada,766.41,premium / luxe abordable,/,/
+737,escada,872.65,premium / luxe abordable,/,/
+738,escada,660.18,premium / luxe abordable,/,/
+739,escada,933.35,premium / luxe abordable,/,/
+740,escada,585.56,premium / luxe abordable,/,/
+741,escada,1004.18,premium / luxe abordable,/,/
+742,escada,790.44,premium / luxe abordable,/,/
+743,escada,632.35,premium / luxe abordable,/,/
+744,escada,1078.79,premium / luxe abordable,/,/
+745,escada,651.32,premium / luxe abordable,/,/
+746,escada,743.65,premium / luxe abordable,/,/
+747,escada,873.91,premium / luxe abordable,/,/
+748,escada,258.64,premium / luxe abordable,/,/
+749,escada,450.0,premium / luxe abordable,/,/
+750,escada,190.0,premium / luxe abordable,/,/
+751,escada,35.0,premium / luxe abordable,/,/
+752,escada,372.0,premium / luxe abordable,/,/
+753,escada,239.0,premium / luxe abordable,/,/
+754,escada,189.71,premium / luxe abordable,/,/
+755,escada,225.0,premium / luxe abordable,/,/
+756,escada,150.0,premium / luxe abordable,/,/
+757,escada,175.0,premium / luxe abordable,/,/
+758,escada,120.0,premium / luxe abordable,/,/
+759,escada,442.65,premium / luxe abordable,/,/
+760,escada,1200.0,premium / luxe abordable,/,/
+761,escada,150.0,premium / luxe abordable,/,/
+762,escada,150.0,premium / luxe abordable,/,/
+763,escada,300.0,premium / luxe abordable,/,/
+764,escada,125.0,premium / luxe abordable,/,/
+765,escada,129.0,premium / luxe abordable,/,/
+766,escada,229.0,premium / luxe abordable,/,/
+767,escada,208.68,premium / luxe abordable,/,/
+768,escada,1125.59,premium / luxe abordable,/,/
+769,escada,175.0,premium / luxe abordable,/,/
+770,escada,420.0,premium / luxe abordable,/,/
+771,escada,320.0,premium / luxe abordable,/,/
+772,escada,555.0,premium / luxe abordable,/,/
+773,escada,1004.18,premium / luxe abordable,/,/
+774,escada,87.26,premium / luxe abordable,/,/
+775,escada,150.28,premium / luxe abordable,/,/
+776,escada,280.52,premium / luxe abordable,/,/
+777,escada,400.75,premium / luxe abordable,/,/
+778,escada,751.4,premium / luxe abordable,/,/
+779,escada,626.16,premium / luxe abordable,/,/
+780,escada,701.3,premium / luxe abordable,/,/
+781,escada,651.21,premium / luxe abordable,/,/
+782,escada,70.0,premium / luxe abordable,/,/
+783,escada,180.0,premium / luxe abordable,/,/
+784,escada,180.0,premium / luxe abordable,/,/
+785,escada,188.1,premium / luxe abordable,/,/
+786,escada,99.0,premium / luxe abordable,/,/
+787,escada,150.0,premium / luxe abordable,/,/
+788,escada,250.0,premium / luxe abordable,/,/
+789,escada,80.0,premium / luxe abordable,/,/
+790,escada,250.0,premium / luxe abordable,/,/
+791,escada,130.0,premium / luxe abordable,/,/
+792,escada,355.0,premium / luxe abordable,/,/
+793,escada,110.0,premium / luxe abordable,/,/
+794,escada,55.0,premium / luxe abordable,/,/
+795,escada,135.0,premium / luxe abordable,/,/
+796,escada,175.79,premium / luxe abordable,/,/
+797,escada,135.0,premium / luxe abordable,/,/
+798,escada,210.0,premium / luxe abordable,/,/
+799,escada,140.0,premium / luxe abordable,/,/
+800,escada,75.0,premium / luxe abordable,/,/
+801,escada,199.0,premium / luxe abordable,/,/
+802,escada,80.0,premium / luxe abordable,/,/
+803,escada,118.88,premium / luxe abordable,/,/
+804,escada,278.24,premium / luxe abordable,/,/
+805,escada,120.0,premium / luxe abordable,/,/
+806,escada,99.0,premium / luxe abordable,/,/
+807,escada,230.0,premium / luxe abordable,/,/
+808,escada,300.0,premium / luxe abordable,/,/
+809,escada,281.92,premium / luxe abordable,/,/
+810,escada,250.0,premium / luxe abordable,/,/
+811,escada,350.0,premium / luxe abordable,/,/
+812,escada,65.0,premium / luxe abordable,/,/
+813,escada,175.0,premium / luxe abordable,/,/
+814,escada,490.0,premium / luxe abordable,/,/
+815,escada,378.15,premium / luxe abordable,/,/
+816,escada,320.6,premium / luxe abordable,/,/
+817,escada,156.29,premium / luxe abordable,/,/
+818,escada,118.22,premium / luxe abordable,/,/
+819,escada,350.65,premium / luxe abordable,/,/
+820,yves saint laurent,130.0,luxe & création,1890,2190
+821,yves saint laurent,150.0,luxe & création,1890,2190
+822,yves saint laurent,132.85,luxe & création,1890,2190
+823,yves saint laurent,165.0,luxe & création,1890,2190
+824,yves saint laurent,167.0,luxe & création,1890,2190
+825,yves saint laurent,84.74,luxe & création,1890,2190
+826,yves saint laurent,150.0,luxe & création,1890,2190
+827,yves saint laurent,180.0,luxe & création,1890,2190
+828,yves saint laurent,350.0,luxe & création,1890,2190
+829,yves saint laurent,300.0,luxe & création,1890,2190
+830,yves saint laurent,240.0,luxe & création,1890,2190
+831,yves saint laurent,270.0,luxe & création,1890,2190
+832,yves saint laurent,500.0,luxe & création,1890,2190
+833,yves saint laurent,130.0,luxe & création,1890,2190
+834,yves saint laurent,1263.44,luxe & création,1890,2190
+835,yves saint laurent,380.0,luxe & création,1890,2190
+836,yves saint laurent,455.29,luxe & création,1890,2190
+837,yves saint laurent,400.0,luxe & création,1890,2190
+838,yves saint laurent,205.0,luxe & création,1890,2190
+839,yves saint laurent,125.0,luxe & création,1890,2190
+840,yves saint laurent,123.0,luxe & création,1890,2190
+841,yves saint laurent,134.06,luxe & création,1890,2190
+842,yves saint laurent,149.0,luxe & création,1890,2190
+843,yves saint laurent,200.0,luxe & création,1890,2190
+844,yves saint laurent,100.0,luxe & création,1890,2190
+845,yves saint laurent,220.0,luxe & création,1890,2190
+846,yves saint laurent,480.0,luxe & création,1890,2190
+847,yves saint laurent,775.0,luxe & création,1890,2190
+848,yves saint laurent,170.0,luxe & création,1890,2190
+849,yves saint laurent,655.0,luxe & création,1890,2190
+850,yves saint laurent,249.0,luxe & création,1890,2190
+851,yves saint laurent,110.0,luxe & création,1890,2190
+852,yves saint laurent,350.0,luxe & création,1890,2190
+853,yves saint laurent,1500.0,luxe & création,1890,2190
+854,yves saint laurent,1500.0,luxe & création,1890,2190
+855,yves saint laurent,1800.0,luxe & création,1890,2190
+856,yves saint laurent,250.0,luxe & création,1890,2190
+857,yves saint laurent,275.0,luxe & création,1890,2190
+858,yves saint laurent,1300.0,luxe & création,1890,2190
+859,yves saint laurent,85.0,luxe & création,1890,2190
+860,yves saint laurent,139.0,luxe & création,1890,2190
+861,yves saint laurent,1800.0,luxe & création,1890,2190
+862,yves saint laurent,128.0,luxe & création,1890,2190
+863,yves saint laurent,2150.0,luxe & création,1890,2190
+864,yves saint laurent,230.0,luxe & création,1890,2190
+865,yves saint laurent,373.09,luxe & création,1890,2190
+866,yves saint laurent,1595.0,luxe & création,1890,2190
+867,yves saint laurent,698.0,luxe & création,1890,2190
+868,yves saint laurent,899.0,luxe & création,1890,2190
+869,yves saint laurent,411.03,luxe & création,1890,2190
+870,yves saint laurent,470.0,luxe & création,1890,2190
+871,yves saint laurent,2000.0,luxe & création,1890,2190
+872,yves saint laurent,780.0,luxe & création,1890,2190
+873,yves saint laurent,230.0,luxe & création,1890,2190
+874,yves saint laurent,7475.0,luxe & création,1890,2190
+875,yves saint laurent,278.24,luxe & création,1890,2190
+876,yves saint laurent,900.0,luxe & création,1890,2190
+877,yves saint laurent,1610.0,luxe & création,1890,2190
+878,yves saint laurent,1495.0,luxe & création,1890,2190
+879,yves saint laurent,2000.0,luxe & création,1890,2190
+880,yves saint laurent,150.0,luxe & création,1890,2190
+881,yves saint laurent,169.0,luxe & création,1890,2190
+882,yves saint laurent,128.0,luxe & création,1890,2190
+883,yves saint laurent,290.0,luxe & création,1890,2190
+884,yves saint laurent,127.63,luxe & création,1890,2190
+885,yves saint laurent,319.07,luxe & création,1890,2190
+886,yves saint laurent,851.25,luxe & création,1890,2190
+887,yves saint laurent,338.0,luxe & création,1890,2190
+888,yves saint laurent,250.47,luxe & création,1890,2190
+889,yves saint laurent,647.0,luxe & création,1890,2190
+890,yves saint laurent,259.0,luxe & création,1890,2190
+891,yves saint laurent,160.0,luxe & création,1890,2190
+892,yves saint laurent,380.0,luxe & création,1890,2190
+893,yves saint laurent,250.0,luxe & création,1890,2190
+894,yves saint laurent,303.53,luxe & création,1890,2190
+895,yves saint laurent,230.0,luxe & création,1890,2190
+896,yves saint laurent,259.0,luxe & création,1890,2190
+897,yves saint laurent,1000.0,luxe & création,1890,2190
+898,yves saint laurent,372.0,luxe & création,1890,2190
+899,yves saint laurent,3950.0,luxe & création,1890,2190
+900,yves saint laurent,120.0,luxe & création,1890,2190
+901,yves saint laurent,442.65,luxe & création,1890,2190
+902,yves saint laurent,180.0,luxe & création,1890,2190
+903,yves saint laurent,450.0,luxe & création,1890,2190
+904,yves saint laurent,347.06,luxe & création,1890,2190
+905,yves saint laurent,459.0,luxe & création,1890,2190
+906,yves saint laurent,250.0,luxe & création,1890,2190
+907,yves saint laurent,300.0,luxe & création,1890,2190
+908,yves saint laurent,180.0,luxe & création,1890,2190
+909,yves saint laurent,199.0,luxe & création,1890,2190
+910,yves saint laurent,159.0,luxe & création,1890,2190
+911,yves saint laurent,190.0,luxe & création,1890,2190
+912,yves saint laurent,169.47,luxe & création,1890,2190
+913,yves saint laurent,182.12,luxe & création,1890,2190
+914,yves saint laurent,174.53,luxe & création,1890,2190
+915,yves saint laurent,800.0,luxe & création,1890,2190
+916,yves saint laurent,316.18,luxe & création,1890,2190
+917,yves saint laurent,350.0,luxe & création,1890,2190
+918,yves saint laurent,345.0,luxe & création,1890,2190
+919,yves saint laurent,950.0,luxe & création,1890,2190
+920,yves saint laurent,800.0,luxe & création,1890,2190
+921,yves saint laurent,690.0,luxe & création,1890,2190
+922,yves saint laurent,250.0,luxe & création,1890,2190
+923,yves saint laurent,280.0,luxe & création,1890,2190
+924,yves saint laurent,400.0,luxe & création,1890,2190
+925,yves saint laurent,385.0,luxe & création,1890,2190
+926,yves saint laurent,246.62,luxe & création,1890,2190
+927,yves saint laurent,2400.0,luxe & création,1890,2190
+928,yves saint laurent,500.0,luxe & création,1890,2190
+929,yves saint laurent,350.0,luxe & création,1890,2190
+930,yves saint laurent,740.0,luxe & création,1890,2190
+931,yves saint laurent,2645.0,luxe & création,1890,2190
+932,yves saint laurent,499.93,luxe & création,1890,2190
+933,yves saint laurent,569.12,luxe & création,1890,2190
+934,yves saint laurent,225.0,luxe & création,1890,2190
+935,yves saint laurent,300.0,luxe & création,1890,2190
+936,yves saint laurent,3200.0,luxe & création,1890,2190
+937,yves saint laurent,96.0,luxe & création,1890,2190
+938,yves saint laurent,85.0,luxe & création,1890,2190
+939,yves saint laurent,295.0,luxe & création,1890,2190
+940,yves saint laurent,399.0,luxe & création,1890,2190
+941,yves saint laurent,3900.0,luxe & création,1890,2190
+942,yves saint laurent,2300.0,luxe & création,1890,2190
+943,yves saint laurent,249.46,luxe & création,1890,2190
+944,yves saint laurent,634.69,luxe & création,1890,2190
+945,yves saint laurent,475.89,luxe & création,1890,2190
+946,yves saint laurent,1039.86,luxe & création,1890,2190
+947,yves saint laurent,888.65,luxe & création,1890,2190
+948,yves saint laurent,896.43,luxe & création,1890,2190
+949,yves saint laurent,350.0,luxe & création,1890,2190
+950,yves saint laurent,210.0,luxe & création,1890,2190
+951,yves saint laurent,400.75,luxe & création,1890,2190
+952,valentino,130.0,luxe & création,1700,2400
+953,valentino,159.0,luxe & création,1700,2400
+954,valentino,85.82,luxe & création,1700,2400
+955,valentino,79.0,luxe & création,1700,2400
+956,valentino,230.0,luxe & création,1700,2400
+957,valentino,225.0,luxe & création,1700,2400
+958,valentino,180.0,luxe & création,1700,2400
+959,valentino,88.24,luxe & création,1700,2400
+960,valentino,50.0,luxe & création,1700,2400
+961,valentino,125.0,luxe & création,1700,2400
+962,valentino,679.72,luxe & création,1700,2400
+963,valentino,40.0,luxe & création,1700,2400
+964,valentino,175.0,luxe & création,1700,2400
+965,valentino,200.0,luxe & création,1700,2400
+966,valentino,200.0,luxe & création,1700,2400
+967,valentino,180.0,luxe & création,1700,2400
+968,valentino,320.0,luxe & création,1700,2400
+969,valentino,1315.0,luxe & création,1700,2400
+970,valentino,197.29,luxe & création,1700,2400
+971,valentino,150.0,luxe & création,1700,2400
+972,valentino,900.0,luxe & création,1700,2400
+973,valentino,245.0,luxe & création,1700,2400
+974,valentino,150.0,luxe & création,1700,2400
+975,valentino,113.0,luxe & création,1700,2400
+976,valentino,950.0,luxe & création,1700,2400
+977,valentino,203.0,luxe & création,1700,2400
+978,valentino,295.0,luxe & création,1700,2400
+979,valentino,208.68,luxe & création,1700,2400
+980,valentino,194.0,luxe & création,1700,2400
+981,valentino,350.0,luxe & création,1700,2400
+982,valentino,289.0,luxe & création,1700,2400
+983,valentino,299.0,luxe & création,1700,2400
+984,valentino,297.0,luxe & création,1700,2400
+985,valentino,350.0,luxe & création,1700,2400
+986,valentino,180.0,luxe & création,1700,2400
+987,valentino,250.0,luxe & création,1700,2400
+988,valentino,151.76,luxe & création,1700,2400
+989,valentino,350.0,luxe & création,1700,2400
+990,valentino,200.0,luxe & création,1700,2400
+991,valentino,375.0,luxe & création,1700,2400
+992,valentino,250.0,luxe & création,1700,2400
+993,valentino,195.0,luxe & création,1700,2400
+994,valentino,270.0,luxe & création,1700,2400
+995,valentino,370.0,luxe & création,1700,2400
+996,valentino,160.0,luxe & création,1700,2400
+997,valentino,250.0,luxe & création,1700,2400
+998,valentino,316.18,luxe & création,1700,2400
+999,valentino,280.0,luxe & création,1700,2400
+1000,valentino,210.0,luxe & création,1700,2400
+1001,valentino,822.06,luxe & création,1700,2400
+1002,valentino,170.0,luxe & création,1700,2400
+1003,valentino,215.0,luxe & création,1700,2400
+1004,valentino,361.71,luxe & création,1700,2400
+1005,valentino,150.0,luxe & création,1700,2400
+1006,valentino,303.53,luxe & création,1700,2400
+1007,valentino,126.47,luxe & création,1700,2400
+1008,valentino,390.0,luxe & création,1700,2400
+1009,valentino,250.0,luxe & création,1700,2400
+1010,valentino,65.0,luxe & création,1700,2400
+1011,valentino,79.0,luxe & création,1700,2400
+1012,valentino,250.0,luxe & création,1700,2400
+1013,valentino,190.0,luxe & création,1700,2400
+1014,valentino,160.0,luxe & création,1700,2400
+1015,valentino,79.68,luxe & création,1700,2400
+1016,valentino,218.0,luxe & création,1700,2400
+1017,valentino,225.0,luxe & création,1700,2400
+1018,valentino,450.0,luxe & création,1700,2400
+1019,valentino,120.0,luxe & création,1700,2400
+1020,valentino,550.0,luxe & création,1700,2400
+1021,valentino,650.0,luxe & création,1700,2400
+1022,valentino,2250.0,luxe & création,1700,2400
+1023,valentino,95.0,luxe & création,1700,2400
+1024,valentino,420.0,luxe & création,1700,2400
+1025,valentino,150.0,luxe & création,1700,2400
+1026,valentino,210.0,luxe & création,1700,2400
+1027,valentino,587.82,luxe & création,1700,2400
+1028,valentino,400.0,luxe & création,1700,2400
+1029,valentino,130.0,luxe & création,1700,2400
+1030,valentino,300.0,luxe & création,1700,2400
+1031,valentino,111.0,luxe & création,1700,2400
+1032,valentino,632.35,luxe & création,1700,2400
+1033,valentino,170.0,luxe & création,1700,2400
+1034,valentino,220.0,luxe & création,1700,2400
+1035,valentino,246.67,luxe & création,1700,2400
+1036,valentino,130.0,luxe & création,1700,2400
+1037,valentino,550.0,luxe & création,1700,2400
+1038,valentino,1502.8,luxe & création,1700,2400
+1039,valentino,1001.86,luxe & création,1700,2400
+1040,valentino,153.15,luxe & création,1700,2400
+1041,valentino,459.86,luxe & création,1700,2400
+1042,valentino,269.5,luxe & création,1700,2400
+1043,valentino,398.74,luxe & création,1700,2400
+1044,valentino,419.78,luxe & création,1700,2400
+1045,valentino,419.78,luxe & création,1700,2400
+1046,valentino,2000.0,luxe & création,1700,2400
+1047,valentino,400.75,luxe & création,1700,2400
+1048,valentino,220.0,luxe & création,1700,2400
+1049,valentino,165.0,luxe & création,1700,2400
+1050,valentino,899.0,luxe & création,1700,2400
+1051,valentino,58.0,luxe & création,1700,2400
+1052,valentino,2600.0,luxe & création,1700,2400
+1053,valentino,3980.0,luxe & création,1700,2400
+1054,valentino,3451.0,luxe & création,1700,2400
+1055,valentino,1279.41,luxe & création,1700,2400
+1056,valentino,1200.0,luxe & création,1700,2400
+1057,valentino,359.0,luxe & création,1700,2400
+1058,valentino,165.0,luxe & création,1700,2400
+1059,valentino,1300.0,luxe & création,1700,2400
+1060,valentino,1250.0,luxe & création,1700,2400
+1061,valentino,150.0,luxe & création,1700,2400
+1062,valentino,899.0,luxe & création,1700,2400
+1063,valentino,118.0,luxe & création,1700,2400
+1064,valentino,399.0,luxe & création,1700,2400
+1065,valentino,699.0,luxe & création,1700,2400
+1066,valentino,445.0,luxe & création,1700,2400
+1067,valentino,675.0,luxe & création,1700,2400
+1068,valentino,297.0,luxe & création,1700,2400
+1069,valentino,130.0,luxe & création,1700,2400
+1070,valentino,251.68,luxe & création,1700,2400
+1071,valentino,95.0,luxe & création,1700,2400
+1072,valentino,120.0,luxe & création,1700,2400
+1073,valentino,170.0,luxe & création,1700,2400
+1074,valentino,210.49,luxe & création,1700,2400
+1075,valentino,229.0,luxe & création,1700,2400
+1076,valentino,223.18,luxe & création,1700,2400
+1077,valentino,65.0,luxe & création,1700,2400
+1078,valentino,212.0,luxe & création,1700,2400
+1079,valentino,140.0,luxe & création,1700,2400
+1080,valentino,695.59,luxe & création,1700,2400
+1081,valentino,150.0,luxe & création,1700,2400
+1082,valentino,240.29,luxe & création,1700,2400
+1083,valentino,250.0,luxe & création,1700,2400
+1084,valentino,1102.05,luxe & création,1700,2400
+1085,valentino,621.16,luxe & création,1700,2400
+1086,valentino,399.74,luxe & création,1700,2400
+1087,valentino,349.65,luxe & création,1700,2400
+1088,valentino,2837.28,luxe & création,1700,2400
+1089,valentino,446.69,luxe & création,1700,2400
+1090,valentino,516.89,luxe & création,1700,2400
+1091,valentino,382.88,luxe & création,1700,2400
+1092,valentino,400.0,luxe & création,1700,2400
+1093,valentino,315.0,luxe & création,1700,2400
+1094,valentino,1750.0,luxe & création,1700,2400
+1095,valentino,2990.0,luxe & création,1700,2400
+1096,valentino,900.0,luxe & création,1700,2400
+1097,valentino,640.0,luxe & création,1700,2400
+1098,valentino,3590.0,luxe & création,1700,2400
+1099,valentino,1903.54,luxe & création,1700,2400
+1100,valentino,651.21,luxe & création,1700,2400
+1101,max mara,68.0,premium / luxe abordable,375,959
+1102,max mara,70.0,premium / luxe abordable,375,959
+1103,max mara,199.0,premium / luxe abordable,375,959
+1104,max mara,139.0,premium / luxe abordable,375,959
+1105,max mara,150.0,premium / luxe abordable,375,959
+1106,max mara,55.0,premium / luxe abordable,375,959
+1107,max mara,66.0,premium / luxe abordable,375,959
+1108,max mara,125.0,premium / luxe abordable,375,959
+1109,max mara,230.43,premium / luxe abordable,375,959
+1110,max mara,215.0,premium / luxe abordable,375,959
+1111,max mara,148.28,premium / luxe abordable,375,959
+1112,max mara,150.28,premium / luxe abordable,375,959
+1113,max mara,240.45,premium / luxe abordable,375,959
+1114,max mara,188.35,premium / luxe abordable,375,959
+1115,max mara,200.37,premium / luxe abordable,375,959
+1116,max mara,170.32,premium / luxe abordable,375,959
+1117,max mara,150.28,premium / luxe abordable,375,959
+1118,max mara,180.34,premium / luxe abordable,375,959
+1119,max mara,190.35,premium / luxe abordable,375,959
+1120,max mara,200.37,premium / luxe abordable,375,959
+1121,max mara,180.34,premium / luxe abordable,375,959
+1122,max mara,110.0,premium / luxe abordable,375,959
+1123,max mara,107.5,premium / luxe abordable,375,959
+1124,max mara,85.0,premium / luxe abordable,375,959
+1125,max mara,70.0,premium / luxe abordable,375,959
+1126,max mara,85.0,premium / luxe abordable,375,959
+1127,max mara,165.0,premium / luxe abordable,375,959
+1128,max mara,160.0,premium / luxe abordable,375,959
+1129,max mara,113.0,premium / luxe abordable,375,959
+1130,max mara,125.0,premium / luxe abordable,375,959
+1131,max mara,230.0,premium / luxe abordable,375,959
+1132,max mara,200.0,premium / luxe abordable,375,959
+1133,max mara,200.0,premium / luxe abordable,375,959
+1134,max mara,120.0,premium / luxe abordable,375,959
+1135,max mara,265.0,premium / luxe abordable,375,959
+1136,max mara,170.0,premium / luxe abordable,375,959
+1137,max mara,150.0,premium / luxe abordable,375,959
+1138,max mara,425.0,premium / luxe abordable,375,959
+1139,max mara,40.0,premium / luxe abordable,375,959
+1140,max mara,180.0,premium / luxe abordable,375,959
+1141,max mara,169.0,premium / luxe abordable,375,959
+1142,max mara,200.0,premium / luxe abordable,375,959
+1143,max mara,250.0,premium / luxe abordable,375,959
+1144,max mara,230.42,premium / luxe abordable,375,959
+1145,max mara,220.0,premium / luxe abordable,375,959
+1146,max mara,47.03,premium / luxe abordable,375,959
+1147,max mara,108.0,premium / luxe abordable,375,959
+1148,max mara,100.0,premium / luxe abordable,375,959
+1149,max mara,86.0,premium / luxe abordable,375,959
+1150,max mara,395.0,premium / luxe abordable,375,959
+1151,max mara,395.0,premium / luxe abordable,375,959
+1152,max mara,395.0,premium / luxe abordable,375,959
+1153,max mara,100.0,premium / luxe abordable,375,959
+1154,max mara,250.0,premium / luxe abordable,375,959
+1155,max mara,135.0,premium / luxe abordable,375,959
+1156,max mara,180.0,premium / luxe abordable,375,959
+1157,max mara,225.0,premium / luxe abordable,375,959
+1158,max mara,90.0,premium / luxe abordable,375,959
+1159,max mara,100.0,premium / luxe abordable,375,959
+1160,max mara,190.0,premium / luxe abordable,375,959
+1161,max mara,101.18,premium / luxe abordable,375,959
+1162,max mara,95.0,premium / luxe abordable,375,959
+1163,max mara,170.0,premium / luxe abordable,375,959
+1164,max mara,95.0,premium / luxe abordable,375,959
+1165,max mara,85.0,premium / luxe abordable,375,959
+1166,max mara,160.0,premium / luxe abordable,375,959
+1167,max mara,200.29,premium / luxe abordable,375,959
+1168,max mara,149.0,premium / luxe abordable,375,959
+1169,max mara,250.0,premium / luxe abordable,375,959
+1170,max mara,200.0,premium / luxe abordable,375,959
+1171,max mara,65.0,premium / luxe abordable,375,959
+1172,max mara,107.5,premium / luxe abordable,375,959
+1173,max mara,289.0,premium / luxe abordable,375,959
+1174,max mara,95.0,premium / luxe abordable,375,959
+1175,max mara,215.0,premium / luxe abordable,375,959
+1176,max mara,449.0,premium / luxe abordable,375,959
+1177,max mara,505.88,premium / luxe abordable,375,959
+1178,max mara,229.0,premium / luxe abordable,375,959
+1179,max mara,195.0,premium / luxe abordable,375,959
+1180,max mara,275.0,premium / luxe abordable,375,959
+1181,max mara,90.0,premium / luxe abordable,375,959
+1182,max mara,265.0,premium / luxe abordable,375,959
+1183,max mara,275.0,premium / luxe abordable,375,959
+1184,max mara,110.0,premium / luxe abordable,375,959
+1185,max mara,136.0,premium / luxe abordable,375,959
+1186,max mara,150.0,premium / luxe abordable,375,959
+1187,max mara,58.18,premium / luxe abordable,375,959
+1188,max mara,120.0,premium / luxe abordable,375,959
+1189,max mara,85.0,premium / luxe abordable,375,959
+1190,max mara,160.0,premium / luxe abordable,375,959
+1191,max mara,413.82,premium / luxe abordable,375,959
+1192,max mara,275.0,premium / luxe abordable,375,959
+1193,max mara,399.0,premium / luxe abordable,375,959
+1194,max mara,195.0,premium / luxe abordable,375,959
+1195,max mara,94.85,premium / luxe abordable,375,959
+1196,max mara,399.0,premium / luxe abordable,375,959
+1197,max mara,180.0,premium / luxe abordable,375,959
+1198,max mara,399.0,premium / luxe abordable,375,959
+1199,max mara,399.0,premium / luxe abordable,375,959
+1200,max mara,244.0,premium / luxe abordable,375,959
+1201,max mara,105.0,premium / luxe abordable,375,959
+1202,max mara,125.0,premium / luxe abordable,375,959
+1203,max mara,202.35,premium / luxe abordable,375,959
+1204,max mara,170.0,premium / luxe abordable,375,959
+1205,max mara,150.0,premium / luxe abordable,375,959
+1206,max mara,190.0,premium / luxe abordable,375,959
+1207,max mara,105.0,premium / luxe abordable,375,959
+1208,max mara,350.0,premium / luxe abordable,375,959
+1209,max mara,60.11,premium / luxe abordable,375,959
+1210,max mara,200.37,premium / luxe abordable,375,959
+1211,max mara,80.52,premium / luxe abordable,375,959
+1212,max mara,156.29,premium / luxe abordable,375,959
+1213,max mara,175.51,premium / luxe abordable,375,959
+1214,max mara,324.6,premium / luxe abordable,375,959
+1215,max mara,40.0,premium / luxe abordable,375,959
+1216,max mara,125.0,premium / luxe abordable,375,959
+1217,max mara,125.0,premium / luxe abordable,375,959
+1218,max mara,95.0,premium / luxe abordable,375,959
+1219,max mara,65.0,premium / luxe abordable,375,959
+1220,max mara,299.0,premium / luxe abordable,375,959
+1221,max mara,150.0,premium / luxe abordable,375,959
+1222,max mara,235.13,premium / luxe abordable,375,959
+1223,max mara,117.56,premium / luxe abordable,375,959
+1224,max mara,70.0,premium / luxe abordable,375,959
+1225,max mara,100.0,premium / luxe abordable,375,959
+1226,max mara,347.79,premium / luxe abordable,375,959
+1227,max mara,499.0,premium / luxe abordable,375,959
+1228,max mara,57.12,premium / luxe abordable,375,959
+1229,max mara,400.0,premium / luxe abordable,375,959
+1230,max mara,125.21,premium / luxe abordable,375,959
+1231,max mara,125.21,premium / luxe abordable,375,959
+1232,max mara,125.21,premium / luxe abordable,375,959
+1233,max mara,61.97,premium / luxe abordable,375,959
+1234,max mara,50.0,premium / luxe abordable,375,959
+1235,max mara,90.0,premium / luxe abordable,375,959
+1236,max mara,130.0,premium / luxe abordable,375,959
+1237,max mara,150.0,premium / luxe abordable,375,959
+1238,max mara,325.0,premium / luxe abordable,375,959
+1239,max mara,60.0,premium / luxe abordable,375,959
+1240,max mara,160.0,premium / luxe abordable,375,959
+1241,max mara,149.0,premium / luxe abordable,375,959
+1242,max mara,200.0,premium / luxe abordable,375,959
+1243,max mara,110.0,premium / luxe abordable,375,959
+1244,max mara,155.0,premium / luxe abordable,375,959
+1245,max mara,55.0,premium / luxe abordable,375,959
+1246,max mara,298.0,premium / luxe abordable,375,959
+1247,max mara,688.28,premium / luxe abordable,375,959
+1248,max mara,200.37,premium / luxe abordable,375,959
+1249,max mara,175.33,premium / luxe abordable,375,959
+1250,max mara,130.0,premium / luxe abordable,375,959
+1251,max mara,195.0,premium / luxe abordable,375,959
+1252,max mara,175.0,premium / luxe abordable,375,959
+1253,max mara,115.09,premium / luxe abordable,375,959
+1254,gucci,160.0,luxe & création,1500,2200
+1255,gucci,300.0,luxe & création,1500,2200
+1256,gucci,475.0,luxe & création,1500,2200
+1257,gucci,500.0,luxe & création,1500,2200
+1258,gucci,1200.0,luxe & création,1500,2200
+1259,gucci,278.24,luxe & création,1500,2200
+1260,gucci,252.94,luxe & création,1500,2200
+1261,gucci,650.0,luxe & création,1500,2200
+1262,gucci,250.0,luxe & création,1500,2200
+1263,gucci,822.06,luxe & création,1500,2200
+1264,gucci,950.0,luxe & création,1500,2200
+1265,gucci,420.0,luxe & création,1500,2200
+1266,gucci,320.0,luxe & création,1500,2200
+1267,gucci,150.0,luxe & création,1500,2200
+1268,gucci,249.0,luxe & création,1500,2200
+1269,gucci,269.0,luxe & création,1500,2200
+1270,gucci,2804.0,luxe & création,1500,2200
+1271,gucci,2506.0,luxe & création,1500,2200
+1272,gucci,2500.0,luxe & création,1500,2200
+1273,gucci,250.0,luxe & création,1500,2200
+1274,gucci,1897.06,luxe & création,1500,2200
+1275,gucci,345.0,luxe & création,1500,2200
+1276,gucci,274.0,luxe & création,1500,2200
+1277,gucci,495.0,luxe & création,1500,2200
+1278,gucci,316.18,luxe & création,1500,2200
+1279,gucci,5058.82,luxe & création,1500,2200
+1280,gucci,1897.06,luxe & création,1500,2200
+1281,gucci,1770.59,luxe & création,1500,2200
+1282,gucci,590.0,luxe & création,1500,2200
+1283,gucci,316.18,luxe & création,1500,2200
+1284,gucci,2148.74,luxe & création,1500,2200
+1285,gucci,2276.47,luxe & création,1500,2200
+1286,gucci,745.0,luxe & création,1500,2200
+1287,gucci,333.0,luxe & création,1500,2200
+1288,gucci,1050.0,luxe & création,1500,2200
+1289,gucci,442.65,luxe & création,1500,2200
+1290,gucci,2900.0,luxe & création,1500,2200
+1291,gucci,280.0,luxe & création,1500,2200
+1292,gucci,1250.0,luxe & création,1500,2200
+1293,gucci,1150.0,luxe & création,1500,2200
+1294,gucci,1200.0,luxe & création,1500,2200
+1295,gucci,980.0,luxe & création,1500,2200
+1296,gucci,350.0,luxe & création,1500,2200
+1297,gucci,1075.0,luxe & création,1500,2200
+1298,gucci,550.0,luxe & création,1500,2200
+1299,gucci,290.0,luxe & création,1500,2200
+1300,gucci,890.0,luxe & création,1500,2200
+1301,gucci,3500.0,luxe & création,1500,2200
+1302,gucci,1490.0,luxe & création,1500,2200
+1303,gucci,700.0,luxe & création,1500,2200
+1304,gucci,350.0,luxe & création,1500,2200
+1305,gucci,2950.0,luxe & création,1500,2200
+1306,gucci,1500.0,luxe & création,1500,2200
+1307,gucci,174.0,luxe & création,1500,2200
+1308,gucci,208.68,luxe & création,1500,2200
+1309,gucci,390.0,luxe & création,1500,2200
+1310,gucci,284.56,luxe & création,1500,2200
+1311,gucci,1000.0,luxe & création,1500,2200
+1312,gucci,1897.06,luxe & création,1500,2200
+1313,gucci,900.0,luxe & création,1500,2200
+1314,gucci,358.57,luxe & création,1500,2200
+1315,gucci,280.78,luxe & création,1500,2200
+1316,gucci,1801.35,luxe & création,1500,2200
+1317,gucci,813.51,luxe & création,1500,2200
+1318,gucci,475.89,luxe & création,1500,2200
+1319,gucci,701.3,luxe & création,1500,2200
+1320,gucci,450.84,luxe & création,1500,2200
+1321,gucci,883.63,luxe & création,1500,2200
+1322,gucci,425.79,luxe & création,1500,2200
+1323,gucci,700.3,luxe & création,1500,2200
+1324,gucci,751.4,luxe & création,1500,2200
+1325,gucci,400.75,luxe & création,1500,2200
+1326,gucci,250.47,luxe & création,1500,2200
+1327,gucci,529.41,luxe & création,1500,2200
+1328,gucci,1800.0,luxe & création,1500,2200
+1329,gucci,1201.47,luxe & création,1500,2200
+1330,gucci,160.0,luxe & création,1500,2200
+1331,gucci,599.0,luxe & création,1500,2200
+1332,gucci,295.0,luxe & création,1500,2200
+1333,gucci,890.0,luxe & création,1500,2200
+1334,gucci,499.0,luxe & création,1500,2200
+1335,gucci,980.0,luxe & création,1500,2200
+1336,gucci,500.0,luxe & création,1500,2200
+1337,gucci,1011.76,luxe & création,1500,2200
+1338,gucci,1380.0,luxe & création,1500,2200
+1339,gucci,650.0,luxe & création,1500,2200
+1340,gucci,329.0,luxe & création,1500,2200
+1341,gucci,329.0,luxe & création,1500,2200
+1342,gucci,690.0,luxe & création,1500,2200
+1343,gucci,329.0,luxe & création,1500,2200
+1344,gucci,251.0,luxe & création,1500,2200
+1345,gucci,299.0,luxe & création,1500,2200
+1346,gucci,329.0,luxe & création,1500,2200
+1347,gucci,279.0,luxe & création,1500,2200
+1348,gucci,329.0,luxe & création,1500,2200
+1349,gucci,329.0,luxe & création,1500,2200
+1350,gucci,329.0,luxe & création,1500,2200
+1351,gucci,249.0,luxe & création,1500,2200
+1352,gucci,399.0,luxe & création,1500,2200
+1353,gucci,299.0,luxe & création,1500,2200
+1354,gucci,229.0,luxe & création,1500,2200
+1355,gucci,335.0,luxe & création,1500,2200
+1356,gucci,479.0,luxe & création,1500,2200
+1357,gucci,329.0,luxe & création,1500,2200
+1358,gucci,399.0,luxe & création,1500,2200
+1359,gucci,449.0,luxe & création,1500,2200
+1360,gucci,239.0,luxe & création,1500,2200
+1361,gucci,329.0,luxe & création,1500,2200
+1362,gucci,1999.0,luxe & création,1500,2200
+1363,gucci,369.0,luxe & création,1500,2200
+1364,gucci,299.0,luxe & création,1500,2200
+1365,gucci,157.54,luxe & création,1500,2200
+1366,gucci,225.0,luxe & création,1500,2200
+1367,gucci,320.0,luxe & création,1500,2200
+1368,gucci,349.0,luxe & création,1500,2200
+1369,gucci,329.0,luxe & création,1500,2200
+1370,gucci,299.0,luxe & création,1500,2200
+1371,gucci,429.0,luxe & création,1500,2200
+1372,gucci,1199.0,luxe & création,1500,2200
+1373,gucci,549.0,luxe & création,1500,2200
+1374,gucci,429.0,luxe & création,1500,2200
+1375,gucci,999.0,luxe & création,1500,2200
+1376,gucci,499.0,luxe & création,1500,2200
+1377,gucci,499.0,luxe & création,1500,2200
+1378,gucci,600.0,luxe & création,1500,2200
+1379,gucci,1135.71,luxe & création,1500,2200
+1380,gucci,680.0,luxe & création,1500,2200
+1381,gucci,365.0,luxe & création,1500,2200
+1382,gucci,2000.0,luxe & création,1500,2200
+1383,gucci,520.0,luxe & création,1500,2200
+1384,gucci,486.0,luxe & création,1500,2200
+1385,gucci,822.06,luxe & création,1500,2200
+1386,gucci,1707.35,luxe & création,1500,2200
+1387,gucci,1100.0,luxe & création,1500,2200
+1388,gucci,3504.0,luxe & création,1500,2200
+1389,gucci,1000.0,luxe & création,1500,2200
+1390,gucci,2010.88,luxe & création,1500,2200
+1391,gucci,290.0,luxe & création,1500,2200
+1392,gucci,245.0,luxe & création,1500,2200
+1393,gucci,300.0,luxe & création,1500,2200
+1394,gucci,309.0,luxe & création,1500,2200
+1395,gucci,140.0,luxe & création,1500,2200
+1396,gucci,950.0,luxe & création,1500,2200
+1397,gucci,1500.0,luxe & création,1500,2200
+1398,gucci,200.0,luxe & création,1500,2200
+1399,gucci,2000.0,luxe & création,1500,2200
+1400,gucci,1014.89,luxe & création,1500,2200
+1401,gucci,155.81,luxe & création,1500,2200
+1402,gucci,1202.24,luxe & création,1500,2200
+1403,gucci,485.9,luxe & création,1500,2200
+1404,gucci,990.84,luxe & création,1500,2200
+1405,gucci,3081.73,luxe & création,1500,2200
+1406,gucci,2701.03,luxe & création,1500,2200
+1407,gucci,2499.65,luxe & création,1500,2200
+1408,gucci,260.48,luxe & création,1500,2200
+1409,gucci,2913.48,luxe & création,1500,2200
+1410,gucci,1252.33,luxe & création,1500,2200
+1411,gucci,1212.45,luxe & création,1500,2200
+1412,gucci,474.26,luxe & création,1500,2200
+1413,gucci,853.68,luxe & création,1500,2200
+1414,gucci,390.0,luxe & création,1500,2200
+1415,gucci,776.44,luxe & création,1500,2200
+1416,pepe jeans,63.12,premium / luxe abordable,/,/
+1417,pepe jeans,75.0,premium / luxe abordable,/,/
+1418,pepe jeans,90.0,premium / luxe abordable,/,/
+1419,pepe jeans,105.0,premium / luxe abordable,/,/
+1420,pepe jeans,95.0,premium / luxe abordable,/,/
+1421,pepe jeans,65.0,premium / luxe abordable,/,/
+1422,pepe jeans,150.0,premium / luxe abordable,/,/
+1423,pepe jeans,39.0,premium / luxe abordable,/,/
+1424,pepe jeans,70.0,premium / luxe abordable,/,/
+1425,pepe jeans,50.0,premium / luxe abordable,/,/
+1426,pepe jeans,42.0,premium / luxe abordable,/,/
+1427,pepe jeans,46.0,premium / luxe abordable,/,/
+1428,pepe jeans,38.07,premium / luxe abordable,/,/
+1429,pepe jeans,80.0,premium / luxe abordable,/,/
+1430,pepe jeans,24.0,premium / luxe abordable,/,/
+1431,pepe jeans,75.0,premium / luxe abordable,/,/
+1432,pepe jeans,60.0,premium / luxe abordable,/,/
+1433,pepe jeans,85.0,premium / luxe abordable,/,/
+1434,pepe jeans,35.0,premium / luxe abordable,/,/
+1435,pepe jeans,36.0,premium / luxe abordable,/,/
+1436,pepe jeans,70.0,premium / luxe abordable,/,/
+1437,pepe jeans,35.0,premium / luxe abordable,/,/
+1438,pepe jeans,80.0,premium / luxe abordable,/,/
+1439,pepe jeans,78.0,premium / luxe abordable,/,/
+1440,pepe jeans,58.0,premium / luxe abordable,/,/
+1441,pepe jeans,45.0,premium / luxe abordable,/,/
+1442,pepe jeans,120.0,premium / luxe abordable,/,/
+1443,pepe jeans,200.0,premium / luxe abordable,/,/
+1444,pepe jeans,65.0,premium / luxe abordable,/,/
+1445,pepe jeans,28.0,premium / luxe abordable,/,/
+1446,pepe jeans,45.0,premium / luxe abordable,/,/
+1447,pepe jeans,280.0,premium / luxe abordable,/,/
+1448,pepe jeans,45.0,premium / luxe abordable,/,/
+1449,pepe jeans,23.0,premium / luxe abordable,/,/
+1450,pepe jeans,45.0,premium / luxe abordable,/,/
+1451,pepe jeans,50.0,premium / luxe abordable,/,/
+1452,pepe jeans,200.0,premium / luxe abordable,/,/
+1453,pepe jeans,125.0,premium / luxe abordable,/,/
+1454,pepe jeans,100.0,premium / luxe abordable,/,/
+1455,pepe jeans,55.0,premium / luxe abordable,/,/
+1456,pepe jeans,82.21,premium / luxe abordable,/,/
+1457,pepe jeans,75.0,premium / luxe abordable,/,/
+1458,pepe jeans,69.0,premium / luxe abordable,/,/
+1459,pepe jeans,55.0,premium / luxe abordable,/,/
+1460,pepe jeans,65.0,premium / luxe abordable,/,/
+1461,pepe jeans,33.0,premium / luxe abordable,/,/
+1462,pepe jeans,40.0,premium / luxe abordable,/,/
+1463,pepe jeans,20.0,premium / luxe abordable,/,/
+1464,pepe jeans,40.0,premium / luxe abordable,/,/
+1465,pepe jeans,80.0,premium / luxe abordable,/,/
+1466,pepe jeans,35.0,premium / luxe abordable,/,/
+1467,pepe jeans,95.0,premium / luxe abordable,/,/
+1468,pepe jeans,51.73,premium / luxe abordable,/,/
+1469,pepe jeans,35.07,premium / luxe abordable,/,/
+1470,pepe jeans,45.0,premium / luxe abordable,/,/
+1471,pepe jeans,62.0,premium / luxe abordable,/,/
+1472,pepe jeans,100.0,premium / luxe abordable,/,/
+1473,pepe jeans,25.0,premium / luxe abordable,/,/
+1474,pepe jeans,32.0,premium / luxe abordable,/,/
+1475,pepe jeans,70.0,premium / luxe abordable,/,/
+1476,pepe jeans,45.0,premium / luxe abordable,/,/
+1477,pepe jeans,30.0,premium / luxe abordable,/,/
+1478,pepe jeans,70.0,premium / luxe abordable,/,/
+1479,pepe jeans,150.0,premium / luxe abordable,/,/
+1480,pepe jeans,35.0,premium / luxe abordable,/,/
+1481,pepe jeans,69.0,premium / luxe abordable,/,/
+1482,pepe jeans,78.0,premium / luxe abordable,/,/
+1483,pepe jeans,25.0,premium / luxe abordable,/,/
+1484,pepe jeans,70.0,premium / luxe abordable,/,/
+1485,pepe jeans,39.0,premium / luxe abordable,/,/
+1486,pepe jeans,38.0,premium / luxe abordable,/,/
+1487,pepe jeans,60.0,premium / luxe abordable,/,/
+1488,pepe jeans,35.0,premium / luxe abordable,/,/
+1489,pepe jeans,45.0,premium / luxe abordable,/,/
+1490,pepe jeans,75.0,premium / luxe abordable,/,/
+1491,pepe jeans,39.0,premium / luxe abordable,/,/
+1492,pepe jeans,68.0,premium / luxe abordable,/,/
+1493,pepe jeans,50.0,premium / luxe abordable,/,/
+1494,pepe jeans,27.0,premium / luxe abordable,/,/
+1495,pepe jeans,101.18,premium / luxe abordable,/,/
+1496,pepe jeans,55.0,premium / luxe abordable,/,/
+1497,pepe jeans,295.0,premium / luxe abordable,/,/
+1498,pepe jeans,33.0,premium / luxe abordable,/,/
+1499,pepe jeans,45.0,premium / luxe abordable,/,/
+1500,pepe jeans,59.0,premium / luxe abordable,/,/
+1501,pepe jeans,36.0,premium / luxe abordable,/,/
+1502,pepe jeans,45.0,premium / luxe abordable,/,/
+1503,pepe jeans,189.0,premium / luxe abordable,/,/
+1504,pepe jeans,20.0,premium / luxe abordable,/,/
+1505,pepe jeans,29.0,premium / luxe abordable,/,/
+1506,pepe jeans,30.0,premium / luxe abordable,/,/
+1507,pepe jeans,69.0,premium / luxe abordable,/,/
+1508,pepe jeans,25.7,premium / luxe abordable,/,/
+1509,pepe jeans,50.0,premium / luxe abordable,/,/
+1510,pepe jeans,89.0,premium / luxe abordable,/,/
+1511,pepe jeans,16.0,premium / luxe abordable,/,/
+1512,pepe jeans,95.0,premium / luxe abordable,/,/
+1513,pepe jeans,60.0,premium / luxe abordable,/,/
+1514,pepe jeans,220.0,premium / luxe abordable,/,/
+1515,pepe jeans,43.0,premium / luxe abordable,/,/
+1516,pepe jeans,65.0,premium / luxe abordable,/,/
+1517,pepe jeans,65.0,premium / luxe abordable,/,/
+1518,pepe jeans,44.26,premium / luxe abordable,/,/
+1519,pepe jeans,65.0,premium / luxe abordable,/,/
+1520,pepe jeans,85.0,premium / luxe abordable,/,/
+1521,pepe jeans,50.0,premium / luxe abordable,/,/
+1522,pepe jeans,45.0,premium / luxe abordable,/,/
+1523,pepe jeans,120.0,premium / luxe abordable,/,/
+1524,pepe jeans,45.0,premium / luxe abordable,/,/
+1525,pepe jeans,37.0,premium / luxe abordable,/,/
+1526,pepe jeans,50.0,premium / luxe abordable,/,/
+1527,pepe jeans,120.0,premium / luxe abordable,/,/
+1528,pepe jeans,45.0,premium / luxe abordable,/,/
+1529,pepe jeans,34.0,premium / luxe abordable,/,/
+1530,pepe jeans,50.0,premium / luxe abordable,/,/
+1531,pepe jeans,42.0,premium / luxe abordable,/,/
+1532,pepe jeans,75.0,premium / luxe abordable,/,/
+1533,pepe jeans,45.0,premium / luxe abordable,/,/
+1534,pepe jeans,150.0,premium / luxe abordable,/,/
+1535,pepe jeans,98.0,premium / luxe abordable,/,/
+1536,pepe jeans,65.0,premium / luxe abordable,/,/
+1537,pepe jeans,60.0,premium / luxe abordable,/,/
+1538,pepe jeans,60.0,premium / luxe abordable,/,/
+1539,pepe jeans,40.0,premium / luxe abordable,/,/
+1540,pepe jeans,32.0,premium / luxe abordable,/,/
+1541,pepe jeans,60.0,premium / luxe abordable,/,/
+1542,pepe jeans,37.0,premium / luxe abordable,/,/
+1543,pepe jeans,65.0,premium / luxe abordable,/,/
+1544,pepe jeans,90.0,premium / luxe abordable,/,/
+1545,pepe jeans,39.0,premium / luxe abordable,/,/
+1546,pepe jeans,60.0,premium / luxe abordable,/,/
+1547,pepe jeans,63.24,premium / luxe abordable,/,/
+1548,pepe jeans,100.0,premium / luxe abordable,/,/
+1549,pepe jeans,100.0,premium / luxe abordable,/,/
+1550,pepe jeans,70.0,premium / luxe abordable,/,/
+1551,pepe jeans,40.0,premium / luxe abordable,/,/
+1552,pepe jeans,95.0,premium / luxe abordable,/,/
+1553,pepe jeans,90.0,premium / luxe abordable,/,/
+1554,pepe jeans,60.0,premium / luxe abordable,/,/
+1555,pepe jeans,88.53,premium / luxe abordable,/,/
+1556,pepe jeans,97.38,premium / luxe abordable,/,/
+1557,pepe jeans,50.0,premium / luxe abordable,/,/
+1558,pepe jeans,90.0,premium / luxe abordable,/,/
+1559,pepe jeans,60.0,premium / luxe abordable,/,/
+1560,pepe jeans,59.0,premium / luxe abordable,/,/
+1561,pepe jeans,75.0,premium / luxe abordable,/,/
+1562,pepe jeans,115.0,premium / luxe abordable,/,/
+1563,pepe jeans,69.0,premium / luxe abordable,/,/
+1564,pepe jeans,125.0,premium / luxe abordable,/,/
+1565,pepe jeans,70.0,premium / luxe abordable,/,/
+1566,pepe jeans,50.0,premium / luxe abordable,/,/
+1567,pepe jeans,76.0,premium / luxe abordable,/,/
+1568,pepe jeans,53.12,premium / luxe abordable,/,/
+1569,pepe jeans,49.0,premium / luxe abordable,/,/
+1570,pepe jeans,75.0,premium / luxe abordable,/,/
+1571,pepe jeans,69.0,premium / luxe abordable,/,/
+1572,pepe jeans,90.0,premium / luxe abordable,/,/
+1573,pepe jeans,100.0,premium / luxe abordable,/,/
+1574,pepe jeans,110.0,premium / luxe abordable,/,/
+1575,pepe jeans,62.0,premium / luxe abordable,/,/
+1576,pepe jeans,100.0,premium / luxe abordable,/,/
+1577,pepe jeans,75.0,premium / luxe abordable,/,/
+1578,pepe jeans,49.0,premium / luxe abordable,/,/
+1579,pepe jeans,45.0,premium / luxe abordable,/,/
+1580,pepe jeans,34.51,premium / luxe abordable,/,/
+1581,pepe jeans,60.0,premium / luxe abordable,/,/
+1582,burberry,230.0,luxe & création,1250,1550
+1583,burberry,100.0,luxe & création,1250,1550
+1584,burberry,177.0,luxe & création,1250,1550
+1585,burberry,141.08,luxe & création,1250,1550
+1586,burberry,268.0,luxe & création,1250,1550
+1587,burberry,107.5,luxe & création,1250,1550
+1588,burberry,85.0,luxe & création,1250,1550
+1589,burberry,250.0,luxe & création,1250,1550
+1590,burberry,90.0,luxe & création,1250,1550
+1591,burberry,80.0,luxe & création,1250,1550
+1592,burberry,126.47,luxe & création,1250,1550
+1593,burberry,139.0,luxe & création,1250,1550
+1594,burberry,70.0,luxe & création,1250,1550
+1595,burberry,61.0,luxe & création,1250,1550
+1596,burberry,65.0,luxe & création,1250,1550
+1597,burberry,180.0,luxe & création,1250,1550
+1598,burberry,190.0,luxe & création,1250,1550
+1599,burberry,164.41,luxe & création,1250,1550
+1600,burberry,190.0,luxe & création,1250,1550
+1601,burberry,278.24,luxe & création,1250,1550
+1602,burberry,69.0,luxe & création,1250,1550
+1603,burberry,220.0,luxe & création,1250,1550
+1604,burberry,580.0,luxe & création,1250,1550
+1605,burberry,120.0,luxe & création,1250,1550
+1606,burberry,354.12,luxe & création,1250,1550
+1607,burberry,150.0,luxe & création,1250,1550
+1608,burberry,250.0,luxe & création,1250,1550
+1609,burberry,455.29,luxe & création,1250,1550
+1610,burberry,379.41,luxe & création,1250,1550
+1611,burberry,150.0,luxe & création,1250,1550
+1612,burberry,165.0,luxe & création,1250,1550
+1613,burberry,129.0,luxe & création,1250,1550
+1614,burberry,152.0,luxe & création,1250,1550
+1615,burberry,110.0,luxe & création,1250,1550
+1616,burberry,300.0,luxe & création,1250,1550
+1617,burberry,450.0,luxe & création,1250,1550
+1618,burberry,120.0,luxe & création,1250,1550
+1619,burberry,350.0,luxe & création,1250,1550
+1620,burberry,341.47,luxe & création,1250,1550
+1621,burberry,115.0,luxe & création,1250,1550
+1622,burberry,145.0,luxe & création,1250,1550
+1623,burberry,417.35,luxe & création,1250,1550
+1624,burberry,255.0,luxe & création,1250,1550
+1625,burberry,100.0,luxe & création,1250,1550
+1626,burberry,95.0,luxe & création,1250,1550
+1627,burberry,265.0,luxe & création,1250,1550
+1628,burberry,466.68,luxe & création,1250,1550
+1629,burberry,316.18,luxe & création,1250,1550
+1630,burberry,739.85,luxe & création,1250,1550
+1631,burberry,185.91,luxe & création,1250,1550
+1632,burberry,145.0,luxe & création,1250,1550
+1633,burberry,200.0,luxe & création,1250,1550
+1634,burberry,354.12,luxe & création,1250,1550
+1635,burberry,550.0,luxe & création,1250,1550
+1636,burberry,120.0,luxe & création,1250,1550
+1637,burberry,295.0,luxe & création,1250,1550
+1638,burberry,120.0,luxe & création,1250,1550
+1639,burberry,276.97,luxe & création,1250,1550
+1640,burberry,106.0,luxe & création,1250,1550
+1641,burberry,195.0,luxe & création,1250,1550
+1642,burberry,200.0,luxe & création,1250,1550
+1643,burberry,90.0,luxe & création,1250,1550
+1644,burberry,1398.43,luxe & création,1250,1550
+1645,burberry,289.71,luxe & création,1250,1550
+1646,burberry,195.36,luxe & création,1250,1550
+1647,burberry,300.56,luxe & création,1250,1550
+1648,burberry,250.0,luxe & création,1250,1550
+1649,burberry,63.12,luxe & création,1250,1550
+1650,burberry,85.0,luxe & création,1250,1550
+1651,burberry,200.0,luxe & création,1250,1550
+1652,burberry,68.0,luxe & création,1250,1550
+1653,burberry,130.0,luxe & création,1250,1550
+1654,burberry,180.0,luxe & création,1250,1550
+1655,burberry,180.0,luxe & création,1250,1550
+1656,burberry,399.0,luxe & création,1250,1550
+1657,burberry,250.0,luxe & création,1250,1550
+1658,burberry,200.0,luxe & création,1250,1550
+1659,burberry,1897.06,luxe & création,1250,1550
+1660,burberry,275.0,luxe & création,1250,1550
+1661,burberry,220.0,luxe & création,1250,1550
+1662,burberry,259.0,luxe & création,1250,1550
+1663,burberry,550.0,luxe & création,1250,1550
+1664,burberry,210.0,luxe & création,1250,1550
+1665,burberry,119.0,luxe & création,1250,1550
+1666,burberry,316.18,luxe & création,1250,1550
+1667,burberry,269.0,luxe & création,1250,1550
+1668,burberry,90.0,luxe & création,1250,1550
+1669,burberry,99.0,luxe & création,1250,1550
+1670,burberry,299.0,luxe & création,1250,1550
+1671,burberry,225.0,luxe & création,1250,1550
+1672,burberry,185.0,luxe & création,1250,1550
+1673,burberry,299.0,luxe & création,1250,1550
+1674,burberry,149.0,luxe & création,1250,1550
+1675,burberry,198.0,luxe & création,1250,1550
+1676,burberry,299.0,luxe & création,1250,1550
+1677,burberry,299.0,luxe & création,1250,1550
+1678,burberry,850.0,luxe & création,1250,1550
+1679,burberry,182.12,luxe & création,1250,1550
+1680,burberry,250.0,luxe & création,1250,1550
+1681,burberry,149.0,luxe & création,1250,1550
+1682,burberry,169.0,luxe & création,1250,1550
+1683,burberry,1299.0,luxe & création,1250,1550
+1684,burberry,229.0,luxe & création,1250,1550
+1685,burberry,279.0,luxe & création,1250,1550
+1686,burberry,449.0,luxe & création,1250,1550
+1687,burberry,550.0,luxe & création,1250,1550
+1688,burberry,251.68,luxe & création,1250,1550
+1689,burberry,88.23,luxe & création,1250,1550
+1690,burberry,115.0,luxe & création,1250,1550
+1691,burberry,125.0,luxe & création,1250,1550
+1692,burberry,128.0,luxe & création,1250,1550
+1693,burberry,50.0,luxe & création,1250,1550
+1694,burberry,190.0,luxe & création,1250,1550
+1695,burberry,107.0,luxe & création,1250,1550
+1696,burberry,129.0,luxe & création,1250,1550
+1697,burberry,105.2,luxe & création,1250,1550
+1698,burberry,95.0,luxe & création,1250,1550
+1699,burberry,150.0,luxe & création,1250,1550
+1700,burberry,129.0,luxe & création,1250,1550
+1701,burberry,158.52,luxe & création,1250,1550
+1702,burberry,74.62,luxe & création,1250,1550
+1703,burberry,150.0,luxe & création,1250,1550
+1704,burberry,199.0,luxe & création,1250,1550
+1705,burberry,299.0,luxe & création,1250,1550
+1706,burberry,50.0,luxe & création,1250,1550
+1707,burberry,105.2,luxe & création,1250,1550
+1708,burberry,190.0,luxe & création,1250,1550
+1709,burberry,87.0,luxe & création,1250,1550
+1710,burberry,123.0,luxe & création,1250,1550
+1711,burberry,185.0,luxe & création,1250,1550
+1712,burberry,985.0,luxe & création,1250,1550
+1713,burberry,265.59,luxe & création,1250,1550
+1714,burberry,100.0,luxe & création,1250,1550
+1715,burberry,138.0,luxe & création,1250,1550
+1716,burberry,1800.0,luxe & création,1250,1550
+1717,burberry,375.0,luxe & création,1250,1550
+1718,burberry,284.56,luxe & création,1250,1550
+1719,burberry,86.0,luxe & création,1250,1550
+1720,burberry,227.65,luxe & création,1250,1550
+1721,burberry,950.0,luxe & création,1250,1550
+1722,burberry,155.29,luxe & création,1250,1550
+1723,burberry,653.0,luxe & création,1250,1550
+1724,burberry,499.93,luxe & création,1250,1550
+1725,burberry,504.62,luxe & création,1250,1550
+1726,burberry,313.23,luxe & création,1250,1550
+1727,burberry,378.15,luxe & création,1250,1550
+1728,burberry,722.34,luxe & création,1250,1550
+1729,burberry,722.34,luxe & création,1250,1550
+1730,burberry,1181.32,luxe & création,1250,1550
+1731,burberry,228.43,luxe & création,1250,1550
+1732,burberry,722.34,luxe & création,1250,1550
+1733,burberry,313.58,luxe & création,1250,1550
+1734,burberry,350.65,luxe & création,1250,1550
+1735,burberry,300.56,luxe & création,1250,1550
+1736,burberry,399.74,luxe & création,1250,1550
+1737,burberry,275.51,luxe & création,1250,1550
+1738,burberry,250.47,luxe & création,1250,1550
+1739,burberry,726.35,luxe & création,1250,1550
+1740,burberry,250.47,luxe & création,1250,1550
+1741,burberry,250.47,luxe & création,1250,1550
+1742,burberry,313.58,luxe & création,1250,1550
+1743,burberry,111.21,luxe & création,1250,1550
+1744,burberry,2359.39,luxe & création,1250,1550
+1745,burberry,126.47,luxe & création,1250,1550
+1746,burberry,160.0,luxe & création,1250,1550
+1747,burberry,500.0,luxe & création,1250,1550
+1748,burberry,129.0,luxe & création,1250,1550
+1749,burberry,95.0,luxe & création,1250,1550
+1750,stradivarius,20.0,milieu de gamme,25,99.99
+1751,stradivarius,59.0,milieu de gamme,25,99.99
+1752,stradivarius,67.0,milieu de gamme,25,99.99
+1753,stradivarius,40.0,milieu de gamme,25,99.99
+1754,stradivarius,28.0,milieu de gamme,25,99.99
+1755,stradivarius,21.0,milieu de gamme,25,99.99
+1756,stradivarius,20.0,milieu de gamme,25,99.99
+1757,stradivarius,35.0,milieu de gamme,25,99.99
+1758,stradivarius,37.94,milieu de gamme,25,99.99
+1759,stradivarius,30.0,milieu de gamme,25,99.99
+1760,stradivarius,29.0,milieu de gamme,25,99.99
+1761,stradivarius,24.0,milieu de gamme,25,99.99
+1762,stradivarius,38.0,milieu de gamme,25,99.99
+1763,stradivarius,25.0,milieu de gamme,25,99.99
+1764,stradivarius,50.59,milieu de gamme,25,99.99
+1765,stradivarius,30.0,milieu de gamme,25,99.99
+1766,stradivarius,65.0,milieu de gamme,25,99.99
+1767,stradivarius,20.0,milieu de gamme,25,99.99
+1768,stradivarius,45.0,milieu de gamme,25,99.99
+1769,stradivarius,26.0,milieu de gamme,25,99.99
+1770,stradivarius,35.0,milieu de gamme,25,99.99
+1771,stradivarius,18.0,milieu de gamme,25,99.99
+1772,stradivarius,60.0,milieu de gamme,25,99.99
+1773,stradivarius,30.0,milieu de gamme,25,99.99
+1774,stradivarius,60.0,milieu de gamme,25,99.99
+1775,stradivarius,22.0,milieu de gamme,25,99.99
+1776,stradivarius,69.0,milieu de gamme,25,99.99
+1777,stradivarius,25.0,milieu de gamme,25,99.99
+1778,stradivarius,37.94,milieu de gamme,25,99.99
+1779,stradivarius,25.0,milieu de gamme,25,99.99
+1780,stradivarius,29.0,milieu de gamme,25,99.99
+1781,stradivarius,40.0,milieu de gamme,25,99.99
+1782,stradivarius,44.0,milieu de gamme,25,99.99
+1783,stradivarius,30.0,milieu de gamme,25,99.99
+1784,stradivarius,40.07,milieu de gamme,25,99.99
+1785,stradivarius,39.0,milieu de gamme,25,99.99
+1786,stradivarius,35.0,milieu de gamme,25,99.99
+1787,stradivarius,29.0,milieu de gamme,25,99.99
+1788,stradivarius,37.0,milieu de gamme,25,99.99
+1789,stradivarius,30.0,milieu de gamme,25,99.99
+1790,stradivarius,29.0,milieu de gamme,25,99.99
+1791,stradivarius,109.84,milieu de gamme,25,99.99
+1792,stradivarius,26.0,milieu de gamme,25,99.99
+1793,stradivarius,23.0,milieu de gamme,25,99.99
+1794,stradivarius,20.0,milieu de gamme,25,99.99
+1795,stradivarius,17.0,milieu de gamme,25,99.99
+1796,stradivarius,16.0,milieu de gamme,25,99.99
+1797,stradivarius,27.0,milieu de gamme,25,99.99
+1798,stradivarius,30.0,milieu de gamme,25,99.99
+1799,stradivarius,20.0,milieu de gamme,25,99.99
+1800,stradivarius,17.0,milieu de gamme,25,99.99
+1801,stradivarius,22.0,milieu de gamme,25,99.99
+1802,stradivarius,18.0,milieu de gamme,25,99.99
+1803,stradivarius,29.0,milieu de gamme,25,99.99
+1804,stradivarius,18.0,milieu de gamme,25,99.99
+1805,stradivarius,29.0,milieu de gamme,25,99.99
+1806,stradivarius,25.0,milieu de gamme,25,99.99
+1807,stradivarius,37.94,milieu de gamme,25,99.99
+1808,stradivarius,45.0,milieu de gamme,25,99.99
+1809,stradivarius,21.0,milieu de gamme,25,99.99
+1810,stradivarius,63.24,milieu de gamme,25,99.99
+1811,stradivarius,27.0,milieu de gamme,25,99.99
+1812,stradivarius,43.0,milieu de gamme,25,99.99
+1813,stradivarius,25.0,milieu de gamme,25,99.99
+1814,stradivarius,29.0,milieu de gamme,25,99.99
+1815,stradivarius,40.0,milieu de gamme,25,99.99
+1816,stradivarius,25.0,milieu de gamme,25,99.99
+1817,stradivarius,20.0,milieu de gamme,25,99.99
+1818,stradivarius,21.0,milieu de gamme,25,99.99
+1819,stradivarius,24.0,milieu de gamme,25,99.99
+1820,stradivarius,20.0,milieu de gamme,25,99.99
+1821,stradivarius,35.0,milieu de gamme,25,99.99
+1822,stradivarius,25.0,milieu de gamme,25,99.99
+1823,stradivarius,20.0,milieu de gamme,25,99.99
+1824,stradivarius,20.0,milieu de gamme,25,99.99
+1825,stradivarius,20.0,milieu de gamme,25,99.99
+1826,stradivarius,17.0,milieu de gamme,25,99.99
+1827,stradivarius,20.24,milieu de gamme,25,99.99
+1828,stradivarius,19.0,milieu de gamme,25,99.99
+1829,stradivarius,27.0,milieu de gamme,25,99.99
+1830,stradivarius,22.0,milieu de gamme,25,99.99
+1831,stradivarius,85.0,milieu de gamme,25,99.99
+1832,stradivarius,21.0,milieu de gamme,25,99.99
+1833,stradivarius,32.0,milieu de gamme,25,99.99
+1834,stradivarius,52.0,milieu de gamme,25,99.99
+1835,stradivarius,21.0,milieu de gamme,25,99.99
+1836,stradivarius,30.0,milieu de gamme,25,99.99
+1837,stradivarius,20.0,milieu de gamme,25,99.99
+1838,stradivarius,37.0,milieu de gamme,25,99.99
+1839,stradivarius,58.0,milieu de gamme,25,99.99
+1840,stradivarius,39.0,milieu de gamme,25,99.99
+1841,stradivarius,45.0,milieu de gamme,25,99.99
+1842,stradivarius,30.0,milieu de gamme,25,99.99
+1843,stradivarius,20.0,milieu de gamme,25,99.99
+1844,stradivarius,30.0,milieu de gamme,25,99.99
+1845,stradivarius,42.0,milieu de gamme,25,99.99
+1846,stradivarius,28.0,milieu de gamme,25,99.99
+1847,stradivarius,20.0,milieu de gamme,25,99.99
+1848,stradivarius,90.0,milieu de gamme,25,99.99
+1849,stradivarius,27.0,milieu de gamme,25,99.99
+1850,stradivarius,25.0,milieu de gamme,25,99.99
+1851,stradivarius,22.0,milieu de gamme,25,99.99
+1852,stradivarius,30.0,milieu de gamme,25,99.99
+1853,stradivarius,25.0,milieu de gamme,25,99.99
+1854,stradivarius,22.0,milieu de gamme,25,99.99
+1855,stradivarius,38.0,milieu de gamme,25,99.99
+1856,stradivarius,40.0,milieu de gamme,25,99.99
+1857,stradivarius,40.0,milieu de gamme,25,99.99
+1858,stradivarius,30.0,milieu de gamme,25,99.99
+1859,stradivarius,22.0,milieu de gamme,25,99.99
+1860,stradivarius,30.0,milieu de gamme,25,99.99
+1861,stradivarius,35.0,milieu de gamme,25,99.99
+1862,stradivarius,28.0,milieu de gamme,25,99.99
+1863,stradivarius,20.0,milieu de gamme,25,99.99
+1864,stradivarius,22.0,milieu de gamme,25,99.99
+1865,stradivarius,28.0,milieu de gamme,25,99.99
+1866,stradivarius,25.0,milieu de gamme,25,99.99
+1867,stradivarius,32.0,milieu de gamme,25,99.99
+1868,stradivarius,40.0,milieu de gamme,25,99.99
+1869,stradivarius,16.0,milieu de gamme,25,99.99
+1870,stradivarius,29.0,milieu de gamme,25,99.99
+1871,stradivarius,32.0,milieu de gamme,25,99.99
+1872,stradivarius,29.0,milieu de gamme,25,99.99
+1873,stradivarius,20.0,milieu de gamme,25,99.99
+1874,stradivarius,20.0,milieu de gamme,25,99.99
+1875,stradivarius,19.0,milieu de gamme,25,99.99
+1876,stradivarius,30.0,milieu de gamme,25,99.99
+1877,stradivarius,32.0,milieu de gamme,25,99.99
+1878,stradivarius,24.0,milieu de gamme,25,99.99
+1879,stradivarius,30.0,milieu de gamme,25,99.99
+1880,stradivarius,20.0,milieu de gamme,25,99.99
+1881,stradivarius,22.0,milieu de gamme,25,99.99
+1882,stradivarius,40.0,milieu de gamme,25,99.99
+1883,stradivarius,69.0,milieu de gamme,25,99.99
+1884,stradivarius,58.0,milieu de gamme,25,99.99
+1885,stradivarius,35.0,milieu de gamme,25,99.99
+1886,stradivarius,35.0,milieu de gamme,25,99.99
+1887,stradivarius,28.0,milieu de gamme,25,99.99
+1888,stradivarius,22.0,milieu de gamme,25,99.99
+1889,stradivarius,35.0,milieu de gamme,25,99.99
+1890,stradivarius,47.0,milieu de gamme,25,99.99
+1891,stradivarius,25.0,milieu de gamme,25,99.99
+1892,stradivarius,20.0,milieu de gamme,25,99.99
+1893,stradivarius,42.0,milieu de gamme,25,99.99
+1894,stradivarius,22.0,milieu de gamme,25,99.99
+1895,stradivarius,32.0,milieu de gamme,25,99.99
+1896,stradivarius,37.94,milieu de gamme,25,99.99
+1897,stradivarius,29.0,milieu de gamme,25,99.99
+1898,stradivarius,38.0,milieu de gamme,25,99.99
+1899,stradivarius,23.0,milieu de gamme,25,99.99
+1900,stradivarius,30.6,milieu de gamme,25,99.99
+1901,stradivarius,55.0,milieu de gamme,25,99.99
+1902,stradivarius,75.0,milieu de gamme,25,99.99
+1903,stradivarius,60.0,milieu de gamme,25,99.99
+1904,stradivarius,25.0,milieu de gamme,25,99.99
+1905,stradivarius,55.0,milieu de gamme,25,99.99
+1906,stradivarius,35.0,milieu de gamme,25,99.99
+1907,stradivarius,36.0,milieu de gamme,25,99.99
+1908,stradivarius,50.0,milieu de gamme,25,99.99
+1909,stradivarius,49.0,milieu de gamme,25,99.99
+1910,stradivarius,27.0,milieu de gamme,25,99.99
+1911,stradivarius,30.0,milieu de gamme,25,99.99
+1912,stradivarius,33.0,milieu de gamme,25,99.99
+1913,stradivarius,30.0,milieu de gamme,25,99.99
+1914,stradivarius,25.0,milieu de gamme,25,99.99
+1915,stradivarius,39.97,milieu de gamme,25,99.99
+1916,stradivarius,32.0,milieu de gamme,25,99.99
+1917,stradivarius,40.0,milieu de gamme,25,99.99
+1918,stradivarius,45.0,milieu de gamme,25,99.99
+1919,stradivarius,35.0,milieu de gamme,25,99.99
+1920,stradivarius,32.0,milieu de gamme,25,99.99
+1921,stradivarius,32.0,milieu de gamme,25,99.99
+1922,stradivarius,58.0,milieu de gamme,25,99.99
+1923,stradivarius,45.0,milieu de gamme,25,99.99
+1924,stradivarius,22.0,milieu de gamme,25,99.99
+1925,stradivarius,50.0,milieu de gamme,25,99.99
+1926,stradivarius,29.09,milieu de gamme,25,99.99
+1927,stradivarius,45.0,milieu de gamme,25,99.99
+1928,stradivarius,20.0,milieu de gamme,25,99.99
+1929,stradivarius,30.0,milieu de gamme,25,99.99
+1930,stradivarius,35.0,milieu de gamme,25,99.99
+1931,stradivarius,26.05,milieu de gamme,25,99.99
+1932,stradivarius,37.07,milieu de gamme,25,99.99
+1933,stradivarius,22.0,milieu de gamme,25,99.99
+1934,stradivarius,43.94,milieu de gamme,25,99.99
+1935,bershka,33.0,entrée de gamme / mass market,25,50
+1936,bershka,45.0,entrée de gamme / mass market,25,50
+1937,bershka,30.0,entrée de gamme / mass market,25,50
+1938,bershka,21.0,entrée de gamme / mass market,25,50
+1939,bershka,21.5,entrée de gamme / mass market,25,50
+1940,bershka,47.03,entrée de gamme / mass market,25,50
+1941,bershka,56.1,entrée de gamme / mass market,25,50
+1942,bershka,35.0,entrée de gamme / mass market,25,50
+1943,bershka,38.0,entrée de gamme / mass market,25,50
+1944,bershka,25.0,entrée de gamme / mass market,25,50
+1945,bershka,35.0,entrée de gamme / mass market,25,50
+1946,bershka,55.0,entrée de gamme / mass market,25,50
+1947,bershka,53.0,entrée de gamme / mass market,25,50
+1948,bershka,16.0,entrée de gamme / mass market,25,50
+1949,bershka,30.0,entrée de gamme / mass market,25,50
+1950,bershka,38.0,entrée de gamme / mass market,25,50
+1951,bershka,30.0,entrée de gamme / mass market,25,50
+1952,bershka,63.24,entrée de gamme / mass market,25,50
+1953,bershka,25.0,entrée de gamme / mass market,25,50
+1954,bershka,60.0,entrée de gamme / mass market,25,50
+1955,bershka,40.0,entrée de gamme / mass market,25,50
+1956,bershka,29.39,entrée de gamme / mass market,25,50
+1957,bershka,17.0,entrée de gamme / mass market,25,50
+1958,bershka,25.0,entrée de gamme / mass market,25,50
+1959,bershka,30.0,entrée de gamme / mass market,25,50
+1960,bershka,35.0,entrée de gamme / mass market,25,50
+1961,bershka,50.0,entrée de gamme / mass market,25,50
+1962,bershka,22.0,entrée de gamme / mass market,25,50
+1963,bershka,28.0,entrée de gamme / mass market,25,50
+1964,bershka,25.0,entrée de gamme / mass market,25,50
+1965,bershka,35.0,entrée de gamme / mass market,25,50
+1966,bershka,30.0,entrée de gamme / mass market,25,50
+1967,bershka,19.0,entrée de gamme / mass market,25,50
+1968,bershka,30.0,entrée de gamme / mass market,25,50
+1969,bershka,52.0,entrée de gamme / mass market,25,50
+1970,bershka,135.0,entrée de gamme / mass market,25,50
+1971,bershka,36.0,entrée de gamme / mass market,25,50
+1972,bershka,20.0,entrée de gamme / mass market,25,50
+1973,bershka,25.86,entrée de gamme / mass market,25,50
+1974,bershka,20.0,entrée de gamme / mass market,25,50
+1975,bershka,35.0,entrée de gamme / mass market,25,50
+1976,bershka,24.0,entrée de gamme / mass market,25,50
+1977,bershka,26.0,entrée de gamme / mass market,25,50
+1978,bershka,36.0,entrée de gamme / mass market,25,50
+1979,bershka,55.1,entrée de gamme / mass market,25,50
+1980,bershka,35.0,entrée de gamme / mass market,25,50
+1981,bershka,25.0,entrée de gamme / mass market,25,50
+1982,bershka,25.0,entrée de gamme / mass market,25,50
+1983,bershka,32.0,entrée de gamme / mass market,25,50
+1984,bershka,44.26,entrée de gamme / mass market,25,50
+1985,bershka,39.0,entrée de gamme / mass market,25,50
+1986,bershka,75.0,entrée de gamme / mass market,25,50
+1987,bershka,75.88,entrée de gamme / mass market,25,50
+1988,bershka,60.0,entrée de gamme / mass market,25,50
+1989,bershka,57.8,entrée de gamme / mass market,25,50
+1990,bershka,55.0,entrée de gamme / mass market,25,50
+1991,bershka,101.18,entrée de gamme / mass market,25,50
+1992,bershka,101.18,entrée de gamme / mass market,25,50
+1993,bershka,41.83,entrée de gamme / mass market,25,50
+1994,bershka,23.04,entrée de gamme / mass market,25,50
+1995,bershka,25.0,entrée de gamme / mass market,25,50
+1996,bershka,30.0,entrée de gamme / mass market,25,50
+1997,bershka,18.82,entrée de gamme / mass market,25,50
+1998,bershka,20.0,entrée de gamme / mass market,25,50
+1999,bershka,25.0,entrée de gamme / mass market,25,50
+2000,bershka,17.0,entrée de gamme / mass market,25,50
+2001,bershka,25.0,entrée de gamme / mass market,25,50
+2002,bershka,24.0,entrée de gamme / mass market,25,50
+2003,bershka,22.0,entrée de gamme / mass market,25,50
+2004,bershka,33.0,entrée de gamme / mass market,25,50
+2005,bershka,30.0,entrée de gamme / mass market,25,50
+2006,bershka,20.0,entrée de gamme / mass market,25,50
+2007,bershka,36.0,entrée de gamme / mass market,25,50
+2008,bershka,35.0,entrée de gamme / mass market,25,50
+2009,bershka,20.0,entrée de gamme / mass market,25,50
+2010,bershka,25.0,entrée de gamme / mass market,25,50
+2011,bershka,36.0,entrée de gamme / mass market,25,50
+2012,bershka,27.0,entrée de gamme / mass market,25,50
+2013,bershka,20.0,entrée de gamme / mass market,25,50
+2014,bershka,25.0,entrée de gamme / mass market,25,50
+2015,bershka,22.0,entrée de gamme / mass market,25,50
+2016,bershka,25.0,entrée de gamme / mass market,25,50
+2017,bershka,20.0,entrée de gamme / mass market,25,50
+2018,bershka,34.0,entrée de gamme / mass market,25,50
+2019,bershka,25.0,entrée de gamme / mass market,25,50
+2020,bershka,29.0,entrée de gamme / mass market,25,50
+2021,bershka,30.0,entrée de gamme / mass market,25,50
+2022,bershka,55.0,entrée de gamme / mass market,25,50
+2023,bershka,25.0,entrée de gamme / mass market,25,50
+2024,bershka,25.0,entrée de gamme / mass market,25,50
+2025,bershka,22.0,entrée de gamme / mass market,25,50
+2026,bershka,25.0,entrée de gamme / mass market,25,50
+2027,bershka,30.0,entrée de gamme / mass market,25,50
+2028,bershka,18.0,entrée de gamme / mass market,25,50
+2029,bershka,20.0,entrée de gamme / mass market,25,50
+2030,bershka,18.0,entrée de gamme / mass market,25,50
+2031,bershka,45.0,entrée de gamme / mass market,25,50
+2032,bershka,26.0,entrée de gamme / mass market,25,50
+2033,bershka,30.0,entrée de gamme / mass market,25,50
+2034,bershka,20.0,entrée de gamme / mass market,25,50
+2035,bershka,24.0,entrée de gamme / mass market,25,50
+2036,bershka,35.0,entrée de gamme / mass market,25,50
+2037,bershka,24.0,entrée de gamme / mass market,25,50
+2038,bershka,20.0,entrée de gamme / mass market,25,50
+2039,bershka,25.0,entrée de gamme / mass market,25,50
+2040,bershka,36.0,entrée de gamme / mass market,25,50
+2041,bershka,25.0,entrée de gamme / mass market,25,50
+2042,bershka,20.0,entrée de gamme / mass market,25,50
+2043,bershka,25.0,entrée de gamme / mass market,25,50
+2044,bershka,24.0,entrée de gamme / mass market,25,50
+2045,bershka,25.0,entrée de gamme / mass market,25,50
+2046,bershka,25.0,entrée de gamme / mass market,25,50
+2047,bershka,24.0,entrée de gamme / mass market,25,50
+2048,bershka,19.0,entrée de gamme / mass market,25,50
+2049,bershka,20.0,entrée de gamme / mass market,25,50
+2050,bershka,80.0,entrée de gamme / mass market,25,50
+2051,bershka,23.0,entrée de gamme / mass market,25,50
+2052,bershka,40.0,entrée de gamme / mass market,25,50
+2053,bershka,31.0,entrée de gamme / mass market,25,50
+2054,bershka,16.0,entrée de gamme / mass market,25,50
+2055,bershka,25.0,entrée de gamme / mass market,25,50
+2056,bershka,18.0,entrée de gamme / mass market,25,50
+2057,bershka,40.0,entrée de gamme / mass market,25,50
+2058,bershka,25.0,entrée de gamme / mass market,25,50
+2059,bershka,25.0,entrée de gamme / mass market,25,50
+2060,bershka,40.0,entrée de gamme / mass market,25,50
+2061,bershka,30.0,entrée de gamme / mass market,25,50
+2062,bershka,25.0,entrée de gamme / mass market,25,50
+2063,bershka,17.0,entrée de gamme / mass market,25,50
+2064,bershka,30.0,entrée de gamme / mass market,25,50
+2065,bershka,45.0,entrée de gamme / mass market,25,50
+2066,bershka,20.0,entrée de gamme / mass market,25,50
+2067,bershka,40.0,entrée de gamme / mass market,25,50
+2068,bershka,26.0,entrée de gamme / mass market,25,50
+2069,bershka,21.0,entrée de gamme / mass market,25,50
+2070,bershka,20.0,entrée de gamme / mass market,25,50
+2071,bershka,35.0,entrée de gamme / mass market,25,50
+2072,bershka,18.0,entrée de gamme / mass market,25,50
+2073,bershka,28.05,entrée de gamme / mass market,25,50
+2074,bershka,30.0,entrée de gamme / mass market,25,50
+2075,bershka,20.0,entrée de gamme / mass market,25,50
+2076,bershka,23.04,entrée de gamme / mass market,25,50
+2077,bershka,80.0,entrée de gamme / mass market,25,50
+2078,bershka,25.0,entrée de gamme / mass market,25,50
+2079,bershka,35.0,entrée de gamme / mass market,25,50
+2080,bershka,18.0,entrée de gamme / mass market,25,50
+2081,bershka,22.0,entrée de gamme / mass market,25,50
+2082,bershka,35.0,entrée de gamme / mass market,25,50
+2083,bershka,33.0,entrée de gamme / mass market,25,50
+2084,bershka,40.0,entrée de gamme / mass market,25,50
+2085,bershka,67.0,entrée de gamme / mass market,25,50
+2086,bershka,27.0,entrée de gamme / mass market,25,50
+2087,bershka,27.0,entrée de gamme / mass market,25,50
+2088,bershka,20.0,entrée de gamme / mass market,25,50
+2089,bershka,25.0,entrée de gamme / mass market,25,50
+2090,bershka,50.0,entrée de gamme / mass market,25,50
+2091,bershka,20.0,entrée de gamme / mass market,25,50
+2092,bershka,45.0,entrée de gamme / mass market,25,50
+2093,bershka,35.0,entrée de gamme / mass market,25,50
+2094,bershka,24.03,entrée de gamme / mass market,25,50
+2095,bershka,37.94,entrée de gamme / mass market,25,50
+2096,bershka,55.0,entrée de gamme / mass market,25,50
+2097,bershka,30.0,entrée de gamme / mass market,25,50
+2098,bershka,24.0,entrée de gamme / mass market,25,50
+2099,bershka,25.0,entrée de gamme / mass market,25,50
+2100,bershka,35.0,entrée de gamme / mass market,25,50
+2101,bershka,28.0,entrée de gamme / mass market,25,50
+2102,bershka,25.0,entrée de gamme / mass market,25,50
+2103,bershka,28.0,entrée de gamme / mass market,25,50
+2104,bershka,19.0,entrée de gamme / mass market,25,50
+2105,bershka,25.0,entrée de gamme / mass market,25,50
+2106,bershka,30.06,entrée de gamme / mass market,25,50
+2107,bershka,21.0,entrée de gamme / mass market,25,50
+2108,bershka,35.0,entrée de gamme / mass market,25,50
+2109,bershka,24.0,entrée de gamme / mass market,25,50
+2110,bershka,40.0,entrée de gamme / mass market,25,50
+2111,bershka,25.29,entrée de gamme / mass market,25,50
+2112,bershka,21.0,entrée de gamme / mass market,25,50
+2113,bershka,45.0,entrée de gamme / mass market,25,50
+2114,bershka,35.0,entrée de gamme / mass market,25,50
+2115,bershka,35.0,entrée de gamme / mass market,25,50
+2116,bershka,50.0,entrée de gamme / mass market,25,50
+2117,bershka,22.0,entrée de gamme / mass market,25,50
+2118,bershka,29.0,entrée de gamme / mass market,25,50
+2119,bershka,27.0,entrée de gamme / mass market,25,50
+2120,bershka,45.0,entrée de gamme / mass market,25,50
+2121,bershka,54.38,entrée de gamme / mass market,25,50
+2122,bershka,30.0,entrée de gamme / mass market,25,50
+2123,bershka,25.0,entrée de gamme / mass market,25,50
+2124,bershka,60.0,entrée de gamme / mass market,25,50
+2125,bershka,45.0,entrée de gamme / mass market,25,50
+2126,bershka,24.0,entrée de gamme / mass market,25,50
+2127,bershka,25.0,entrée de gamme / mass market,25,50
+2128,bershka,30.0,entrée de gamme / mass market,25,50
+2129,bershka,25.0,entrée de gamme / mass market,25,50
+2130,bershka,95.0,entrée de gamme / mass market,25,50
+2131,bershka,22.0,entrée de gamme / mass market,25,50
+2132,bershka,25.0,entrée de gamme / mass market,25,50
+2133,bershka,32.0,entrée de gamme / mass market,25,50
+2134,bershka,22.0,entrée de gamme / mass market,25,50
+2135,bershka,25.0,entrée de gamme / mass market,25,50
+2136,bershka,26.0,entrée de gamme / mass market,25,50
+2137,bershka,40.0,entrée de gamme / mass market,25,50
+2138,bershka,45.0,entrée de gamme / mass market,25,50
+2139,bershka,32.88,entrée de gamme / mass market,25,50
+2140,bershka,21.0,entrée de gamme / mass market,25,50
+2141,bershka,25.0,entrée de gamme / mass market,25,50
+2142,bershka,20.0,entrée de gamme / mass market,25,50
+2143,bershka,65.0,entrée de gamme / mass market,25,50
+2144,bershka,27.0,entrée de gamme / mass market,25,50
+2145,bershka,27.0,entrée de gamme / mass market,25,50
+2146,bershka,26.56,entrée de gamme / mass market,25,50
+2147,bershka,30.0,entrée de gamme / mass market,25,50
+2148,bershka,35.0,entrée de gamme / mass market,25,50
+2149,bershka,18.0,entrée de gamme / mass market,25,50
+2150,bershka,36.0,entrée de gamme / mass market,25,50
+2151,bershka,30.0,entrée de gamme / mass market,25,50
+2152,bershka,40.0,entrée de gamme / mass market,25,50
+2153,bershka,32.0,entrée de gamme / mass market,25,50
+2154,bershka,35.0,entrée de gamme / mass market,25,50
+2155,bershka,37.0,entrée de gamme / mass market,25,50
+2156,bershka,48.06,entrée de gamme / mass market,25,50
+2157,bershka,40.0,entrée de gamme / mass market,25,50
+2158,bershka,50.0,entrée de gamme / mass market,25,50
+2159,bershka,29.05,entrée de gamme / mass market,25,50
+2160,bershka,24.0,entrée de gamme / mass market,25,50
+2161,bershka,25.0,entrée de gamme / mass market,25,50
+2162,bershka,30.0,entrée de gamme / mass market,25,50
+2163,bershka,30.0,entrée de gamme / mass market,25,50
+2164,bershka,23.0,entrée de gamme / mass market,25,50
+2165,bershka,30.0,entrée de gamme / mass market,25,50
+2166,bershka,22.0,entrée de gamme / mass market,25,50
+2167,bershka,38.0,entrée de gamme / mass market,25,50
+2168,bershka,30.0,entrée de gamme / mass market,25,50
+2169,bershka,88.53,entrée de gamme / mass market,25,50
+2170,bershka,57.0,entrée de gamme / mass market,25,50
+2171,bershka,30.0,entrée de gamme / mass market,25,50
+2172,bershka,62.0,entrée de gamme / mass market,25,50
+2173,bershka,27.0,entrée de gamme / mass market,25,50
+2174,bershka,21.0,entrée de gamme / mass market,25,50
+2175,bershka,40.0,entrée de gamme / mass market,25,50
+2176,bershka,45.0,entrée de gamme / mass market,25,50
+2177,bershka,35.0,entrée de gamme / mass market,25,50
+2178,bershka,28.9,entrée de gamme / mass market,25,50
+2179,bershka,45.0,entrée de gamme / mass market,25,50
+2180,bershka,50.0,entrée de gamme / mass market,25,50
+2181,bershka,43.0,entrée de gamme / mass market,25,50
+2182,bershka,30.0,entrée de gamme / mass market,25,50
+2183,bershka,33.0,entrée de gamme / mass market,25,50
+2184,bershka,39.0,entrée de gamme / mass market,25,50
+2185,bershka,35.0,entrée de gamme / mass market,25,50
+2186,bershka,300.0,entrée de gamme / mass market,25,50
+2187,bershka,45.0,entrée de gamme / mass market,25,50
+2188,bershka,35.41,entrée de gamme / mass market,25,50
+2189,bershka,39.0,entrée de gamme / mass market,25,50
+2190,bershka,59.0,entrée de gamme / mass market,25,50
+2191,bershka,60.0,entrée de gamme / mass market,25,50
+2192,bershka,40.0,entrée de gamme / mass market,25,50
+2193,bershka,30.0,entrée de gamme / mass market,25,50
+2194,bershka,46.0,entrée de gamme / mass market,25,50
+2195,bershka,35.0,entrée de gamme / mass market,25,50
+2196,bershka,39.0,entrée de gamme / mass market,25,50
+2197,bershka,32.92,entrée de gamme / mass market,25,50
+2198,bershka,49.0,entrée de gamme / mass market,25,50
+2199,bershka,45.0,entrée de gamme / mass market,25,50
+2200,bershka,26.14,entrée de gamme / mass market,25,50
+2201,bershka,25.53,entrée de gamme / mass market,25,50
+2202,bershka,26.14,entrée de gamme / mass market,25,50
+2203,bershka,37.65,entrée de gamme / mass market,25,50
+2204,bershka,24.0,entrée de gamme / mass market,25,50
+2205,bershka,19.87,entrée de gamme / mass market,25,50
+2206,bershka,25.0,entrée de gamme / mass market,25,50
+2207,bershka,41.83,entrée de gamme / mass market,25,50
+2208,bershka,26.14,entrée de gamme / mass market,25,50
+2209,bershka,20.91,entrée de gamme / mass market,25,50
+2210,bershka,52.29,entrée de gamme / mass market,25,50
+2211,bershka,25.53,entrée de gamme / mass market,25,50
+2212,chanel,1500.0,luxe & création,/,/
+2213,chanel,719.0,luxe & création,/,/
+2214,chanel,1555.0,luxe & création,/,/
+2215,chanel,3990.0,luxe & création,/,/
+2216,chanel,3570.94,luxe & création,/,/
+2217,chanel,2500.0,luxe & création,/,/
+2218,chanel,1450.0,luxe & création,/,/
+2219,chanel,4850.0,luxe & création,/,/
+2220,chanel,2400.0,luxe & création,/,/
+2221,chanel,1346.91,luxe & création,/,/
+2222,chanel,6829.41,luxe & création,/,/
+2223,chanel,2466.18,luxe & création,/,/
+2224,chanel,4990.0,luxe & création,/,/
+2225,chanel,995.0,luxe & création,/,/
+2226,chanel,1800.0,luxe & création,/,/
+2227,chanel,9450.0,luxe & création,/,/
+2228,chanel,2500.0,luxe & création,/,/
+2229,chanel,1897.06,luxe & création,/,/
+2230,chanel,2299.0,luxe & création,/,/
+2231,chanel,2750.0,luxe & création,/,/
+2232,chanel,3730.88,luxe & création,/,/
+2233,chanel,1339.1,luxe & création,/,/
+2234,chanel,2500.0,luxe & création,/,/
+2235,chanel,3999.0,luxe & création,/,/
+2236,chanel,4110.29,luxe & création,/,/
+2237,chanel,2200.0,luxe & création,/,/
+2238,chanel,1037.06,luxe & création,/,/
+2239,chanel,4380.0,luxe & création,/,/
+2240,chanel,1990.0,luxe & création,/,/
+2241,chanel,1500.0,luxe & création,/,/
+2242,chanel,3100.0,luxe & création,/,/
+2243,chanel,13595.59,luxe & création,/,/
+2244,chanel,1390.0,luxe & création,/,/
+2245,chanel,4500.0,luxe & création,/,/
+2246,chanel,4500.0,luxe & création,/,/
+2247,chanel,1500.0,luxe & création,/,/
+2248,chanel,1200.0,luxe & création,/,/
+2249,chanel,2500.0,luxe & création,/,/
+2250,chanel,3350.0,luxe & création,/,/
+2251,chanel,1750.0,luxe & création,/,/
+2252,chanel,2100.0,luxe & création,/,/
+2253,chanel,4742.65,luxe & création,/,/
+2254,chanel,1201.47,luxe & création,/,/
+2255,chanel,5850.0,luxe & création,/,/
+2256,chanel,995.0,luxe & création,/,/
+2257,chanel,1965.0,luxe & création,/,/
+2258,chanel,4426.47,luxe & création,/,/
+2259,chanel,3250.0,luxe & création,/,/
+2260,chanel,8750.0,luxe & création,/,/
+2261,chanel,990.0,luxe & création,/,/
+2262,chanel,1200.0,luxe & création,/,/
+2263,chanel,2645.0,luxe & création,/,/
+2264,chanel,1800.0,luxe & création,/,/
+2265,chanel,1290.0,luxe & création,/,/
+2266,chanel,1750.0,luxe & création,/,/
+2267,chanel,5500.0,luxe & création,/,/
+2268,chanel,1100.0,luxe & création,/,/
+2269,chanel,948.53,luxe & création,/,/
+2270,chanel,809.41,luxe & création,/,/
+2271,chanel,1495.0,luxe & création,/,/
+2272,chanel,4500.0,luxe & création,/,/
+2273,chanel,1800.0,luxe & création,/,/
+2274,chanel,3200.0,luxe & création,/,/
+2275,chanel,655.0,luxe & création,/,/
+2276,chanel,1800.0,luxe & création,/,/
+2277,chanel,1200.0,luxe & création,/,/
+2278,chanel,1449.0,luxe & création,/,/
+2279,chanel,1200.0,luxe & création,/,/
+2280,chanel,7500.0,luxe & création,/,/
+2281,chanel,6400.0,luxe & création,/,/
+2282,chanel,2070.0,luxe & création,/,/
+2283,chanel,1850.0,luxe & création,/,/
+2284,chanel,2600.0,luxe & création,/,/
+2285,chanel,1580.88,luxe & création,/,/
+2286,chanel,2000.0,luxe & création,/,/
+2287,chanel,6670.0,luxe & création,/,/
+2288,chanel,1200.0,luxe & création,/,/
+2289,chanel,3550.0,luxe & création,/,/
+2290,chanel,1000.0,luxe & création,/,/
+2291,chanel,3220.0,luxe & création,/,/
+2292,chanel,995.0,luxe & création,/,/
+2293,chanel,1201.47,luxe & création,/,/
+2294,chanel,1500.0,luxe & création,/,/
+2295,chanel,1897.06,luxe & création,/,/
+2296,chanel,1900.0,luxe & création,/,/
+2297,chanel,800.0,luxe & création,/,/
+2298,chanel,1186.0,luxe & création,/,/
+2299,chanel,3200.0,luxe & création,/,/
+2300,chanel,5175.0,luxe & création,/,/
+2301,chanel,1300.0,luxe & création,/,/
+2302,chanel,2495.0,luxe & création,/,/
+2303,chanel,4200.0,luxe & création,/,/
+2304,chanel,3480.0,luxe & création,/,/
+2305,chanel,3999.0,luxe & création,/,/
+2306,chanel,803.32,luxe & création,/,/
+2307,chanel,1653.08,luxe & création,/,/
+2308,chanel,1200.0,luxe & création,/,/
+2309,chanel,4808.95,luxe & création,/,/
+2310,chanel,5660.25,luxe & création,/,/
+2311,chanel,4207.83,luxe & création,/,/
+2312,chanel,6211.56,luxe & création,/,/
+2313,chanel,9517.71,luxe & création,/,/
+2314,chanel,1839.42,luxe & création,/,/
+2315,chanel,9517.71,luxe & création,/,/
+2316,chanel,1802.35,luxe & création,/,/
+2317,chanel,1602.98,luxe & création,/,/
+2318,chanel,8650.0,luxe & création,/,/
+2319,chanel,1752.26,luxe & création,/,/
+2320,chanel,4525.01,luxe & création,/,/
+2321,chanel,2855.31,luxe & création,/,/
+2322,chanel,2204.1,luxe & création,/,/
+2323,chanel,3857.18,luxe & création,/,/
+2324,chanel,1918.57,luxe & création,/,/
+2325,chanel,851.58,luxe & création,/,/
+2326,chanel,3296.13,luxe & création,/,/
+2327,chanel,4207.83,luxe & création,/,/
+2328,chanel,1447.69,luxe & création,/,/
+2329,chanel,4508.39,luxe & création,/,/
+2330,chanel,2253.19,luxe & création,/,/
+2331,chanel,3997.44,luxe & création,/,/
+2332,chanel,2264.21,luxe & création,/,/
+2333,chanel,2303.29,luxe & création,/,/
+2334,chanel,664.03,luxe & création,/,/
+2335,chanel,4600.0,luxe & création,/,/
+2336,chanel,1252.33,luxe & création,/,/
+2337,chanel,1882.0,luxe & création,/,/
+2338,chanel,2204.1,luxe & création,/,/
+2339,chanel,3705.89,luxe & création,/,/
+2340,chanel,1224.28,luxe & création,/,/
+2341,chanel,7513.98,luxe & création,/,/
+2342,chanel,2755.13,luxe & création,/,/
+2343,chanel,7513.98,luxe & création,/,/
+2344,chanel,1746.25,luxe & création,/,/
+2345,chanel,2072.86,luxe & création,/,/
+2346,chanel,2191.08,luxe & création,/,/
+2347,chanel,2804.22,luxe & création,/,/
+2348,chanel,2805.22,luxe & création,/,/
+2349,chanel,1336.49,luxe & création,/,/
+2350,chanel,901.68,luxe & création,/,/
+2351,chanel,4758.85,luxe & création,/,/
+2352,chanel,2254.19,luxe & création,/,/
+2353,chanel,1903.54,luxe & création,/,/
+2354,chanel,7170.01,luxe & création,/,/
+2355,chanel,2783.57,luxe & création,/,/
+2356,chanel,1102.05,luxe & création,/,/
+2357,chanel,4207.83,luxe & création,/,/
+2358,chanel,3205.96,luxe & création,/,/
+2359,chanel,1497.79,luxe & création,/,/
+2360,chanel,1217.26,luxe & création,/,/
+2361,chanel,2611.0,luxe & création,/,/
+2362,chanel,1803.36,luxe & création,/,/
+2363,chanel,2905.41,luxe & création,/,/
+2364,chanel,2709.0,luxe & création,/,/
+2365,chanel,1753.26,luxe & création,/,/
+2366,chanel,1452.7,luxe & création,/,/
+2367,chanel,750.0,luxe & création,/,/
+2368,chanel,1050.0,luxe & création,/,/
+2369,chanel,4207.83,luxe & création,/,/
+2370,chanel,2995.57,luxe & création,/,/
+2371,chanel,3014.0,luxe & création,/,/
+2372,chanel,2855.0,luxe & création,/,/
+2373,chanel,1995.0,luxe & création,/,/
+2374,chanel,1138.24,luxe & création,/,/
+2375,chanel,590.0,luxe & création,/,/
+2376,chanel,1884.41,luxe & création,/,/
+2377,chanel,2451.0,luxe & création,/,/
+2378,chanel,590.0,luxe & création,/,/
+2379,chanel,1790.0,luxe & création,/,/
+2380,chanel,3161.76,luxe & création,/,/
+2381,chanel,1011.76,luxe & création,/,/
+2382,chanel,1264.71,luxe & création,/,/
+2383,chanel,2900.0,luxe & création,/,/
+2384,chanel,550.0,luxe & création,/,/
+2385,chanel,2782.35,luxe & création,/,/
+2386,chanel,1378.53,luxe & création,/,/
+2387,chanel,695.0,luxe & création,/,/
+2388,chanel,2790.0,luxe & création,/,/
+2389,chanel,2401.68,luxe & création,/,/
+2390,chanel,1950.0,luxe & création,/,/
+2391,chanel,1214.12,luxe & création,/,/
+2392,chanel,1480.0,luxe & création,/,/
+2393,chanel,1290.0,luxe & création,/,/
+2394,chanel,2200.0,luxe & création,/,/
+2395,chanel,2231.84,luxe & création,/,/
+2396,chanel,1200.0,luxe & création,/,/
+2397,chanel,1790.0,luxe & création,/,/
+2398,chanel,4800.0,luxe & création,/,/
+2399,chanel,385.0,luxe & création,/,/
+2400,chanel,4500.0,luxe & création,/,/
+2401,chanel,2300.0,luxe & création,/,/
+2402,chanel,1650.0,luxe & création,/,/
+2403,chanel,990.0,luxe & création,/,/
+2404,chanel,1290.0,luxe & création,/,/
+2405,chanel,800.0,luxe & création,/,/
+2406,chanel,785.0,luxe & création,/,/
+2407,chanel,1490.0,luxe & création,/,/
+2408,chanel,975.0,luxe & création,/,/
+2409,chanel,3375.0,luxe & création,/,/
+2410,chanel,948.53,luxe & création,/,/
+2411,chanel,999.0,luxe & création,/,/
+2412,chanel,7000.0,luxe & création,/,/
+2413,chanel,885.29,luxe & création,/,/
+2414,chanel,2800.0,luxe & création,/,/
+2415,chanel,4945.0,luxe & création,/,/
+2416,chanel,800.0,luxe & création,/,/
+2417,chanel,1577.0,luxe & création,/,/
+2418,chanel,600.0,luxe & création,/,/
+2419,chanel,1200.0,luxe & création,/,/
+2420,chanel,1295.0,luxe & création,/,/
+2421,chanel,1589.0,luxe & création,/,/
+2422,chanel,1765.0,luxe & création,/,/
+2423,chanel,2950.0,luxe & création,/,/
+2424,chanel,1200.0,luxe & création,/,/
+2425,chanel,2095.0,luxe & création,/,/
+2426,chanel,5000.0,luxe & création,/,/
+2427,chanel,1600.0,luxe & création,/,/
+2428,chanel,2450.0,luxe & création,/,/
+2429,chanel,809.41,luxe & création,/,/
+2430,chanel,2000.0,luxe & création,/,/
+2431,chanel,4350.0,luxe & création,/,/
+2432,chanel,980.0,luxe & création,/,/
+2433,chanel,2850.0,luxe & création,/,/
+2434,chanel,1900.0,luxe & création,/,/
+2435,chanel,4500.0,luxe & création,/,/
+2436,chanel,5175.0,luxe & création,/,/
+2437,chanel,1890.0,luxe & création,/,/
+2438,chanel,5850.0,luxe & création,/,/
+2439,chanel,3100.0,luxe & création,/,/
+2440,chanel,1556.9,luxe & création,/,/
+2441,chanel,3004.59,luxe & création,/,/
+2442,chanel,1532.85,luxe & création,/,/
+2443,chanel,1653.08,luxe & création,/,/
+2444,chanel,1885.51,luxe & création,/,/
+2445,chanel,1728.22,luxe & création,/,/
+2446,chanel,1798.35,luxe & création,/,/
+2447,chanel,1645.06,luxe & création,/,/
+2448,chanel,1597.97,luxe & création,/,/
+2449,chanel,2343.32,luxe & création,/,/
+2450,chanel,1977.68,luxe & création,/,/
+2451,chanel,900.68,luxe & création,/,/
+2452,chanel,2103.91,luxe & création,/,/
+2453,chanel,1518.91,luxe & création,/,/
+2454,chanel,500.93,luxe & création,/,/
+2455,chanel,3318.3,luxe & création,/,/
+2456,chanel,1823.39,luxe & création,/,/
+2457,chanel,950.77,luxe & création,/,/
+2458,chanel,779.45,luxe & création,/,/
+2459,chanel,1653.08,luxe & création,/,/
+2460,chanel,2949.49,luxe & création,/,/
+2461,chanel,4002.45,luxe & création,/,/
+2462,chanel,13525.16,luxe & création,/,/
+2463,chanel,1354.52,luxe & création,/,/
+2464,chanel,1768.29,luxe & création,/,/
+2465,chanel,801.49,luxe & création,/,/
+2466,chanel,5073.16,luxe & création,/,/
+2467,chanel,2274.23,luxe & création,/,/
+2468,chanel,2259.2,luxe & création,/,/
+2469,chanel,6487.07,luxe & création,/,/
+2470,chanel,3723.71,luxe & création,/,/
+2471,chanel,1337.49,luxe & création,/,/
+2472,chanel,5710.62,luxe & création,/,/
+2473,chanel,2254.12,luxe & création,/,/
+2474,chanel,8270.21,luxe & création,/,/
+2475,chanel,2226.14,luxe & création,/,/
+2476,chanel,795.58,luxe & création,/,/
+2477,chanel,1802.35,luxe & création,/,/
+2478,chanel,1302.42,luxe & création,/,/
+2479,chanel,1497.79,luxe & création,/,/
+2480,chanel,1993.71,luxe & création,/,/
+2481,chanel,2154.01,luxe & création,/,/
+2482,chanel,651.21,luxe & création,/,/
+2483,chanel,1595.97,luxe & création,/,/
+2484,chanel,7513.98,luxe & création,/,/
+2485,chanel,1312.44,luxe & création,/,/
+2486,chanel,2704.03,luxe & création,/,/
+2487,chanel,1556.9,luxe & création,/,/
+2488,chanel,1898.53,luxe & création,/,/
+2489,chanel,996.85,luxe & création,/,/
+2490,chanel,2990.0,luxe & création,/,/
+2491,chanel,1898.53,luxe & création,/,/
+2492,chanel,2185.07,luxe & création,/,/
+2493,chanel,1597.97,luxe & création,/,/
+2494,chanel,2499.65,luxe & création,/,/
+2495,chanel,1700.16,luxe & création,/,/
+2496,chanel,1164.17,luxe & création,/,/
+2497,chanel,1171.18,luxe & création,/,/
+2498,chanel,948.77,luxe & création,/,/
+2499,chanel,1001.86,luxe & création,/,/
+2500,chanel,1853.45,luxe & création,/,/
+2501,chanel,3528.88,luxe & création,/,/
+2502,chanel,821.53,luxe & création,/,/
+2503,chanel,3756.09,luxe & création,/,/
+2504,chanel,2850.0,luxe & création,/,/
+2505,chanel,14527.03,luxe & création,/,/
+2506,chanel,3063.04,luxe & création,/,/
+2507,chanel,8916.59,luxe & création,/,/
+2508,chanel,713.33,luxe & création,/,/
+2509,chanel,1980.0,luxe & création,/,/
+2510,chanel,1500.0,luxe & création,/,/
+2511,chanel,10500.0,luxe & création,/,/
+2512,chanel,1000.0,luxe & création,/,/

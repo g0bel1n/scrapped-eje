@@ -2,7 +2,7 @@ __pychache__
 *.pyc
 .DS_Store
 .*
-*.csv
+src/scrapping/*/article_scrapping/*.csv
 *.png
 *.xlsx
 src/client_secrets.json
