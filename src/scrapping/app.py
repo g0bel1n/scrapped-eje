@@ -8,7 +8,6 @@ st.markdown("<h1 align = center> Support interactif </h1> ", unsafe_allow_html=T
 st.markdown("<h2 align = center> EJE x FHCM </h2> ", unsafe_allow_html=True)
 
 
-
 category_orders = {
     "Niveau de prix": [
         "Discount",
@@ -52,18 +51,20 @@ with st.sidebar:
         st.write("Vers 1, le prix neuf estimé est le prix maximum trouvé en ligne.")
         st.write("A 0, c'est le prix minimum.")
         x_s = {
-            cat: st.slider(cat, min_value=0.0, max_value=1.0, value=0.5, step=0.1,key=cat)
+            cat: st.slider(
+                cat, min_value=0.0, max_value=1.0, value=0.5, step=0.1, key=cat
+            )
             for cat in categories
         }
 
-        
+
 website = "vestco" if website == "Vestiaire collective" else website
 df = pd.read_csv(
     f"src/scrapping/{website}/focus/focus_{website}_{option.lower().split(' ')[-1]}.csv"
 )
 df = df[~(df["max"] == "/")]
-df['max'] = df['max'].astype(float)
-df['min'] = df['min'].astype(float)
+df["max"] = df["max"].astype(float)
+df["min"] = df["min"].astype(float)
 
 df["prix neuf"] = df.apply(
     lambda x: (
@@ -74,7 +75,7 @@ df["prix neuf"] = df.apply(
 )
 df["Valeur résiduelle"] = df["prix"] / df["prix neuf"]
 
-df = df[df['Valeur résiduelle']<1.]
+df = df[df["Valeur résiduelle"] < 1.0]
 fig = px.histogram(
     data_frame=df,
     y="Valeur résiduelle",
@@ -96,3 +97,13 @@ fig1 = px.scatter(
 )
 with st.expander("Valeur résiduelle en fonction du prix de revente"):
     st.plotly_chart(fig1, use_container_width=True)
+
+
+df_incidence = pd.read_csv(
+    f"src/scrapping/{website}/incidence/incidence_{website}_{option.lower().split(' ')[-1]}.csv"
+)
+
+from PIL import Image
+img = Image.open(f"src/scrapping/{website}/incidence/incidence_{website}_{option.lower().split(' ')[-1]}.png")
+with st.expander("Incidence"):
+    st.image(img)
