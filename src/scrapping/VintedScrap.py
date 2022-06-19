@@ -52,11 +52,13 @@ def main():
     n = runVintedScrapping(n=args.n, query=args.s, filename=args.fn, spec_url=args.url)
     duration = time.time() - start
     logger.info(
-        f'Scrapped {n} items in {duration/60.} minutes. ({str(duration/n).split(".")[0]} seconds per it)'
+        f'Scrapped {n} items in {     duration/60.} minutes. ({str(duration/n).split(".")[0]} seconds per it)'
     )
 
 
-def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
+def runVintedScrapping(
+    n: int, query: str, filename: str, spec_url: str, save: bool = True
+):
 
     driver = webdriver.Chrome()
 
@@ -75,7 +77,8 @@ def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
         "AJOUTÉ",
     ]
     data = {
-        colName: [] for colName in colsInDetailsList + ["nom", "prix", "description"]
+        colName: []
+        for colName in colsInDetailsList + ["nom", "prix", "description", "url"]
     }
 
     with tqdm(total=n, desc="Scrapping", ascii="░▒█") as bbar:
@@ -84,6 +87,8 @@ def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
                 by=By.CSS_SELECTOR, value="div.ItemBox_image__3BPYe [href]"
             )
             links = [elem.get_attribute("href") for elem in elements]
+            if not len(links):
+                break
             for link in links:
                 bbar.update(1)
                 driver.get(link)
@@ -115,6 +120,9 @@ def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
                         by=By.XPATH, value="//div[@itemprop='description']"
                     ).text
                 )
+
+                data["url"].append(link)
+
                 if len(data["MARQUE"]) > n:
                     break
 
@@ -125,6 +133,10 @@ def runVintedScrapping(n: int, query: str, filename: str, spec_url: str):
 
     df = pd.DataFrame(data)
     preprocessing(df)
+
+    if not save:
+        return df
+
     df.to_csv(f"./scrapped/data/raw/{query.replace('%20','_')}.csv")
     return len(data["description"])
 

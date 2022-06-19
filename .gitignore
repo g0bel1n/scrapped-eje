@@ -2,3 +2,8 @@ __pychache__
 *.pyc
 .DS_Store
 .*
+*.csv
+*.png
+*.xlsx
+src/client_secrets.json
+chromedriver
